@@ -52,10 +52,10 @@ Completing this certificate in **April 2024** has added a crucial layer to my pr
 
 ---
 
-## ✅ ADCA – Advanced Diploma in Computer Application (Skill Course, Oct 2024)
+## ✅ ADCA – Advance Diploma in Computer Application (Skill Course, Oct 2024)
 
 I successfully completed the **ADCA** through the same trusted *Skill Course* online e-learning platform, guided under the expert mentorship of **Mr. Satish Dhawale Sir**, the Founder and CEO, who designed the curriculum to bridge academic learning with real-world industry needs.
-This professional **Advanced Diploma in Computer Applications (ADCA)** certificate marks a major milestone in broadening and deepening my technical and practical software skills.  
+This professional **Advance Diploma in Computer Applications (ADCA)** certificate marks a major milestone in broadening and deepening my technical and practical software skills.  
 
 This extensive program provided me with well-rounded knowledge across multiple essential areas, including **operating systems, computer fundamentals**, and core Microsoft Office applications like **MS Word, Excel, PowerPoint, Access, Outlook**, and **Publisher** — all crucial tools for everyday professional productivity.  
 The course also included advanced accounting software training with **Tally Prime** and cloud-based spreadsheets using **Google Sheets**, boosting my efficiency and accuracy in data handling and financial tasks.
