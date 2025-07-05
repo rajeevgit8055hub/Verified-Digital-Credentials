@@ -37,11 +37,11 @@ Successfully completing the CCC in **June 2023** remains a proud milestone for m
 ## ✅ Tally Prime with GST (Skill Course, Apr 2024)
 
 
-I earned this certificate through a dedicated **Skill Course** on the *Skill Course* online e-learning platform founded by **Mr. Satish Dhawale**, the Founder and CEO, who personally designed and guided the entire curriculum to ensure real industry relevance.
+I earned this certificate through a dedicated **Skill Course** on the *Skill Course* online e-learning platform founded by **Mr. Satish Dhawale Sir**, the Founder and CEO, who personally designed and guided the entire curriculum to ensure real industry relevance.
 
 This practical, hands-on course gave me in-depth knowledge of core accounting principles — covering everything from **basic bookkeeping** fundamentals to **advanced computerized accounting** practices using **Tally Prime**, one of the most trusted accounting software tools in the industry.
 
-Throughout the program, I learned how to efficiently manage and analyze business accounts, accurately prepare and interpret **balance sheets**, generate comprehensive **profit and loss statements**, and confidently apply key tax processes such as **GST (Goods and Services Tax)**, **TDS (Tax Deducted at Source)**, and **TCS (Tax Collected at Source)**.
+Throughout the program, I learned how to efficiently manage and analyze business accounts, accurately prepare and interpret **balance sheets**, generate comprehensive **profit and loss statements**, and confidently apply key tax processes such as **GST (Goods and Services Tax)**, **TDS (Tax Deducted at Source)**, **TCS (Tax Collected at Source)**, **VAT (Value Added Tax)** and **Customs Duty** .
 
 This industry-focused training has significantly strengthened my understanding of real-world accounting workflows and equipped me with practical skills that make me capable of handling modern finance and taxation tasks with a high level of accuracy, compliance, and efficiency.
 
@@ -54,7 +54,7 @@ Completing this certificate in **April 2024** has added a crucial layer to my pr
 
 ## ✅ ADCA – Advanced Diploma in Computer Application (Skill Course, Oct 2024)
 
-I successfully completed the **ADCA** through the same trusted *Skill Course* online e-learning platform, guided under the expert mentorship of **Mr. Satish Dhawale**, the Founder and CEO, who designed the curriculum to bridge academic learning with real-world industry needs.
+I successfully completed the **ADCA** through the same trusted *Skill Course* online e-learning platform, guided under the expert mentorship of **Mr. Satish Dhawale Sir**, the Founder and CEO, who designed the curriculum to bridge academic learning with real-world industry needs.
 This professional **Advanced Diploma in Computer Applications (ADCA)** certificate marks a major milestone in broadening and deepening my technical and practical software skills.  
 
 This extensive program provided me with well-rounded knowledge across multiple essential areas, including **operating systems, computer fundamentals**, and core Microsoft Office applications like **MS Word, Excel, PowerPoint, Access, Outlook**, and **Publisher** — all crucial tools for everyday professional productivity.  
