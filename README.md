@@ -16,9 +16,7 @@ Each certificate included here represents a practical milestone in my continuous
 
 ---
 
-## ✅ CCC – Course on Computer Concepts
-
-## ✅ 1️⃣ CCC – Course on Computer Concepts (NIELIT, June 2023)
+## ✅ CCC – Course on Computer Concepts (NIELIT, June 2023)
 
 This was the very first certificate of my IT learning journey — a foundational milestone that truly sparked my curiosity and passion for computer science, digital literacy, and the endless possibilities of technology in everyday life.
 
@@ -36,7 +34,7 @@ Successfully completing the CCC in **June 2023** remains a proud milestone for m
 
 ---
 
-## ✅ Tally Prime with GST
+## ✅ Tally Prime with GST (Skill Course, Apr 2024)
 
 
 I earned this certificate through a dedicated **Skill Course** on the *Skill Course* online e-learning platform founded by **Mr. Satish Dhawale**, the Founder and CEO, who personally designed and guided the entire curriculum to ensure real industry relevance.
@@ -54,7 +52,7 @@ Completing this certificate in **April 2024** has added a crucial layer to my pr
 
 ---
 
-## ✅ ADCA – Advanced Diploma in Computer Application
+## ✅ ADCA – Advanced Diploma in Computer Application (Skill Course, Oct 2024)
 
 I successfully completed the **ADCA** through the same trusted *Skill Course* online e-learning platform, guided under the expert mentorship of **Mr. Satish Dhawale**, the Founder and CEO, who designed the curriculum to bridge academic learning with real-world industry needs.
 This professional **Advanced Diploma in Computer Applications (ADCA)** certificate marks a major milestone in broadening and deepening my technical and practical software skills.  
