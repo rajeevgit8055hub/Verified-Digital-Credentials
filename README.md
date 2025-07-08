@@ -68,6 +68,24 @@ Completing this comprehensive diploma in **October 2024** has empowered me to wo
 
 ---
 
+## ✅ Microsoft Office Crash Course (Skill Course, July 2025)
+
+This was another important certificate in my IT learning journey — a practical milestone that strengthened my curiosity, discipline, and passion for mastering modern productivity tools, digital communication, and professional documentation in today’s workplace.
+
+Through the **Microsoft Office Crash Course**, delivered by the *Skill Course* Online e-Learning Platform, founded and led by **Mr. Satish Dhawale**, which I successfully completed in **July 2025**, I gained a strong, practical understanding of core computing concepts and the complete Microsoft Office suite — from basics to advanced applications.
+
+This program introduced me to essential digital tools and practical applications, including **Microsoft Word**, **Excel**, **PowerPoint**, **Access**, and **Outlook**, which laid the groundwork for creating professional documents, handling complex data, designing impactful presentations, managing databases, and organizing communication tasks effectively.
+
+Additionally, I learned valuable concepts like **Operating Systems**, **Computer Fundamentals**, **email communication**, **Internet usage**, **digital documentation standards**, and best practices for managing tasks, calendars, meetings, and collaboration — all taught step by step in a clear, easy-to-understand format by **Mr. Satish Dhawale Sir**.
+
+Earning this certificate not only strengthened my confidence in using productivity software efficiently but also established a solid base for future learning in advanced data handling, documentation, and workplace automation.
+
+Successfully completing the **Microsoft Office Crash Course** in **July 2025** remains a proud milestone for me as it motivates me to keep enhancing my digital skills and build a professional skill set that is practical, modern, and relevant to real-world applications.
+
+![Microsoft Office Crash Course Certificate](MS%20Office.png)
+
+---
+
 ## 📌 Final Note
 
 This repository serves as a secure, well-organized, and easily accessible archive of my verified credentials — providing clear proof of my dedication to lifelong learning, continuous upskilling, and staying aligned with industry demands. Each credential here demonstrates how I proactively acquire relevant skills and apply them to deliver meaningful, practical, and high-quality work that creates a positive impact in every project, role, or responsibility I undertake. It reflects my commitment to grow as a professional who can adapt, contribute, and add value wherever I work.
