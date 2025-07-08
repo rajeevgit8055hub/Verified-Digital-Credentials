@@ -37,7 +37,7 @@ Successfully completing the CCC in **June 2023** remains a proud milestone for m
 ## ✅ Tally Prime with GST (Skill Course, Apr 2024)
 
 
-I earned this certificate through a dedicated **Skill Course** on the *Skill Course* online e-learning platform founded by **Mr. Satish Dhawale Sir**, the Founder and CEO, who personally designed and guided the entire curriculum to ensure real industry relevance.
+I earned this certificate through a dedicated on the *Skill Course* online e-learning platform founded by **Mr. Satish Dhawale Sir**, the Founder and CEO, who personally designed and guided the entire curriculum to ensure real industry relevance.
 
 This practical, hands-on course gave me in-depth knowledge of core accounting principles — covering everything from **basic bookkeeping** fundamentals to **advanced computerized accounting** practices using **Tally Prime**, one of the most trusted accounting software tools in the industry.
 
