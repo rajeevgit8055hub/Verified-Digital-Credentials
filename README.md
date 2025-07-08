@@ -72,7 +72,7 @@ Completing this comprehensive diploma in **October 2024** has empowered me to wo
 
 This was another important certificate in my IT learning journey — a practical milestone that strengthened my curiosity, discipline, and passion for mastering modern productivity tools, digital communication, and professional documentation in today’s workplace.
 
-Through the **Microsoft Office Crash Course**, delivered by the *Skill Course* Online e-Learning Platform, founded and led by **Mr. Satish Dhawale**, which I successfully completed in **July 2025**, I gained a strong, practical understanding of core computing concepts and the complete Microsoft Office suite — from basics to advanced applications.
+Through the **Microsoft Office Crash Course**, delivered by the *Skill Course* Online e-Learning Platform, founded and led by **Mr. Satish Dhawale Sir**, which I successfully completed in **July 2025**, I gained a strong, practical understanding of core computing concepts and the complete Microsoft Office suite — from basics to advanced applications.
 
 This program introduced me to essential digital tools and practical applications, including **Microsoft Word**, **Excel**, **PowerPoint**, **Access**, and **Outlook**, which laid the groundwork for creating professional documents, handling complex data, designing impactful presentations, managing databases, and organizing communication tasks effectively.
 
