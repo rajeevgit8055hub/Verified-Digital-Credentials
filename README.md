@@ -86,9 +86,9 @@ Successfully completing the **Microsoft Office Crash Course** in **July 2025** r
 
 ---
 
-## ✅ CHATGPT in Excel (Skill Course, July 2025)
+## ✅ ChatGPT in Excel (Skill Course, July 2025)
 
-🚀 I’m excited to share that I have successfully completed the **“CHATGPT in Excel”** course through the same trusted *Skill Course* online e-learning platform in **July 2025**, under the insightful mentorship of **Mr. Satish Dhawale Sir**, the Founder & CEO, whose vision bridges traditional learning with cutting-edge industry demands.
+🚀 I’m excited to share that I have successfully completed the **“ChatGPT in Excel”** course through the same trusted *Skill Course* online e-learning platform in **July 2025**, under the insightful mentorship of **Mr. Satish Dhawale Sir**, the Founder & CEO, whose vision bridges traditional learning with cutting-edge industry demands.
 
 This unique course has been thoughtfully designed to empower learners with the practical integration of **AI-driven assistance** directly within **Microsoft Excel**, enabling me to tackle complex Excel tasks with greater speed, accuracy, and creativity.
 
