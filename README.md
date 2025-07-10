@@ -86,6 +86,34 @@ Successfully completing the **Microsoft Office Crash Course** in **July 2025** r
 
 ---
 
+## ✅ CHATGPT in Excel (Skill Course, July 2025)
+
+🚀 I’m excited to share that I have successfully completed the **“CHATGPT in Excel”** course through the same trusted *Skill Course* online e-learning platform in **July 2025**, under the insightful mentorship of **Mr. Satish Dhawale Sir**, the Founder & CEO, whose vision bridges traditional learning with cutting-edge industry demands.
+
+This unique course has been thoughtfully designed to empower learners with the practical integration of **AI-driven assistance** directly within **Microsoft Excel**, enabling me to tackle complex Excel tasks with greater speed, accuracy, and creativity.
+
+📌 **What I Learned:**  
+
+Throughout this practical program, I gained hands-on experience in:  
+
+- Using **ChatGPT** to generate, debug, and optimize complex **Excel formulas** with ease.  
+- Automating repetitive tasks and workflows through **VBA (Visual Basic for Applications)** with the support of AI.  
+- Extracting and preparing **realistic raw datasets** for practice and real-world scenarios.  
+- Solving advanced **business problems** in Excel — transforming manual, time-consuming processes into smart, automated solutions.  
+- Enhancing my **data handling, reporting, and MIS skills** with an AI co-pilot, boosting my productivity and decision-making efficiency.
+
+💡 This course has opened up a new dimension for me: combining traditional spreadsheet mastery with **artificial intelligence**, allowing me to work smarter, automate routine operations, and focus more on insights and strategy rather than repetitive tasks.
+
+📈 I’m excited to apply these AI-driven Excel skills to real-world projects — helping organizations become more agile and data-savvy in today’s fast-paced digital environment.
+
+I extend my heartfelt gratitude to **Mr. Satish Dhawale Sir** for designing such a forward-thinking course and providing clear, actionable guidance throughout.
+
+Let’s keep learning, automating, and growing!💻📊
+
+![CHATGPT in Excel Certificate](ChatGPT.png)
+
+---
+
 ## 📌 Final Note
 
 This repository serves as a secure, well-organized, and easily accessible archive of my verified credentials — providing clear proof of my dedication to lifelong learning, continuous upskilling, and staying aligned with industry demands. Each credential here demonstrates how I proactively acquire relevant skills and apply them to deliver meaningful, practical, and high-quality work that creates a positive impact in every project, role, or responsibility I undertake. It reflects my commitment to grow as a professional who can adapt, contribute, and add value wherever I work.
