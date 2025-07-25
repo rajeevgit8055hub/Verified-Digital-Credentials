@@ -114,6 +114,27 @@ Let’s keep learning, automating, and growing!💻📊
 
 ---
 
+## ✅ 30 Days SQL Micro Course (Skill Course, July 2025)
+
+I’m proud to announce the successful completion of the **Basic to Advanced SQL** course from **Skill Course**, one of the most trusted online learning platforms, mentored under the expert guidance of **Mr. Satish Dhawale Sir**, Founder & CEO.  
+This certification in **SQL** is a major step forward in my journey into **data, database management, and analytics**, equipping me with the skills and confidence needed to work effectively in real-world, data-driven environments.
+
+Throughout this course, I developed a strong foundation in **relational database systems**, mastering the concepts of **data types**, **DDL/DML commands**, and **table creation with primary and foreign keys**.  
+I explored powerful SQL operations like **SELECT, INSERT, UPDATE, and DELETE**, along with advanced usage of **operators**, **functions**, and **constraints** to handle data efficiently and securely.
+
+The curriculum also covered complex querying techniques such as **aggregate functions**, **joins (INNER, LEFT, RIGHT, FULL)**, **subqueries**, and **set operations**, all applied using **real-time projects** — including my own hands-on project: **Hospital Data Analysis using PostgreSQL**.  
+I learned to work with **WHERE, GROUP BY, ORDER BY, and HAVING** clauses for detailed data analysis, as well as **pattern matching, aliasing, and NULL handling** for clean and meaningful results.
+
+Further, I gained experience with **views**, **stored procedures**, **indexing**, **correlated subqueries**, and **date/time functions** — essential tools for building **optimized, scalable database solutions**.  
+The course combined **theoretical clarity with hands-on exercises** to ensure practical application of all concepts.
+
+Completing this **structured and industry-aligned** course in **July 2025** has empowered me to manage and analyze databases confidently, opening doors to roles in **data analytics, business intelligence**, and **backend data operations**.  
+With **SQL** as a core skill now added to my technical toolkit, I’m ready to take on more advanced data challenges and contribute meaningfully to any **data-centric project or team**.
+
+![SQL Certificate](SQL.png)
+
+---
+
 ## 📌 Final Note
 
 This repository serves as a secure, well-organized, and easily accessible archive of my verified credentials — providing clear proof of my dedication to lifelong learning, continuous upskilling, and staying aligned with industry demands. Each credential here demonstrates how I proactively acquire relevant skills and apply them to deliver meaningful, practical, and high-quality work that creates a positive impact in every project, role, or responsibility I undertake. It reflects my commitment to grow as a professional who can adapt, contribute, and add value wherever I work.
