@@ -135,6 +135,35 @@ With **SQL** as a core skill now added to my technical toolkit, I’m ready to t
 
 ---
 
+## ✅ 30 Days Power BI Micro Course (Skill Course, July 2025)
+
+I’m proud to announce the successful completion of the **Basic to Advanced Power BI** course from **Skill Course**, a highly trusted platform for learning data technologies — guided by the expert mentorship of **Mr. Satish Dhawale Sir**, Founder & CEO.  
+This certification in **Power BI** marks a major achievement in my journey toward **data analytics and business intelligence**, providing me with the skills to design dynamic dashboards, build meaningful reports, and turn data into impactful insights.
+
+Throughout the course, I built a strong understanding of **Power BI's interface, workflow, and architecture**. I learned to connect and import data from various sources like **Excel, CSV, databases, and folders**, and transform raw data using **Power Query Editor (M language)**.
+
+I mastered essential data preparation techniques including **data cleaning**, **removing nulls**, **column transformations**, **merging/joining queries**, and **building relationships** using proper **data modeling with star and snowflake schema designs**.  
+I also learned to handle date hierarchies, manage data types, and maintain **model integrity for analytical efficiency**.
+
+The visualization section covered the creation of **bar charts, column charts, line graphs, pie/donut charts, slicers, tables, cards, and KPI indicators**.  
+Advanced features like **drill-through pages, tooltips, bookmarks, filters (visual/page/report level)** and **interactive slicers** were used to enhance the user experience.
+
+A key area of learning was **DAX (Data Analysis Expressions)**. I developed the ability to write **calculated columns**, **measures**, and apply functions like **CALCULATE**, **FILTER**, **ALL**, **SWITCH**, **IF**, **SUMX**, and **AVERAGEX**.  
+I also worked on **time intelligence functions** like **YTD, MTD, QTD**, and date calculations for business performance tracking.
+
+The course provided hands-on practice with real-time business scenarios, including a capstone project: **Motorola Sales Dashboard**.  
+This dashboard involved creating a multi-page report featuring **total sales, model performance, payment method analysis, city-wise trends**, and **customer feedback analytics** — helping to visualize the business KPIs interactively.
+
+Further, I gained practical knowledge of **Power BI Service**, where I published reports to the cloud, created workspaces, and explored report sharing & collaboration features.  
+This completed my understanding of both **Power BI Desktop** and **Power BI Online** environments, preparing me for real organizational BI roles.
+
+By completing this **industry-aligned, structured, and hands-on** course in **July 2025**, I have developed the ability to confidently work on data visualization and analysis projects.  
+With **Power BI** added to my skillset, I am now well-equipped to contribute to any **data analytics, dashboard development**, or **reporting team**.
+
+![Power BI Certificate](PowerBI.png)
+
+---
+
 ## 📌 Final Note
 
 This repository serves as a secure, well-organized, and easily accessible archive of my verified credentials — providing clear proof of my dedication to lifelong learning, continuous upskilling, and staying aligned with industry demands. Each credential here demonstrates how I proactively acquire relevant skills and apply them to deliver meaningful, practical, and high-quality work that creates a positive impact in every project, role, or responsibility I undertake. It reflects my commitment to grow as a professional who can adapt, contribute, and add value wherever I work.
