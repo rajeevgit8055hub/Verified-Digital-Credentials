@@ -92,7 +92,7 @@ Successfully completing the **Microsoft Office Crash Course** in **July 2025** r
 
 This unique course has been thoughtfully designed to empower learners with the practical integration of **AI-driven assistance** directly within **Microsoft Excel**, enabling me to tackle complex Excel tasks with greater speed, accuracy, and creativity.
 
-📌 **What I Learned:**  
+**What I Learned:**  
 
 Throughout this practical program, I gained hands-on experience in:  
 
