@@ -1,5 +1,23 @@
 # 🎓 Verified-Digital-Credentials
 
+## 📑 Table of Contents
+
+- <a href="#introduction">📌 Introduction</a>  
+- <a href="#overview">📜 Certificates Overview</a>  
+- <a href="#ccc">✅ CCC – Course on Computer Concepts (NIELIT, June 2023)</a>  
+- <a href="#tally-prime">✅ Tally Prime with GST (Skill Course, Apr 2024)</a>  
+- <a href="#adca">✅ ADCA – Advance Diploma in Computer Application (Skill Course, Oct 2024)</a>  
+- <a href="#ms-office">✅ Microsoft Office Crash Course (Skill Course, July 2025)</a>  
+- <a href="#excel">✅ ChatGPT in Excel (Skill Course, July 2025)</a>  
+- <a href="#sql">✅ 30 Days SQL Micro Course (Skill Course, July 2025)</a>  
+- <a href="#power-bi">✅ 30 Days Power BI Micro Course (Skill Course, July 2025)</a>  
+- <a href="#final-note">📌 Final Note</a>  
+- <a href="#contact">📬 Connect with Me</a>
+
+---
+
+## <span id="introduction">📌 Introduction</span>  
+
 A safe, well-organized repository of my verified digital credentials and professional certificates.  
 Each credential is carefully documented with its image and a clear description that highlights what I learned and how it contributes to my practical growth.  
 This curated collection showcases my diverse skill set and my strong commitment to continuous learning, upskilling, and staying industry-relevant in an ever-evolving professional landscape.  
@@ -10,13 +28,13 @@ Whether it’s mastering fundamental computer concepts, gaining expertise in ind
 
 ---
 
-## 📜 Certificates Overview
+## <span id="overview">📜 Certificates Overview</span> 
 
 Each certificate included here represents a practical milestone in my continuous learning path. Starting with the basics of computer concepts, I gradually expanded my expertise into specialized fields such as professional accounting with Tally Prime, and then broadened it further through a comprehensive Advanced Diploma that covers diverse software, tools, and even introductory web technologies. Together, they illustrate my commitment to acquiring real-world skills, staying updated with industry-relevant tools, and applying this knowledge to deliver practical, high-quality work in various professional scenarios.
 
 ---
 
-## ✅ CCC – Course on Computer Concepts (NIELIT, June 2023)
+## <span id="ccc">✅ CCC – Course on Computer Concepts (NIELIT, June 2023)</span> 
 
 This was the very first certificate of my IT learning journey — a foundational milestone that truly sparked my curiosity and passion for computer science, digital literacy, and the endless possibilities of technology in everyday life.
 
@@ -34,7 +52,7 @@ Successfully completing the CCC in **June 2023** remains a proud milestone for m
 
 ---
 
-## ✅ Tally Prime with GST (Skill Course, Apr 2024)
+## <span id="tally-prime">✅ Tally Prime with GST (Skill Course, Apr 2024)</span> 
 
 
 I earned this certificate through a dedicated on the *Skill Course* online e-learning platform founded by **Mr. Satish Dhawale Sir**, the Founder and CEO, who personally designed and guided the entire curriculum to ensure real industry relevance.
@@ -52,7 +70,7 @@ Completing this certificate in **April 2024** has added a crucial layer to my pr
 
 ---
 
-## ✅ ADCA – Advance Diploma in Computer Application (Skill Course, Oct 2024)
+## <span id="adca">✅ ADCA – Advance Diploma in Computer Application (Skill Course, Oct 2024)</span> 
 
 I successfully completed the **ADCA** through the same trusted *Skill Course* online e-learning platform, guided under the expert mentorship of **Mr. Satish Dhawale Sir**, the Founder and CEO, who designed the curriculum to bridge academic learning with real-world industry needs.
 This professional **Advance Diploma in Computer Applications (ADCA)** certificate marks a major milestone in broadening and deepening my technical and practical software skills.  
@@ -68,7 +86,7 @@ Completing this comprehensive diploma in **October 2024** has empowered me to wo
 
 ---
 
-## ✅ Microsoft Office Crash Course (Skill Course, July 2025)
+## <span id="ms-office">✅ Microsoft Office Crash Course (Skill Course, July 2025)</span> 
 
 This was another important certificate in my IT learning journey — a practical milestone that strengthened my curiosity, discipline, and passion for mastering modern productivity tools, digital communication, and professional documentation in today’s workplace.
 
@@ -86,7 +104,7 @@ Successfully completing the **Microsoft Office Crash Course** in **July 2025** r
 
 ---
 
-## ✅ ChatGPT in Excel (Skill Course, July 2025)
+## <span id="excel">✅ ChatGPT in Excel (Skill Course, July 2025)</span>
 
 🚀 I’m excited to share that I have successfully completed the **“ChatGPT in Excel”** course through the same trusted *Skill Course* online e-learning platform in **July 2025**, under the insightful mentorship of **Mr. Satish Dhawale Sir**, the Founder & CEO, whose vision bridges traditional learning with cutting-edge industry demands.
 
@@ -114,7 +132,7 @@ Let’s keep learning, automating, and growing!💻📊
 
 ---
 
-## ✅ 30 Days SQL Micro Course (Skill Course, July 2025)
+## <span id="sql">✅ 30 Days SQL Micro Course (Skill Course, July 2025)</span>
 
 I’m proud to announce the successful completion of the **Basic to Advanced SQL** course from **Skill Course**, one of the most trusted online learning platforms, mentored under the expert guidance of **Mr. Satish Dhawale Sir**, Founder & CEO.  
 This certification in **SQL** is a major step forward in my journey into **data, database management, and analytics**, equipping me with the skills and confidence needed to work effectively in real-world, data-driven environments.
@@ -135,7 +153,7 @@ With **SQL** as a core skill now added to my technical toolkit, I’m ready to t
 
 ---
 
-## ✅ 30 Days Power BI Micro Course (Skill Course, July 2025)
+## <span id="power-bi">✅ 30 Days Power BI Micro Course (Skill Course, July 2025)</span>
 
 I’m proud to announce the successful completion of the **Basic to Advanced Power BI** course from **Skill Course**, a highly trusted platform for learning data technologies — guided by the expert mentorship of **Mr. Satish Dhawale Sir**, Founder & CEO.  
 This certification in **Power BI** marks a major achievement in my journey toward **data analytics and business intelligence**, providing me with the skills to design dynamic dashboards, build meaningful reports, and turn data into impactful insights.
@@ -164,11 +182,23 @@ With **Power BI** added to my skillset, I am now well-equipped to contribute to 
 
 ---
 
-## 📌 Final Note
+## <span id="final-note">📌 Final Note</span> 
 
 This repository serves as a secure, well-organized, and easily accessible archive of my verified credentials — providing clear proof of my dedication to lifelong learning, continuous upskilling, and staying aligned with industry demands. Each credential here demonstrates how I proactively acquire relevant skills and apply them to deliver meaningful, practical, and high-quality work that creates a positive impact in every project, role, or responsibility I undertake. It reflects my commitment to grow as a professional who can adapt, contribute, and add value wherever I work.
 
 ---
 
+## <span id="contact">📬 Connect with Me</span>  
+
+- 📧 **Email**: [rajeevtiwari8055@gmail.com](mailto:rajeevtiwari8055@gmail.com)  
+- 💻 **GitHub**: [github.com/rajeevgit8055hub](https://github.com/rajeevgit8055hub)  
+- 🔗 **LinkedIn**: [linkedin.com/in/rajeev-tiwari123](https://www.linkedin.com/in/rajeev-tiwari123)  
+- 🌐 **Website**: [rajeevgit8055hub.github.io/rajeevtiwari.github.io](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)  
+
+🤝 *Thanks for visiting my profile!*  
+
+---
+
 ✨ *Thank you for visiting my Verified-Digital-Credentials repository!*
 
+---
