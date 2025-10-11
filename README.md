@@ -1,5 +1,7 @@
 # 🎓 Verified-Digital-Credentials
 
+---
+
 ## 📑 Table of Contents
 
 - <a href="#introduction">📌 Introduction</a>  
@@ -10,7 +12,8 @@
 - <a href="#ms-office">✅ Microsoft Office Crash Course (Skill Course, July 2025)</a>  
 - <a href="#excel">✅ ChatGPT in Excel (Skill Course, July 2025)</a>  
 - <a href="#sql">✅ 30 Days SQL Micro Course (Skill Course, July 2025)</a>  
-- <a href="#power-bi">✅ 30 Days Power BI Micro Course (Skill Course, July 2025)</a>  
+- <a href="#power-bi">✅ 30 Days Power BI Micro Course (Skill Course, July 2025)</a> 
+- <a href="#power-query">✅ Power Query Corporate Training Masterclass (Skill Course, October 2025)</a>  
 - <a href="#final-note">📌 Final Note</a>  
 - <a href="#contact">📬 Connect with Me</a>
 
@@ -38,7 +41,7 @@ Each certificate included here represents a practical milestone in my continuous
 
 This was the very first certificate of my IT learning journey — a foundational milestone that truly sparked my curiosity and passion for computer science, digital literacy, and the endless possibilities of technology in everyday life.
 
-Through the CCC (Course on Computer Concepts), conducted by **NIELIT** (*National Institute of Electronics & Information Technology*), which I successfully completed in **June 2023**, I gained a strong, practical understanding of fundamental computing concepts and modern operating systems.
+Through the **CCC (Course on Computer Concepts)**, conducted by **NIELIT** (*National Institute of Electronics & Information Technology*), which I successfully completed in **June 2023**, I gained a strong, practical understanding of fundamental computing concepts and modern operating systems.
 
 This program introduced me to essential digital tools and practical applications, including **Microsoft Word, Excel, and PowerPoint**, which laid the groundwork for professional document creation, data handling, and presentation skills.
 
@@ -54,8 +57,7 @@ Successfully completing the CCC in **June 2023** remains a proud milestone for m
 
 ## <span id="tally-prime">✅ Tally Prime with GST (Skill Course, Apr 2024)</span> 
 
-
-I earned this certificate through a dedicated on the *Skill Course* online e-learning platform founded by **Mr. Satish Dhawale Sir**, the Founder and CEO, who personally designed and guided the entire curriculum to ensure real industry relevance.
+I successfully completed the **Tally Prime with GST** through the same trusted **Skill Course** online e-learning platform, guided under the expert mentorship of **Mr. Satish Dhawale Sir**, the *Founder & CEO, Skill Course*, who personally designed and guided the entire curriculum to ensure real industry relevance.
 
 This practical, hands-on course gave me in-depth knowledge of core accounting principles — covering everything from **basic bookkeeping** fundamentals to **advanced computerized accounting** practices using **Tally Prime**, one of the most trusted accounting software tools in the industry.
 
@@ -72,7 +74,7 @@ Completing this certificate in **April 2024** has added a crucial layer to my pr
 
 ## <span id="adca">✅ ADCA – Advance Diploma in Computer Application (Skill Course, Oct 2024)</span> 
 
-I successfully completed the **ADCA** through the same trusted *Skill Course* online e-learning platform, guided under the expert mentorship of **Mr. Satish Dhawale Sir**, the Founder and CEO, who designed the curriculum to bridge academic learning with real-world industry needs.
+I successfully completed the **ADCA** through the same trusted **Skill Course** online e-learning platform, guided under the expert mentorship of **Mr. Satish Dhawale Sir**, the *Founder & CEO, Skill Course*, who designed the curriculum to bridge academic learning with real-world industry needs.
 This professional **Advance Diploma in Computer Applications (ADCA)** certificate marks a major milestone in broadening and deepening my technical and practical software skills.  
 
 This extensive program provided me with well-rounded knowledge across multiple essential areas, including **operating systems, computer fundamentals**, and core Microsoft Office applications like **MS Word, Excel, PowerPoint, Access, Outlook**, and **Publisher** — all crucial tools for everyday professional productivity.  
@@ -90,7 +92,7 @@ Completing this comprehensive diploma in **October 2024** has empowered me to wo
 
 This was another important certificate in my IT learning journey — a practical milestone that strengthened my curiosity, discipline, and passion for mastering modern productivity tools, digital communication, and professional documentation in today’s workplace.
 
-Through the **Microsoft Office Crash Course**, delivered by the *Skill Course* Online e-Learning Platform, founded and led by **Mr. Satish Dhawale Sir**, which I successfully completed in **July 2025**, I gained a strong, practical understanding of core computing concepts and the complete Microsoft Office suite — from basics to advanced applications.
+Through the **Microsoft Office Crash Course**, delivered by the **Skill Course** Online e-Learning Platform, founded and led by **Mr. Satish Dhawale Sir**,  *Founder & CEO, Skill Course*. which I successfully completed in **July 2025**, I gained a strong, practical understanding of core computing concepts and the complete Microsoft Office suite — from basics to advanced applications.
 
 This program introduced me to essential digital tools and practical applications, including **Microsoft Word**, **Excel**, **PowerPoint**, **Access**, and **Outlook**, which laid the groundwork for creating professional documents, handling complex data, designing impactful presentations, managing databases, and organizing communication tasks effectively.
 
@@ -106,7 +108,7 @@ Successfully completing the **Microsoft Office Crash Course** in **July 2025** r
 
 ## <span id="excel">✅ ChatGPT in Excel (Skill Course, July 2025)</span>
 
-🚀 I’m excited to share that I have successfully completed the **“ChatGPT in Excel”** course through the same trusted *Skill Course* online e-learning platform in **July 2025**, under the insightful mentorship of **Mr. Satish Dhawale Sir**, the Founder & CEO, whose vision bridges traditional learning with cutting-edge industry demands.
+🚀 I’m excited to share that I have successfully completed the **“ChatGPT in Excel”** course through the same trusted **Skill Course** online e-learning platform in **July 2025**, under the insightful mentorship of **Mr. Satish Dhawale Sir**, the *Founder & CEO, Skill Course*, whose vision bridges traditional learning with cutting-edge industry demands.
 
 This unique course has been thoughtfully designed to empower learners with the practical integration of **AI-driven assistance** directly within **Microsoft Excel**, enabling me to tackle complex Excel tasks with greater speed, accuracy, and creativity.
 
@@ -134,7 +136,7 @@ Let’s keep learning, automating, and growing!💻📊
 
 ## <span id="sql">✅ 30 Days SQL Micro Course (Skill Course, July 2025)</span>
 
-I’m proud to announce the successful completion of the **Basic to Advanced SQL** course from **Skill Course**, one of the most trusted online learning platforms, mentored under the expert guidance of **Mr. Satish Dhawale Sir**, Founder & CEO.  
+I’m proud to announce the successful completion of the **SQL Micro Course** course from **Skill Course**, one of the most trusted online learning platforms, mentored under the expert guidance of **Mr. Satish Dhawale Sir**, *Founder & CEO, Skill Course*. 
 This certification in **SQL** is a major step forward in my journey into **data, database management, and analytics**, equipping me with the skills and confidence needed to work effectively in real-world, data-driven environments.
 
 Throughout this course, I developed a strong foundation in **relational database systems**, mastering the concepts of **data types**, **DDL/DML commands**, and **table creation with primary and foreign keys**.  
@@ -155,7 +157,7 @@ With **SQL** as a core skill now added to my technical toolkit, I’m ready to t
 
 ## <span id="power-bi">✅ 30 Days Power BI Micro Course (Skill Course, July 2025)</span>
 
-I’m proud to announce the successful completion of the **Basic to Advanced Power BI** course from **Skill Course**, a highly trusted platform for learning data technologies — guided by the expert mentorship of **Mr. Satish Dhawale Sir**, Founder & CEO.  
+I’m proud to announce the successful completion of the **Power BI Micro Course** course from **Skill Course**, a highly trusted platform for learning data technologies — guided by the expert mentorship of **Mr. Satish Dhawale Sir**, *Founder & CEO, Skill Course*.  
 This certification in **Power BI** marks a major achievement in my journey toward **data analytics and business intelligence**, providing me with the skills to design dynamic dashboards, build meaningful reports, and turn data into impactful insights.
 
 Throughout the course, I built a strong understanding of **Power BI's interface, workflow, and architecture**. I learned to connect and import data from various sources like **Excel, CSV, databases, and folders**, and transform raw data using **Power Query Editor (M language)**.
@@ -182,6 +184,61 @@ With **Power BI** added to my skillset, I am now well-equipped to contribute to 
 
 ---
 
+ ## <span id="power-query">✅ Power Query Corporate Training Masterclass (Skill Course, October 2025)</span>
+
+I’m truly excited to share another proud achievement in my data journey — I have successfully completed the **Power Query Corporate Training Masterclass** from the highly reputed **Skill Course**, under the expert mentorship of **Mr. Satish Dhawale Sir**, *Founder & CEO, Skill Course*.
+
+This course proved to be a **transformative learning experience**, covering everything from fundamental data transformation concepts to advanced, real-world business automation workflows. It helped me understand not just *how* to clean and organize data, but *why* these steps are critical for effective business reporting and analytics.
+
+🎓 **About the Course & Learning Experience**
+
+The course went far beyond the basics of Power Query — it immersed me into real, practical case studies that mirrored **corporate-level data challenges**. Every session was structured to build practical intuition: starting with importing data from diverse sources, then performing step-by-step cleaning, transformation, and automation using the full potential of Power Query.
+
+It was truly amazing to see how powerful and efficient Power Query can be in handling large datasets, merging multiple files, and automating repetitive data preparation tasks that would otherwise take hours in Excel or manual systems.
+
+Throughout this journey, I explored how to:
+
+- Import and combine data from multiple workbooks, CSVs, text files, and large datasets  
+- Detect and clean inconsistent, messy, or junk data efficiently  
+- Apply dynamic transformations and grouping techniques  
+- Handle delimiter-based datasets with real corporate use cases  
+- Design end-to-end automated workflows that connect raw data to final reports  
+
+💡 **What I Learned Throughout This Course**
+
+- ✅ Introduction to Power Query Interface and Core Functionalities  
+- ✅ Advanced Data Cleaning Techniques and Error Handling  
+- ✅ Importing Data from Various Sources (Excel, CSV, Text, PDF, Web, etc.)  
+- ✅ Efficient Handling of Large Data Files  
+- ✅ Appending and Combining Data from Multiple Workbooks and CSV Files  
+- ✅ Advanced Grouping, Summarization, and Aggregation Techniques  
+- ✅ Managing Junk Rows and Inconsistent Data Structures  
+- ✅ Dynamic Transformations and Automated Data Appending  
+- ✅ Practical Use of Delimiters in Complex Data Scenarios  
+- ✅ Real Corporate Case Study on Delimiter-Based Data  
+- ✅ End-to-End Data Preparation for Business Intelligence (BI) Dashboards  
+
+🔑 **Why This Course Stands Out**
+
+Every concept was tied to a *real business use case*, ensuring that each skill learned could be directly applied to actual data challenges.  
+Mr. Satish Dhawale Sir’s teaching approach — combining **clarity, structure, and practicality** — made even advanced transformations feel simple and achievable. His industry insights and real-world demonstrations turned Power Query from just a data tool into a *business solution powerhouse*.
+
+📈 **My Key Takeaway**
+
+This masterclass has equipped me with the ability to **clean, transform, and automate data at scale**, making me more confident in building analytics-ready datasets for dashboards, reports, and decision-making. It strengthened my understanding of how **Power Query acts as the foundation of the modern data preparation pipeline** within Excel and Power BI.
+
+📍 **Next Step:**  
+
+I’ll soon be sharing my **Power Query projects, case studies, and folder-based automation workflows** built on the foundation of this course. Stay tuned for some exciting, real-world data transformation examples!
+
+I’m deeply grateful to **Mr. Satish Dhawale Sir** for designing this comprehensive and industry-oriented learning experience, and for his constant motivation to connect classroom concepts with corporate data practices.
+
+Let’s keep learning, transforming, and growing — one query at a time! 💻⚙️📊
+
+![Power Query Masterclass Certificate](PowerQuery.png)
+
+---
+
 ## <span id="final-note">📌 Final Note</span> 
 
 This repository serves as a secure, well-organized, and easily accessible archive of my verified credentials — providing clear proof of my dedication to lifelong learning, continuous upskilling, and staying aligned with industry demands. Each credential here demonstrates how I proactively acquire relevant skills and apply them to deliver meaningful, practical, and high-quality work that creates a positive impact in every project, role, or responsibility I undertake. It reflects my commitment to grow as a professional who can adapt, contribute, and add value wherever I work.
@@ -190,9 +247,10 @@ This repository serves as a secure, well-organized, and easily accessible archiv
 
 ## <span id="contact">📬 Connect with Me</span>  
 
+- ✖️ **X**: [@rajeevtiwari](https://x.com/rajeevtiwariRT)
 - 📧 **Email**: [rajeevtiwari8055@gmail.com](mailto:rajeevtiwari8055@gmail.com)  
 - 💻 **GitHub**: [github.com/rajeevgit8055hub](https://github.com/rajeevgit8055hub)  
-- 🔗 **LinkedIn**: [linkedin.com/in/rajeev-tiwari123](https://www.linkedin.com/in/rajeev-tiwari123)  
+- 💼 **LinkedIn**: [linkedin.com/in/rajeev-tiwari123](https://www.linkedin.com/in/rajeev-tiwari123)  
 - 🌐 **Website**: [rajeevgit8055hub.github.io/rajeevtiwari.github.io](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)
   
 🤝 *Thank you for visiting my profile & Verified-Digital-Credentials repository!*
