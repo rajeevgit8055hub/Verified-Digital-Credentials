@@ -1,7 +1,5 @@
 # 🎓 Verified-Digital-Credentials
 
----
-
 ## 📑 Table of Contents
 
 - <a href="#introduction">📌 Introduction</a>  
