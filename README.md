@@ -11,7 +11,8 @@
 - <a href="#excel">✅ ChatGPT in Excel (Skill Course, July 2025)</a>  
 - <a href="#sql">✅ 30 Days SQL Micro Course (Skill Course, July 2025)</a>  
 - <a href="#power-bi">✅ 30 Days Power BI Micro Course (Skill Course, July 2025)</a> 
-- <a href="#power-query">✅ Power Query Corporate Training Masterclass (Skill Course, October 2025)</a>  
+- <a href="#power-query">✅ Power Query Corporate Training Masterclass (Skill Course, October 2025)</a>
+- <a href="#github">✅ GitHub Basics (Simplilearn, October 2025)</a>
 - <a href="#final-note">📌 Final Note</a>  
 - <a href="#contact">📬 Connect with Me</a>
 
@@ -234,6 +235,30 @@ I’m deeply grateful to **Mr. Satish Dhawale Sir** for designing this comprehen
 Let’s keep learning, transforming, and growing — one query at a time! 💻⚙️📊
 
 ![Power Query Masterclass Certificate](PowerQuery.png)
+
+---
+
+## <span id="github"> ✅ GitHub Basics (Simplilearn, October 2025)</span>
+
+I’m thrilled to share that I’ve achieved my **first professional certification** — **Git & GitHub Basics** from **Simplilearn**, one of the most reputed global learning platforms.  
+This certification marks the **beginning of my professional learning journey**, strengthening my foundation in **version control, collaboration, and repository management** — core skills for every modern developer and data professional.
+
+Throughout this program, I gained practical knowledge of how **Git and GitHub** work together to simplify teamwork and project versioning.  
+I learned both **manual and command-line methods** of managing repositories and explored essential version control concepts like **branches, commits, merges, and pull requests** for efficient collaboration.
+
+The course covered:
+   
+- 🔹 **Introduction to Git and GitHub concepts**  
+- 🔹 **Creating and managing repositories**  
+- 🔹 **Working with branches, commits, and merges**  
+- 🔹 **Collaborative workflows and issue tracking**  
+- 🔹 **Using Git commands — manually and through coding**  
+
+Offered by **Simplilearn**, this beginner-to-advanced course provided **hands-on experience** in using Git and GitHub — essential tools for managing projects, collaborating on code, and tracking progress efficiently.
+
+Completing this course has not only enhanced my understanding of **software version control** but also boosted my confidence to contribute effectively to **real-world coding and data-driven projects**.
+
+![GitHub Basics Certification](GitHub%20Basics.png)
 
 ---
 
