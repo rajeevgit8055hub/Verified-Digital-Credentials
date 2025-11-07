@@ -178,7 +178,7 @@ Completing this course has not only enhanced my understanding of **software vers
 
 ---
 
-## <span id="excel">✅ Introduction to MS Excel (Microsoft, Nov 2025)</span>
+## <span id="excel">✅ Introduction to MS Excel (*Microsoft, Nov 2025*)</span>
 
 **Introduction to Microsoft Excel** from **Simplilearn**, conducted in collaboration with **Microsoft**, one of the world’s leading technology organizations.  
 This certification marks a significant step in strengthening my expertise in **data analysis, reporting, and business intelligence**, empowering me to use Excel as a powerful analytical tool.
@@ -192,7 +192,7 @@ Completing this course has strengthened my confidence in **Excel-based data anal
 
 ![Introduction to MS Excel](MS%20Excel.png)
 
-## <span id="power query in excel">✅ Introduction to Power Query in Excel Basics (Microsoft, Nov 2025)</span>
+## <span id="power query in excel">✅ Introduction to Power Query in Excel Basics (*Microsoft, Nov 2025*)</span>
 
 **Introduction to Power Query in Excel Basics** from **Simplilearn**, conducted in collaboration with **Microsoft**, a global leader in technology and data solutions.  
 This certification represents my advancement in **data automation and transformation**, enhancing my ability to prepare, clean, and manage complex datasets efficiently within Excel.
@@ -206,6 +206,7 @@ Offered by **Simplilearn** and **conducted by Microsoft**, this hands-on course 
 
 ![power query in excel](Power%20Query%20in%20Excel.png)
 
+---
 
 ## <span id="final-note">📌 Final Note</span> 
 
