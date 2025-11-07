@@ -15,6 +15,7 @@
 - <a href="#github">✅ GitHub Basics (Simplilearn, Nov 2025)</a>
 - <a href="#excel">✅ Introduction to MS Excel (Microsoft, Nov 2025)</a>
 - <a href="#power query in excel">✅ Introduction to Power Query in Excel Basics (Microsoft, Nov 2025)</a>
+- <a href="#databricks-sql">✅ SQL Analytics and BI on Databricks (*Databricks, Nov 2025*)</a>
 - <a href="#final-note">📌 Final Note</a>  
 - <a href="#contact">📬 Connect with Me</a>
 
@@ -208,6 +209,22 @@ Offered by **Simplilearn** and **conducted by Microsoft**, this hands-on course 
 
 ---
 
+## <span id="databricks-sql">✅ SQL Analytics and BI on Databricks (*Databricks, Nov 2025*)</span>
+
+**SQL Analytics and BI on Databricks** from **Simplilearn**, conducted in collaboration with **Databricks**, a global leader in data analytics and AI solutions.  
+This certification represents my advancement in **data analytics, AI, and business intelligence**, enhancing my ability to query, analyze, and visualize complex datasets using the Databricks platform.
+
+Throughout this program, I gained practical experience in **setting up Databricks workspaces, performing SQL-based data analysis**, and **leveraging Delta Lake & AI-BI dashboards** for actionable insights.  
+I learned how to **write and execute queries in Databricks SQL**, **manage analytics workflows**, **utilize AI-powered dashboards**, and **create Genie Spaces** for interactive business intelligence reporting.
+
+The course covered both **fundamental and advanced Databricks features**, empowering learners to efficiently analyze data and generate insights for decision-making.  
+
+Offered by **Simplilearn** and **conducted by Databricks**, this hands-on course strengthened my technical skills in **Databricks SQL, Delta Lake, and AI-BI Visualization**, laying a solid foundation for professional analytics and BI projects.
+
+![SQL Analytics and BI on Databricks](Databricks%20SQL.png)
+
+---
+
 ## <span id="final-note">📌 Final Note</span> 
 
 This repository serves as a secure, well-organized, and easily accessible archive of my verified credentials — providing clear proof of my dedication to lifelong learning, continuous upskilling, and staying aligned with industry demands. Each credential here demonstrates how I proactively acquire relevant skills and apply them to deliver meaningful, practical, and high-quality work that creates a positive impact in every project, role, or responsibility I undertake. It reflects my commitment to grow as a professional who can adapt, contribute, and add value wherever I work.
@@ -225,3 +242,4 @@ This repository serves as a secure, well-organized, and easily accessible archiv
 🤝 *Thank you for visiting my profile & Verified-Digital-Credentials repository!*
 
 ---
+
