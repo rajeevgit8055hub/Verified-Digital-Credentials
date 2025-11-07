@@ -4,15 +4,17 @@
 
 - <a href="#introduction">📌 Introduction</a>  
 - <a href="#overview">📜 Certificates Overview</a>  
-- <a href="#ccc">✅ CCC – Course on Computer Concepts (NIELIT, June 2023)</a>  
+- <a href="#ccc">✅ CCC – Course on Computer Concepts (NIELIT, Jun 2023)</a>  
 - <a href="#tally-prime">✅ Tally Prime with GST (Skill Course, Apr 2024)</a>  
 - <a href="#adca">✅ ADCA – Advance Diploma in Computer Application (Skill Course, Oct 2024)</a>  
-- <a href="#ms-office">✅ Microsoft Office Crash Course (Skill Course, July 2025)</a>  
-- <a href="#excel">✅ ChatGPT in Excel (Skill Course, July 2025)</a>  
-- <a href="#sql">✅ 30 Days SQL Micro Course (Skill Course, July 2025)</a>  
-- <a href="#power-bi">✅ 30 Days Power BI Micro Course (Skill Course, July 2025)</a> 
-- <a href="#power-query">✅ Power Query Corporate Training Masterclass (Skill Course, October 2025)</a>
-- <a href="#github">✅ GitHub Basics (Simplilearn, October 2025)</a>
+- <a href="#ms-office">✅ Microsoft Office Crash Course (Skill Course, Jul 2025)</a>  
+- <a href="#excel-ai">✅ ChatGPT in Excel (Skill Course, Jul 2025)</a>  
+- <a href="#sql">✅ 30 Days SQL Micro Course (Skill Course, Jul 2025)</a>  
+- <a href="#power-bi">✅ 30 Days Power BI Micro Course (Skill Course, Jul 2025)</a> 
+- <a href="#power-query">✅ Power Query Corporate Training Masterclass (Skill Course, Oct 2025)</a>
+- <a href="#github">✅ GitHub Basics (Simplilearn, Nov 2025)</a>
+- <a href="#excel">✅ Introduction to MS Excel (Microsoft, Nov 2025)</a>
+- <a href="#power query in excel">✅ Introduction to Power Query in Excel Basics (Microsoft, Nov 2025)</a>
 - <a href="#final-note">📌 Final Note</a>  
 - <a href="#contact">📬 Connect with Me</a>
 
@@ -40,7 +42,7 @@ Together, these achievements illustrate my **commitment to acquiring real-world 
 
 ---
 
-## <span id="ccc">✅ CCC – Course on Computer Concepts (NIELIT, June 2023)</span> 
+## <span id="ccc">✅ CCC – Course on Computer Concepts (*NIELIT, Jun 2023*)</span> 
 
 This was the **first certificate** of my IT learning journey — a foundational milestone that sparked my curiosity and passion for **computer science, digital literacy**, and the power of technology in everyday life.  
 
@@ -54,7 +56,7 @@ The course also covered **email communication**, **basic networking**, **cyberse
 
 ---
 
-## <span id="tally-prime">✅ Tally Prime with GST (Skill Course, Apr 2024)</span> 
+## <span id="tally-prime">✅ Tally Prime with GST (*Skill Course, Apr 2024*)</span> 
 
 I successfully completed the **Tally Prime with GST** program through the trusted **Skill Course** online e-learning platform, under the expert mentorship of **Mr. Satish Dhawale Sir**, *Founder & CEO, Skill Course*.  
 
@@ -68,7 +70,7 @@ This **industry-focused training** enhanced my understanding of real-world accou
 
 ---
 
-## <span id="adca">✅ ADCA – Advance Diploma in Computer Application (Skill Course, Oct 2024)</span> 
+## <span id="adca">✅ ADCA – Advance Diploma in Computer Application (*Skill Course, Oct 2024*)</span> 
 
 I successfully completed the **ADCA (Advanced Diploma in Computer Applications)** through the trusted **Skill Course** e-learning platform, under the expert mentorship of **Mr. Satish Dhawale Sir**, *Founder & CEO, Skill Course*, who designed the curriculum to align with real-world industry needs.  
 
@@ -84,7 +86,7 @@ Completing this diploma in **October 2024** has made me a **versatile profession
 
 ---
 
-## <span id="ms-office">✅ Microsoft Office Crash Course (Skill Course, July 2025)</span> 
+## <span id="ms-office">✅ Microsoft Office Crash Course (*Skill Course, Jul 2025*)</span> 
 
 This was an important milestone in my IT learning journey — a practical achievement that strengthened my curiosity, discipline, and passion for mastering **modern productivity tools**, **digital communication**, and **professional documentation**.  
 
@@ -100,7 +102,7 @@ Completing this certification in **July 2025** enhanced my confidence in using p
 
 ---
 
-## <span id="excel">✅ ChatGPT in Excel (Skill Course, July 2025)</span>
+## <span id="excel-ai">✅ ChatGPT in Excel (*Skill Course, Jul 2025*)</span>
 
 I’m excited to share that I have successfully completed the **ChatGPT in Excel** course through the trusted **Skill Course** online e-learning platform in **July 2025**, under the insightful mentorship of **Mr. Satish Dhawale Sir**, *Founder & CEO, Skill Course*, whose vision bridges traditional learning with modern AI-driven applications. 
 
@@ -114,7 +116,7 @@ This achievement marks another step forward in my journey toward becoming a **da
 
 ---
 
-## <span id="sql">✅ 30 Days SQL Micro Course (Skill Course, July 2025)</span>
+## <span id="sql">✅ 30 Days SQL Micro Course (*Skill Course, Jul 2025*)</span>
 
 I’m proud to share that I have successfully completed the **SQL Micro Course** from **Skill Course**, under the expert mentorship of **Mr. Satish Dhawale Sir**, *Founder & CEO, Skill Course*. This certification marks a key step forward in my journey into **data management and analytics**, equipping me with practical, real-world SQL skills.  
 
@@ -126,7 +128,7 @@ Additionally, I gained hands-on experience with **views**, **stored procedures**
 
 ---
 
-## <span id="power-bi">✅ 30 Days Power BI Micro Course (Skill Course, July 2025)</span>
+## <span id="power-bi">✅ 30 Days Power BI Micro Course (*Skill Course, Jul 2025*)</span>
 
 I’m proud to share that I have successfully completed the **Power BI Micro Course** from **Skill Course**, under the expert mentorship of **Mr. Satish Dhawale Sir**, *Founder & CEO, Skill Course*. This certification marks a key milestone in my journey toward **data analytics and business intelligence**, equipping me to design interactive dashboards and transform raw data into actionable insights.  
 
@@ -142,7 +144,7 @@ Completing this **hands-on, industry-relevant** program in **July 2025** has str
 
 ---
 
- ## <span id="power-query">✅ Power Query Corporate Training Masterclass (Skill Course, October 2025)</span>
+ ## <span id="power-query">✅ Power Query Corporate Training Masterclass (*Skill Course, Oct 2025*)</span>
 
 ### ⚙️ Power Query Corporate Training Masterclass – Skill Course  
 
@@ -158,7 +160,7 @@ This achievement further deepened my understanding of how **Power Query forms th
 
 ---
 
-## <span id="github"> ✅ GitHub Basics (Simplilearn, October 2025)</span>
+## <span id="github"> ✅ GitHub Basics (*Simplilearn, Nov 2025*)</span>
 
 I’m thrilled to share that I’ve achieved my **first professional certification** — **Git & GitHub Basics** from **Simplilearn**, one of the most reputed global learning platforms.  
 This certification marks the **beginning of my professional learning journey**, strengthening my foundation in **version control, collaboration, and repository management** — core skills for every modern developer and data professional.
@@ -166,13 +168,7 @@ This certification marks the **beginning of my professional learning journey**, 
 Throughout this program, I gained practical knowledge of how **Git and GitHub** work together to simplify teamwork and project versioning.  
 I learned both **manual and command-line methods** of managing repositories and explored essential version control concepts like **branches, commits, merges, and pull requests** for efficient collaboration.
 
-The course covered:
-   
-- 🔹 **Introduction to Git and GitHub concepts**  
-- 🔹 **Creating and managing repositories**  
-- 🔹 **Working with branches, commits, and merges**  
-- 🔹 **Collaborative workflows and issue tracking**  
-- 🔹 **Using Git commands — manually and through coding**  
+The course covered essential topics like *Git and GitHub concepts*, including *creating and managing repositories*, *working with branches, commits, and merges*, *collaborative workflows and issue tracking*, and *using Git commands — manually and through coding*.  
 
 Offered by **Simplilearn**, this beginner-to-advanced course provided **hands-on experience** in using Git and GitHub — essential tools for managing projects, collaborating on code, and tracking progress efficiently.
 
@@ -181,6 +177,35 @@ Completing this course has not only enhanced my understanding of **software vers
 ![GitHub Basics Certification](GitHub%20Basics.png)
 
 ---
+
+## <span id="excel">✅ Introduction to MS Excel (Microsoft, Nov 2025)</span>
+
+**Introduction to Microsoft Excel** from **Simplilearn**, conducted in collaboration with **Microsoft**, one of the world’s leading technology organizations.  
+This certification marks a significant step in strengthening my expertise in **data analysis, reporting, and business intelligence**, empowering me to use Excel as a powerful analytical tool.
+
+Throughout this program, I gained hands-on experience in **analyzing, visualizing, and organizing data** using Excel’s wide range of functions and tools.  
+I learned how to efficiently use **formulas, pivot tables, charts, data validation, conditional formatting**, and **macros & VBA** to automate workflows and create insightful dashboards.
+
+The course covered both **fundamental and advanced Excel features**, including *sorting and filtering data*, *creating pivot tables and charts*, *using formulas and functions*, *validating and formatting data*, and *automating tasks with Macros & VBA*.  
+
+Completing this course has strengthened my confidence in **Excel-based data analytics and automation**, enhancing my ability to deliver efficient and visually impactful business insights.  
+
+![Introduction to MS Excel](MS%20Excel.png)
+
+## <span id="power query in excel">✅ Introduction to Power Query in Excel Basics (Microsoft, Nov 2025)</span>
+
+**Introduction to Power Query in Excel Basics** from **Simplilearn**, conducted in collaboration with **Microsoft**, a global leader in technology and data solutions.  
+This certification represents my advancement in **data automation and transformation**, enhancing my ability to prepare, clean, and manage complex datasets efficiently within Excel.
+
+Throughout this program, I gained practical experience in **automating data cleaning, transformation, and preparation processes** using the Power Query Editor.  
+I learned how to **import and connect data from multiple sources**, **merge and append queries**, **reshape datasets**, **handle missing or inconsistent values**, and **create custom calculations** using the **M language** for advanced data manipulation.
+
+The course covered both **fundamental and advanced Power Query features**, empowering learners to streamline workflows through efficient **Extract, Transform, and Load (ETL)** processes within Excel.  
+
+Offered by **Simplilearn** and **conducted by Microsoft**, this hands-on course strengthened my technical skills in **Data Cleaning and Transformation** and **ETL operations**, laying a solid foundation for professional data analysis and reporting.  
+
+![power query in excel](Power%20Query%20in%20Excel.png)
+
 
 ## <span id="final-note">📌 Final Note</span> 
 
