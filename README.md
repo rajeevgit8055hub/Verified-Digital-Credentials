@@ -246,6 +246,9 @@ This repository serves as a secure, well-organized, and easily accessible archiv
 
 
 ## 🟣 Microsoft Access 2024 — Database Management and Automation  
+
+Microsoft Access Essential Training (Office 2024/LTSC)
+
 **From:** LinkedIn Learning | **Instructor:** Adam Wilbert  
 
 This certification represents my advancement in **database design, management, and automation** using **Microsoft Access 2024**.  
