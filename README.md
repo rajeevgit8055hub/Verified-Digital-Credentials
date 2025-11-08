@@ -243,3 +243,18 @@ This repository serves as a secure, well-organized, and easily accessible archiv
 
 ---
 
+
+
+## 🟣 Microsoft Access 2024 — Database Management and Automation  
+**From:** LinkedIn Learning | **Instructor:** Adam Wilbert  
+
+This certification represents my advancement in **database design, management, and automation** using **Microsoft Access 2024**.  
+I learned how to **create and manage relational databases**, **design efficient data structures**, and **build interactive forms, queries, and reports** to support business data operations.  
+
+The course also covered **macros, VBA fundamentals**, and **database maintenance techniques**, enabling me to **automate workflows** and **enhance database performance** for long-term organizational use.  
+Offered by **LinkedIn Learning**, this hands-on program strengthened my technical skills in **SQL queries, reporting, and database optimization** within the Microsoft Access ecosystem.  
+
+It helped me gain a deeper understanding of **data relationships, normalization, and form/report customization** for better usability.  
+By the end of the course, I was able to **design secure, efficient, and automated Access databases** aligned with business intelligence goals.
+
+
