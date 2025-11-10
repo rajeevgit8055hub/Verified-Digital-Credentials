@@ -3,7 +3,7 @@
 ## 📑 Table of Contents
 
 - <a href="#introduction">📌 Introduction</a>  
-- <a href="#overview">📜 Certificates Overview</a>  
+- <a href="#overview">📜 certification Overview</a>  
 - <a href="#ccc">✅ CCC – Course on Computer Concepts (NIELIT, Jun 2023)</a>  
 - <a href="#tally-prime">✅ Tally Prime with GST (Skill Course, Apr 2024)</a>  
 - <a href="#adca">✅ ADCA – Advance Diploma in Computer Application (Skill Course, Oct 2024)</a>  
@@ -23,19 +23,19 @@
 
 ## <span id="introduction">📌 Introduction</span>  
 
-A well-organized repository of my **verified credentials** and **professional certificates**, each documented with its image and a brief description of what I learned and how it supports my professional growth.  
+A well-organized repository of my **verified credentials** and **professional certification**, each documented with its image and a brief description of what I learned and how it supports my professional growth.  
 
 This collection reflects my **diverse skill set** and strong **commitment to continuous learning**, upskilling, and staying **industry-relevant** in a rapidly evolving world.  
 
 I believe **growth is a lifelong journey**, and every credential here is proof of my dedication to keeping my skills **current, applicable, and valuable**.  
 
-From mastering **core computer concepts** to gaining expertise in **Tally Prime** and completing **comprehensive diploma programs**, each certificate marks a key milestone that has strengthened my career and expanded my **real-world knowledge**.
+From mastering **core computer concepts** to gaining expertise in **Tally Prime** and completing **comprehensive diploma programs**, each certification marks a key milestone that has strengthened my career and expanded my **real-world knowledge**.
 
 ---
 
 ## <span id="overview">📜 Certificates Overview</span> 
 
-Each certificate included here represents a **practical milestone** in my continuous learning path.  
+Each certification included here represents a **practical milestone** in my continuous learning path.  
 
 Starting with the **basics of computer concepts**, I gradually expanded my expertise into specialized fields such as **professional accounting with Tally Prime**, and then broadened it further through a **comprehensive Advanced Diploma** that covers diverse software, tools, and even **introductory web technologies**.  
 
@@ -45,7 +45,7 @@ Together, these achievements illustrate my **commitment to acquiring real-world 
 
 ## <span id="ccc">✅ CCC – Course on Computer Concepts (*NIELIT, Jun 2023*)</span> 
 
-This was the **first certificate** of my IT learning journey — a foundational milestone that sparked my curiosity and passion for **computer science, digital literacy**, and the power of technology in everyday life.  
+This was the **first certification** of my IT learning journey — a foundational milestone that sparked my curiosity and passion for **computer science, digital literacy**, and the power of technology in everyday life.  
 
 Completing this certification in **June 2023** remains a proud milestone that built my confidence and inspired me to continue exploring advanced software, data tools, and programming in the IT field.
 
@@ -53,7 +53,7 @@ Through the **CCC (Course on Computer Concepts)** by **NIELIT** (*National Insti
 
 The course also covered **email communication**, **basic networking**, **cybersecurity fundamentals**, and an introduction to **emerging technologies** such as the **Internet of Things (IoT)**, broadening my view of how technology connects the world.  
 
-![CCC Certificate](CCC.png)
+![CCC certification](CCC.png)
 
 ---
 
@@ -67,7 +67,7 @@ I learned to manage business accounts, prepare **balance sheets**, generate **pr
 
 This **industry-focused training** enhanced my understanding of real-world accounting workflows and strengthened my ability to handle modern **finance and taxation tasks** efficiently. Completing this certification in **April 2024** added a valuable professional edge to my accounting expertise.
 
-![Tally Prime Certificate](Tally%20Prime.png)
+![Tally Prime certification](Tally%20Prime.png)
 
 ---
 
@@ -83,7 +83,7 @@ Additionally, I gained hands-on experience in **HTML, CSS, JavaScript**, **Compu
 
 Completing this diploma in **October 2024** has made me a **versatile professional**, capable of handling office operations, MIS reporting, accounting, and basic web design in today’s dynamic digital environment.
 
-![ADCA Certificate](ADCA.png)
+![ADCA certification](ADCA.png)
 
 ---
 
@@ -99,7 +99,7 @@ I also learned essential concepts like **Operating Systems**, **Computer Fundame
 
 Completing this certification in **July 2025** enhanced my confidence in using productivity tools effectively and built a strong foundation for future learning in **data handling**, **documentation**, and **workplace automation**.
 
-![Microsoft Office Crash Course Certificate](MS%20Office.png)
+![Microsoft Office Crash Course certification](MS%20Office.png)
 
 ---
 
@@ -113,7 +113,7 @@ The course opened a new dimension for me — combining traditional Excel experti
 
 This achievement marks another step forward in my journey toward becoming a **data-driven professional** capable of blending technology, automation, and analytical thinking to create real impact.
 
-![CHATGPT in Excel Certificate](ChatGPT.png)
+![CHATGPT in Excel certification](ChatGPT.png)
 
 ---
 
@@ -125,7 +125,7 @@ Through this program, I built a strong foundation in **relational database syste
 
 Additionally, I gained hands-on experience with **views**, **stored procedures**, **indexing**, and **date/time functions**, enabling me to design and optimize scalable database solutions. Completing this course in **July 2025** strengthened my confidence in working with data and prepared me to contribute effectively to **data analytics, business intelligence**, and **database management** projects.
 
-![SQL Certificate](SQL.png)
+![SQL certification](SQL.png)
 
 ---
 
@@ -141,7 +141,7 @@ The course also enhanced my visualization skills — from building **charts, tab
 
 Completing this **hands-on, industry-relevant** program in **July 2025** has strengthened my expertise in **data visualization and reporting**, enabling me to contribute effectively to **business intelligence and analytics projects** with **Power BI Desktop and Service**.
 
-![Power BI Certificate](PowerBI.png)
+![Power BI certification](PowerBI.png)
 
 ---
 
@@ -157,7 +157,7 @@ Completing this **practical, industry-aligned program** in **July 2025** enhance
 
 This achievement further deepened my understanding of how **Power Query forms the foundation of modern data preparation** in analytics and business intelligence.
 
-![Power Query Masterclass Certificate](PowerQuery.png)
+![Power Query Masterclass certification](PowerQuery.png)
 
 ---
 
@@ -191,7 +191,7 @@ The course covered both **fundamental and advanced Excel features**, including *
 
 Completing this course has strengthened my confidence in **Excel-based data analytics and automation**, enhancing my ability to deliver efficient and visually impactful business insights.  
 
-![Introduction to MS Excel](MS%20Excel.png)
+![Introduction to MS Excel certification](MS%20Excel.png)
 
 ## <span id="power query in excel">✅ Introduction to Power Query in Excel Basics (*Microsoft, Nov 2025*)</span>
 
@@ -205,7 +205,7 @@ The course covered both **fundamental and advanced Power Query features**, empow
 
 Offered by **Simplilearn** and **conducted by Microsoft**, this hands-on course strengthened my technical skills in **Data Cleaning and Transformation** and **ETL operations**, laying a solid foundation for professional data analysis and reporting.  
 
-![power query in excel](Power%20Query%20in%20Excel.png)
+![power query in excel certification](Power%20Query%20in%20Excel.png)
 
 ---
 
@@ -221,13 +221,13 @@ The course covered both **fundamental and advanced Databricks features**, empowe
 
 Offered by **Simplilearn** and **conducted by Databricks**, this hands-on course strengthened my technical skills in **Databricks SQL, Delta Lake, and AI-BI Visualization**, laying a solid foundation for professional analytics and BI projects.
 
-![SQL Analytics and BI on Databricks](Databricks%20SQL.png)
+![SQL Analytics and BI on Databricks certification](Databricks%20SQL.png)
 
 ---
 
 ## <span id="final-note">📌 Final Note</span> 
 
-This repository serves as a secure, well-organized, and easily accessible archive of my verified credentials — providing clear proof of my dedication to lifelong learning, continuous upskilling, and staying aligned with industry demands. Each credential here demonstrates how I proactively acquire relevant skills and apply them to deliver meaningful, practical, and high-quality work that creates a positive impact in every project, role, or responsibility I undertake. It reflects my commitment to grow as a professional who can adapt, contribute, and add value wherever I work.
+This repository serves as a secure, well-organized, and easily accessible archive of my verified credentials and certification — providing clear proof of my dedication to lifelong learning, continuous upskilling, and staying aligned with industry demands. Each credential here demonstrates how I proactively acquire relevant skills and apply them to deliver meaningful, practical, and high-quality work that creates a positive impact in every project, role, or responsibility I undertake. It reflects my commitment to grow as a professional who can adapt, contribute, and add value wherever I work.
 
 ---
 
