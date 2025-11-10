@@ -245,7 +245,7 @@ This repository serves as a secure, well-organized, and easily accessible archiv
 
 
 
-## 🟣 Microsoft Access 2024 — Database Management and Automation  
+<!-- ## 🟣 Microsoft Access 2024 — Database Management and Automation  
 
 Microsoft Access Essential Training (Office 2024/LTSC)
 
@@ -258,6 +258,6 @@ The course also covered **macros, VBA fundamentals**, and **database maintenance
 Offered by **LinkedIn Learning**, this hands-on program strengthened my technical skills in **SQL queries, reporting, and database optimization** within the Microsoft Access ecosystem.  
 
 It helped me gain a deeper understanding of **data relationships, normalization, and form/report customization** for better usability.  
-By the end of the course, I was able to **design secure, efficient, and automated Access databases** aligned with business intelligence goals.
+By the end of the course, I was able to **design secure, efficient, and automated Access databases** aligned with business intelligence goals.  -->
 
 
