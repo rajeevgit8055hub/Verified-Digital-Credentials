@@ -254,7 +254,7 @@ Offered by **Simplilearn** and **conducted by Databricks**, this hands-on course
 
 ---
 
-## <span id="da-postgresql">✅ Data Analysis with PostgreSQL (*LinkedIn, Nov 2025*)</span> Power BI for Beginners
+## <span id="da-postgresql">✅ Data Analysis with PostgreSQL (*LinkedIn, Nov 2025*)</span>
 
 ![Data Analysis with PostgreSQL certification](DA%20PostgreSQL.png)
 
