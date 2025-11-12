@@ -1,5 +1,3 @@
-# 🎓 Verified-Digital-Credentials
-
 ## 📑 Table of Contents
 
 - <a href="#introduction">📌 Introduction</a>  
@@ -16,6 +14,13 @@
 - <a href="#excel">✅ Introduction to MS Excel (Microsoft, Nov 2025)</a>
 - <a href="#power query in excel">✅ Introduction to Power Query in Excel Basics (Microsoft, Nov 2025)</a>
 - <a href="#databricks-sql">✅ SQL Analytics and BI on Databricks (*Databricks, Nov 2025*)</a>
+- <a href="#access-essential">✅ Microsoft Access Essential Training (Office 2024_LTSC) (*LinkedIn, Nov 2025*)</a>
+- <a href="#essential-excel">✅ Essentials of MS Excel - Formulas and Functions (*Uniathena, Nov 2025*)</a>
+- <a href="#introduction-sql">✅ Introduction to SQL (*Simplilearn, Nov 2025*)</a>
+- <a href="#excel-dashboard">✅ Excel Dashboard for Beginners (*Microsoft, Nov 2025*)</a>
+- <a href="#da-postgresql">✅ Data Analysis with PostgreSQL (*LinkedIn, Nov 2025*)</a>
+- <a href="#powerbi-beginners">✅ Power BI for Beginners (*Microsoft, Nov 2025*)</a>
+- <a href="#data-analyst-101">✅ Data Analyst 101 (*Microsoft, Nov 2025*)</a>
 - <a href="#final-note">📌 Final Note</a>  
 - <a href="#contact">📬 Connect with Me</a>
 
@@ -189,9 +194,9 @@ I learned how to efficiently use **formulas, pivot tables, charts, data validati
 
 The course covered both **fundamental and advanced Excel features**, including *sorting and filtering data*, *creating pivot tables and charts*, *using formulas and functions*, *validating and formatting data*, and *automating tasks with Macros & VBA*.  
 
-Completing this course has strengthened my confidence in **Excel-based data analytics and automation**, enhancing my ability to deliver efficient and visually impactful business insights.  
+Completing this course has strengthened my confidence in **Excel-based data analytics and automation**, enhancing my ability to deliver efficient and visually impactful business insights.
 
-![Introduction to MS Excel certification](MS%20Excel.png)
+![Introduction to MS Excel certification](Introduction%20Excel.png)
 
 ## <span id="power query in excel">✅ Introduction to Power Query in Excel Basics (*Microsoft, Nov 2025*)</span>
 
@@ -225,7 +230,49 @@ Offered by **Simplilearn** and **conducted by Databricks**, this hands-on course
 
 ---
 
-## <span id="final-note">📌 Final Note</span> 
+## <span id="access-essential">✅ Microsoft Access Essential Training (Office 2024_LTSC) (*LinkedIn, Nov 2025*)</span>
+
+![Microsoft Access Essential Training certification](Access%20Essential.png)
+
+---
+
+## <span id="essential-excel">✅ Essentials of MS Excel - Formulas and Functions (*Uniathena, Nov 2025*)</span>
+
+![Essentials of MS Excel certification](Essential%20Excel.png)
+
+---
+
+## <span id="introduction-sql">✅ Introduction to SQL (*Simplilearn, Nov 2025*)</span>
+
+![Introduction to SQL certification](Introduction%20SQL.png)
+
+---
+
+## <span id="excel-dashboard">✅ Excel Dashboard for Beginners (*Microsoft, Nov 2025*)</span>
+
+![Excel Dashboard for Beginners certification](Excel%20Dashboard.png)
+
+---
+
+## <span id="da-postgresql">✅ Data Analysis with PostgreSQL (*LinkedIn, Nov 2025*)</span> Power BI for Beginners
+
+![Data Analysis with PostgreSQL certification](DA%20PostgreSQL.png)
+
+---
+
+## <span id="powerbi-beginners">✅ Power BI for Beginners (*Microsoft, Nov 2025*)</span>
+
+![Power BI for Beginners certification](PowerBI%20Beginners.png)
+
+---
+
+## <span id="data-analyst-101">✅ Data Analyst 101 (*Microsoft, Nov 2025*)</span>  
+
+![Data Analyst 101 certification](Data%20Analyst101.png)
+
+---
+
+## <span id="final-note">📌 Final Note</span>  
 
 This repository serves as a secure, well-organized, and easily accessible archive of my verified credentials and certification — providing clear proof of my dedication to lifelong learning, continuous upskilling, and staying aligned with industry demands. Each credential here demonstrates how I proactively acquire relevant skills and apply them to deliver meaningful, practical, and high-quality work that creates a positive impact in every project, role, or responsibility I undertake. It reflects my commitment to grow as a professional who can adapt, contribute, and add value wherever I work.
 
@@ -242,8 +289,6 @@ This repository serves as a secure, well-organized, and easily accessible archiv
 🤝 *Thank you for visiting my profile & Verified-Digital-Credentials repository!*
 
 ---
-
-
 
 <!-- ## 🟣 Microsoft Access 2024 — Database Management and Automation  
 
