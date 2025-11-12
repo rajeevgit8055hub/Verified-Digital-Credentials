@@ -238,7 +238,7 @@ Offered by **Simplilearn** and **conducted by Databricks**, this hands-on course
 
 ## <span id="essential-excel">✅ Essentials of MS Excel - Formulas and Functions (*Uniathena, Nov 2025*)</span>
 
-![Essentials of MS Excel certification](Essential%20Excel.png)
+![Essentials of MS Excel certification](Essentials%20Excel.png)
 
 ---
 
