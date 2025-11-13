@@ -21,6 +21,7 @@
 - <a href="#da-postgresql">✅ Data Analysis with PostgreSQL (*LinkedIn, Nov 2025*)</a>
 - <a href="#powerbi-beginners">✅ Power BI for Beginners (*Microsoft, Nov 2025*)</a>
 - <a href="#data-analyst-101">✅ Data Analyst 101 (*Microsoft, Nov 2025*)</a>
+- <a href="#data-visualization-using-ms-excel">✅ Essentials of Data Visualization using MS Excel (*Uniathena, Nov 2025*)</a>
 - <a href="#final-note">📌 Final Note</a>  
 - <a href="#contact">📬 Connect with Me</a>
 
@@ -271,6 +272,12 @@ Offered by **Simplilearn** and **conducted by Databricks**, this hands-on course
 ![Data Analyst 101 certification](Data%20Analyst101.png)
 
 ---
+
+## <span id="data-visualization-using-ms-excel">✅ Essentials of Data Visualization using MS Excel (*Uniathena, Nov 2025*)</span>  
+
+![Data Visualization using MS Excel](Data%20Visualization%20using%20MS%20Excel.png)
+
+--- 
 
 ## <span id="final-note">📌 Final Note</span>  
 
