@@ -2,19 +2,19 @@
 
 - <a href="#introduction">📌 Introduction</a>  
 - <a href="#overview">📜 certification Overview</a>  
-- <a href="#ccc">✅ CCC – Course on Computer Concepts (NIELIT, Jun 2023)</a>  
-- <a href="#tally-prime">✅ Tally Prime with GST (Skill Course, Apr 2024)</a>  
-- <a href="#adca">✅ ADCA – Advance Diploma in Computer Application (Skill Course, Oct 2024)</a>  
-- <a href="#ms-office">✅ Microsoft Office Crash Course (Skill Course, Jul 2025)</a>  
-- <a href="#excel-ai">✅ ChatGPT in Excel (Skill Course, Jul 2025)</a>  
-- <a href="#sql">✅ 30 Days SQL Micro Course (Skill Course, Jul 2025)</a>  
-- <a href="#power-bi">✅ 30 Days Power BI Micro Course (Skill Course, Jul 2025)</a> 
-- <a href="#power-query">✅ Power Query Corporate Training Masterclass (Skill Course, Oct 2025)</a>
-- <a href="#github">✅ GitHub Basics (Simplilearn, Nov 2025)</a>
-- <a href="#excel">✅ Introduction to MS Excel (Microsoft, Nov 2025)</a>
-- <a href="#power query in excel">✅ Introduction to Power Query in Excel Basics (Microsoft, Nov 2025)</a>
+- <a href="#ccc">✅ CCC – Course on Computer Concepts (*NIELIT, Jun 2023*)</a>  
+- <a href="#tally-prime">✅ Tally Prime with GST (*Skill Course, Apr 2024*)</a>  
+- <a href="#adca">✅ ADCA – Advance Diploma in Computer Application (*Skill Course, Oct 2024*)</a>  
+- <a href="#ms-office">✅ Microsoft Office Crash Course (*Skill Course, Jul 2025*)</a>  
+- <a href="#excel-ai">✅ ChatGPT in Excel (*Skill Course, Jul 2025*)</a>  
+- <a href="#sql">✅ 30 Days SQL Micro Course (*Skill Course, Jul 2025*)</a>  
+- <a href="#power-bi">✅ 30 Days Power BI Micro Course (*Skill Course, Jul 2025*)</a> 
+- <a href="#power-query">✅ Power Query Corporate Training Masterclass (*Skill Course, Oct 2025*)</a>
+- <a href="#github">✅ GitHub Basics (*Simplilearn, Nov 2025*)</a>
+- <a href="#excel">✅ Introduction to MS Excel (*Microsoft, Nov 2025*)</a>
+- <a href="#power query in excel">✅ Introduction to Power Query in Excel Basics (*Microsoft, Nov 2025*)</a>
 - <a href="#databricks-sql">✅ SQL Analytics and BI on Databricks (*Databricks, Nov 2025*)</a>
-- <a href="#access-essential">✅ Microsoft Access Essential Training (Office 2024_LTSC) (*LinkedIn, Nov 2025*)</a>
+- <a href="#access-essential">✅ Microsoft Access Essential Training (*Office 2024_LTSC*) (*LinkedIn, Nov 2025*)</a>
 - <a href="#essential-excel">✅ Essentials of MS Excel - Formulas and Functions (*Uniathena, Nov 2025*)</a>
 - <a href="#introduction-sql">✅ Introduction to SQL (*Simplilearn, Nov 2025*)</a>
 - <a href="#excel-dashboard">✅ Excel Dashboard for Beginners (*Microsoft, Nov 2025*)</a>
@@ -22,6 +22,7 @@
 - <a href="#powerbi-beginners">✅ Power BI for Beginners (*Microsoft, Nov 2025*)</a>
 - <a href="#data-analyst-101">✅ Data Analyst 101 (*Microsoft, Nov 2025*)</a>
 - <a href="#data-visualization-using-ms-excel">✅ Essentials of Data Visualization using MS Excel (*Uniathena, Nov 2025*)</a>
+- <a href="#introduction-to-business-communication">✅ Introduction to Business Communication (*Simplilearn, Nov 2025*)</a>
 - <a href="#final-note">📌 Final Note</a>  
 - <a href="#contact">📬 Connect with Me</a>
 
@@ -275,9 +276,15 @@ Offered by **Simplilearn** and **conducted by Databricks**, this hands-on course
 
 ## <span id="data-visualization-using-ms-excel">✅ Essentials of Data Visualization using MS Excel (*Uniathena, Nov 2025*)</span>  
 
-![Data Visualization using MS Excel](Data%20Visualization%20using%20MS%20Excel.png)
+![Data Visualization using MS Excel certification](Data%20Visualization%20using%20MS%20Excel.png)
 
 --- 
+
+## <span id="introduction-to-business-communication">✅ Introduction to Business Communication (*Simplilearn, Nov 2025*)</span>  
+
+![Introduction to Business Communication certification](Introduction%20to%20Business%20Communication.png)
+
+---
 
 ## <span id="final-note">📌 Final Note</span>  
 
