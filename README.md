@@ -23,6 +23,7 @@
 - <a href="#data-analyst-101">✅ Data Analyst 101 (*Microsoft, Nov 2025*)</a>
 - <a href="#data-visualization-using-ms-excel">✅ Essentials of Data Visualization using MS Excel (*Uniathena, Nov 2025*)</a>
 - <a href="#introduction-to-business-communication">✅ Introduction to Business Communication (*Simplilearn, Nov 2025*)</a>
+- <a href="#introduction-to-data-analytics">✅ Introduction to Data Analytics (*Simplilearn, Nov 2025*)</a>
 - <a href="#final-note">📌 Final Note</a>  
 - <a href="#contact">📬 Connect with Me</a>
 
@@ -234,6 +235,15 @@ Offered by **Simplilearn** and **conducted by Databricks**, this hands-on course
 
 ## <span id="access-essential">✅ Microsoft Access Essential Training (Office 2024_LTSC) (*LinkedIn, Nov 2025*)</span>
 
+This certification represents my advancement in **database design, management, and automation** using **Microsoft Access 2024**.  
+I learned how to **create and manage relational databases**, **design efficient data structures**, and **build interactive forms, queries, and reports** to support business data operations.  
+
+The course also covered **macros, VBA fundamentals**, and **database maintenance techniques**, enabling me to **automate workflows** and **enhance database performance** for long-term organizational use.  
+Offered by **LinkedIn Learning**, this hands-on program strengthened my technical skills in **SQL queries, reporting, and database optimization** within the Microsoft Access ecosystem.  
+
+It helped me gain a deeper understanding of **data relationships, normalization, and form/report customization** for better usability.  
+By the end of the course, I was able to **design secure, efficient, and automated Access databases** aligned with business intelligence goals.
+
 ![Microsoft Access Essential Training certification](Access%20Essential.png)
 
 ---
@@ -286,6 +296,12 @@ Offered by **Simplilearn** and **conducted by Databricks**, this hands-on course
 
 ---
 
+## <span id="introduction-to-data-analytics">✅ Introduction to Data Analytics (*Simplilearn, Nov 2025*)</span>  
+
+![Introduction to Data Analytics certification](Introduction%20to%20Data%20Analytics.png)
+
+---
+
 ## <span id="final-note">📌 Final Note</span>  
 
 This repository serves as a secure, well-organized, and easily accessible archive of my verified credentials and certification — providing clear proof of my dedication to lifelong learning, continuous upskilling, and staying aligned with industry demands. Each credential here demonstrates how I proactively acquire relevant skills and apply them to deliver meaningful, practical, and high-quality work that creates a positive impact in every project, role, or responsibility I undertake. It reflects my commitment to grow as a professional who can adapt, contribute, and add value wherever I work.
@@ -304,19 +320,5 @@ This repository serves as a secure, well-organized, and easily accessible archiv
 
 ---
 
-<!-- ## 🟣 Microsoft Access 2024 — Database Management and Automation  
-
-Microsoft Access Essential Training (Office 2024/LTSC)
-
-**From:** LinkedIn Learning | **Instructor:** Adam Wilbert  
-
-This certification represents my advancement in **database design, management, and automation** using **Microsoft Access 2024**.  
-I learned how to **create and manage relational databases**, **design efficient data structures**, and **build interactive forms, queries, and reports** to support business data operations.  
-
-The course also covered **macros, VBA fundamentals**, and **database maintenance techniques**, enabling me to **automate workflows** and **enhance database performance** for long-term organizational use.  
-Offered by **LinkedIn Learning**, this hands-on program strengthened my technical skills in **SQL queries, reporting, and database optimization** within the Microsoft Access ecosystem.  
-
-It helped me gain a deeper understanding of **data relationships, normalization, and form/report customization** for better usability.  
-By the end of the course, I was able to **design secure, efficient, and automated Access databases** aligned with business intelligence goals.  -->
 
 
