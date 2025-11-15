@@ -1,7 +1,7 @@
 ## 📑 Table of Contents
 
 - <a href="#introduction">📌 Introduction</a>  
-- <a href="#overview">📜 certification Overview</a>  
+- <a href="#overview">📜 Certification Overview</a>  
 - <a href="#ccc">✅ CCC – Course on Computer Concepts (*NIELIT, Jun 2023*)</a>  
 - <a href="#tally-prime">✅ Tally Prime with GST (*Skill Course, Apr 2024*)</a>  
 - <a href="#adca">✅ ADCA – Advance Diploma in Computer Application (*Skill Course, Oct 2024*)</a>  
@@ -42,7 +42,7 @@ From mastering **core computer concepts** to gaining expertise in **Tally Prime*
 
 ---
 
-## <span id="overview">📜 certification Overview</span> 
+## <span id="overview">📜 Certification Overview</span> 
 
 Each certification included here represents a **practical milestone** in my continuous learning path.  
 
