@@ -42,7 +42,7 @@ From mastering **core computer concepts** to gaining expertise in **Tally Prime*
 
 ---
 
-## <span id="overview">📜 Certificates Overview</span> 
+## <span id="overview">📜 certification Overview</span> 
 
 Each certification included here represents a **practical milestone** in my continuous learning path.  
 
