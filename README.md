@@ -24,8 +24,9 @@
 - <a href="#data-visualization-using-ms-excel">✅ Essentials of Data Visualization using MS Excel (*Uniathena, Nov 2025*)</a>
 - <a href="#introduction-to-business-communication">✅ Introduction to Business Communication (*Simplilearn, Nov 2025*)</a>
 - <a href="#introduction-to-data-analytics">✅ Introduction to Data Analytics (*Simplilearn, Nov 2025*)</a>
+- <a href="#google-sheets-advanced-topics">✅ Google Sheets - Advanced Topics (*Google Cloud, Nov 2025*)</a>
 - <a href="#final-note">📌 Final Note</a>  
-- <a href="#contact">📬 Connect with Me</a>
+- <a href="#contact">📬 Connect with Me</a> 
 
 ---
 
@@ -299,6 +300,12 @@ By the end of the course, I was able to **design secure, efficient, and automate
 ## <span id="introduction-to-data-analytics">✅ Introduction to Data Analytics (*Simplilearn, Nov 2025*)</span>  
 
 ![Introduction to Data Analytics certification](Introduction%20to%20Data%20Analytics.png)
+
+---
+
+## <span id="google-sheets-advanced-topics">✅ Google Sheets - Advanced Topics (*Google Cloud, Nov 2025*)</span>  
+
+![Google Sheets - Advanced Topics certification](Google%20Sheets%20-%20Advanced%20Topics.png)
 
 ---
 
