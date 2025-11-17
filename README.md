@@ -33,23 +33,13 @@
 
 ## <span id="introduction">📌 Introduction</span>  
 
-A well-organized repository of my **verified credentials** and **professional certification**, each documented with its image and a brief description of what I learned and how it supports my professional growth.  
-
-This collection reflects my **diverse skill set** and strong **commitment to continuous learning**, upskilling, and staying **industry-relevant** in a rapidly evolving world. I believe **growth is a lifelong journey**, and every credential here is proof of my dedication to keeping my skills **current, applicable, and valuable**.  
+This repository showcases my **verified credentials** and **professional certifications**, each highlighting what I learned and how it supports my growth. It reflects my **diverse skills** and commitment to **continuous learning**, staying **industry-relevant**, and keeping my abilities **current and valua**
 
 ---
 
 ## <span id="overview">📜 Certification Overview</span> 
 
-My certifications mark key milestones in my learning journey. Starting with **basic computer concepts**, I advanced into **Data Analysis**—covering **Excel, Access, Power Query, SQL, Power BI, Tableau VBA**—and expanded into **introductory web technologies**.
-
-**Key Skills:**
-
-- Data Analysis & Visualization: Excel, Power Query, Access, Power BI, SQL , Tableau, VBA
-- Programming & Automation: Python, VBA  
-- Web Basics: HTML, CSS, JavaScript  
-
-These achievements reflect my **commitment to real-world skills**, staying updated with **industry tools**, and delivering **practical, high-quality work**.
+My certifications highlight key milestones in my learning journey, from **basic computer concepts** to **Data Analysis** with tools like **Excel, Access, Power Query, SQL, Power BI, Tableau, and VBA**, and also **introductory web technologies**. They reflect my **commitment to practical, real-world skills**, staying updated with **industry tools**, and delivering **high-quality work**.
 
 ---
 
