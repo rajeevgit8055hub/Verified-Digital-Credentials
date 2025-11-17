@@ -41,8 +41,6 @@ This collection reflects my **diverse skill set** and strong **commitment to con
 
 ## <span id="overview">📜 Certification Overview</span> 
 
-# Continuous Learning & Certifications
-
 My certifications mark key milestones in my learning journey. Starting with **basic computer concepts**, I advanced into **Data Analysis**—covering **Excel, Access, Power Query, SQL, Power BI, Tableau VBA**—and expanded into **introductory web technologies**.
 
 **Key Skills:**
