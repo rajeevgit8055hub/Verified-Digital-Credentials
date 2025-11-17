@@ -25,8 +25,9 @@
 - <a href="#introduction-to-business-communication">✅ Introduction to Business Communication (*Simplilearn, Nov 2025*)</a>
 - <a href="#introduction-to-data-analytics">✅ Introduction to Data Analytics (*Simplilearn, Nov 2025*)</a>
 - <a href="#google-sheets-advanced-topics">✅ Google Sheets - Advanced Topics (*Google Cloud, Nov 2025*)</a>
+- <a href="#data-visualization-with-tableau">✅ Basics of Data Visualization with Tableau (*Uniathena, Nov 2025*)</a>
 - <a href="#final-note">📌 Final Note</a>  
-- <a href="#contact">📬 Connect with Me</a> 
+- <a href="#contact">📬 Connect with Me</a>    
 
 ---
 
@@ -172,6 +173,11 @@ This achievement further deepened my understanding of how **Power Query forms th
 
 ## <span id="github"> ✅ GitHub Basics (*Simplilearn, Nov 2025*)</span>
 
+Issuing Organization: Coursera
+Issue Date: Jan 2024
+Credential ID: ABCD-1234
+Credential URL: https://coursera.org/verify/xxxx
+
 I’m thrilled to share that I’ve achieved my **first professional certification** — **Git & GitHub Basics** from **Simplilearn**, one of the most reputed global learning platforms.  
 This certification marks the **beginning of my professional learning journey**, strengthening my foundation in **version control, collaboration, and repository management** — core skills for every modern developer and data professional.
 
@@ -190,6 +196,11 @@ Completing this course has not only enhanced my understanding of **software vers
 
 ## <span id="excel">✅ Introduction to MS Excel (*Microsoft, Nov 2025*)</span>
 
+Issuing Organization: Coursera
+Issue Date: Jan 2024
+Credential ID: ABCD-1234
+Credential URL: https://coursera.org/verify/xxxx
+
 **Introduction to Microsoft Excel** from **Simplilearn**, conducted in collaboration with **Microsoft**, one of the world’s leading technology organizations.  
 This certification marks a significant step in strengthening my expertise in **data analysis, reporting, and business intelligence**, empowering me to use Excel as a powerful analytical tool.
 
@@ -202,7 +213,14 @@ Completing this course has strengthened my confidence in **Excel-based data anal
 
 ![Introduction to MS Excel certification](Introduction%20Excel.png)
 
+---
+
 ## <span id="power query in excel">✅ Introduction to Power Query in Excel Basics (*Microsoft, Nov 2025*)</span>
+
+Issuing Organization: Coursera
+Issue Date: Jan 2024
+Credential ID: ABCD-1234
+Credential URL: https://coursera.org/verify/xxxx
 
 **Introduction to Power Query in Excel Basics** from **Simplilearn**, conducted in collaboration with **Microsoft**, a global leader in technology and data solutions.  
 This certification represents my advancement in **data automation and transformation**, enhancing my ability to prepare, clean, and manage complex datasets efficiently within Excel.
@@ -220,6 +238,11 @@ Offered by **Simplilearn** and **conducted by Microsoft**, this hands-on course 
 
 ## <span id="databricks-sql">✅ SQL Analytics and BI on Databricks (*Databricks, Nov 2025*)</span>
 
+Issuing Organization: Coursera
+Issue Date: Jan 2024
+Credential ID: ABCD-1234
+Credential URL: https://coursera.org/verify/xxxx
+
 **SQL Analytics and BI on Databricks** from **Simplilearn**, conducted in collaboration with **Databricks**, a global leader in data analytics and AI solutions.  
 This certification represents my advancement in **data analytics, AI, and business intelligence**, enhancing my ability to query, analyze, and visualize complex datasets using the Databricks platform.
 
@@ -236,6 +259,11 @@ Offered by **Simplilearn** and **conducted by Databricks**, this hands-on course
 
 ## <span id="access-essential">✅ Microsoft Access Essential Training (Office 2024_LTSC) (*LinkedIn, Nov 2025*)</span>
 
+Issuing Organization: Coursera
+Issue Date: Jan 2024
+Credential ID: ABCD-1234
+Credential URL: https://coursera.org/verify/xxxx
+
 This certification represents my advancement in **database design, management, and automation** using **Microsoft Access 2024**.  
 I learned how to **create and manage relational databases**, **design efficient data structures**, and **build interactive forms, queries, and reports** to support business data operations.  
 
@@ -251,11 +279,21 @@ By the end of the course, I was able to **design secure, efficient, and automate
 
 ## <span id="essential-excel">✅ Essentials of MS Excel - Formulas and Functions (*Uniathena, Nov 2025*)</span>
 
+Issuing Organization: Coursera
+Issue Date: Jan 2024
+Credential ID: ABCD-1234
+Credential URL: https://coursera.org/verify/xxxx
+
 ![Essentials of MS Excel certification](Essentials%20Excel.png)
 
 ---
 
 ## <span id="introduction-sql">✅ Introduction to SQL (*Simplilearn, Nov 2025*)</span>
+
+Issuing Organization: Coursera
+Issue Date: Jan 2024
+Credential ID: ABCD-1234
+Credential URL: https://coursera.org/verify/xxxx
 
 ![Introduction to SQL certification](Introduction%20SQL.png)
 
@@ -263,11 +301,21 @@ By the end of the course, I was able to **design secure, efficient, and automate
 
 ## <span id="excel-dashboard">✅ Excel Dashboard for Beginners (*Microsoft, Nov 2025*)</span>
 
+Issuing Organization: Coursera
+Issue Date: Jan 2024
+Credential ID: ABCD-1234
+Credential URL: https://coursera.org/verify/xxxx
+
 ![Excel Dashboard for Beginners certification](Excel%20Dashboard.png)
 
 ---
 
 ## <span id="da-postgresql">✅ Data Analysis with PostgreSQL (*LinkedIn, Nov 2025*)</span>
+
+Issuing Organization: Coursera
+Issue Date: Jan 2024
+Credential ID: ABCD-1234
+Credential URL: https://coursera.org/verify/xxxx
 
 ![Data Analysis with PostgreSQL certification](DA%20PostgreSQL.png)
 
@@ -275,17 +323,32 @@ By the end of the course, I was able to **design secure, efficient, and automate
 
 ## <span id="powerbi-beginners">✅ Power BI for Beginners (*Microsoft, Nov 2025*)</span>
 
+Issuing Organization: Coursera
+Issue Date: Jan 2024
+Credential ID: ABCD-1234
+Credential URL: https://coursera.org/verify/xxxx
+
 ![Power BI for Beginners certification](PowerBI%20Beginners.png)
 
 ---
 
 ## <span id="data-analyst-101">✅ Data Analyst 101 (*Microsoft, Nov 2025*)</span>  
 
+Issuing Organization: Coursera
+Issue Date: Jan 2024
+Credential ID: ABCD-1234
+Credential URL: https://coursera.org/verify/xxxx
+
 ![Data Analyst 101 certification](Data%20Analyst101.png)
 
 ---
 
-## <span id="data-visualization-using-ms-excel">✅ Essentials of Data Visualization using MS Excel (*Uniathena, Nov 2025*)</span>  
+## <span id="data-visualization-using-ms-excel">✅ Essentials of Data Visualization using MS Excel (*Uniathena, Nov 2025*)</span> 
+
+Issuing Organization: Coursera
+Issue Date: Jan 2024
+Credential ID: ABCD-1234
+Credential URL: https://coursera.org/verify/xxxx
 
 ![Data Visualization using MS Excel certification](Data%20Visualization%20using%20MS%20Excel.png)
 
@@ -293,11 +356,21 @@ By the end of the course, I was able to **design secure, efficient, and automate
 
 ## <span id="introduction-to-business-communication">✅ Introduction to Business Communication (*Simplilearn, Nov 2025*)</span>  
 
+Issuing Organization: Coursera
+Issue Date: Jan 2024
+Credential ID: ABCD-1234
+Credential URL: https://coursera.org/verify/xxxx
+
 ![Introduction to Business Communication certification](Introduction%20to%20Business%20Communication.png)
 
 ---
 
 ## <span id="introduction-to-data-analytics">✅ Introduction to Data Analytics (*Simplilearn, Nov 2025*)</span>  
+
+Issuing Organization: Coursera
+Issue Date: Jan 2024
+Credential ID: ABCD-1234
+Credential URL: https://coursera.org/verify/xxxx
 
 ![Introduction to Data Analytics certification](Introduction%20to%20Data%20Analytics.png)
 
@@ -305,7 +378,23 @@ By the end of the course, I was able to **design secure, efficient, and automate
 
 ## <span id="google-sheets-advanced-topics">✅ Google Sheets - Advanced Topics (*Google Cloud, Nov 2025*)</span>  
 
+Issuing Organization: Coursera
+Issue Date: Jan 2024
+Credential ID: ABCD-1234
+Credential URL: https://coursera.org/verify/xxxx
+
 ![Google Sheets - Advanced Topics certification](Google%20Sheets%20-%20Advanced%20Topics.png)
+
+---
+
+## <span id="data-visualization-with-tableau">✅ Basics of Data Visualization with Tableau (*Uniathena, Nov 2025*)</span> 
+
+Issuing Organization: Coursera
+Issue Date: Jan 2024
+Credential ID: ABCD-1234
+Credential URL: https://coursera.org/verify/xxxx
+
+![Basics of Data Visualization with Tableau certification](Data%20Visualization%20With%20Tableau.png)
 
 ---
 
