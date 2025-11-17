@@ -95,9 +95,9 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 
 ---
 
-<span id="github">***✅ GitHub Basics*** (*Simplilearn, Nov 2025*)</span>↗
+<span id="github">***✅ GitHub Basics*** (*Simplilearn, Nov 2025*)</span>
 
-*Show Credential↗:* *https://simpli-web.app.link/e/Or633oKAmYb*
+*Show Credential:* *https://simpli-web.app.link/e/Or633oKAmYb*↗
 
 ![GitHub Basics Certification](GitHub%20Basics.png)
 
