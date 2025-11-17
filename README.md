@@ -43,7 +43,7 @@ My certifications highlight key milestones in my learning journey, from **basic 
 
 ---
 
-# <span id="ccc">***✅ CCC – Course on Computer Concepts***</span>
+<span id="ccc">***✅ CCC – Course on Computer Concepts***</span>
 
 Completed in **June 2023**, the **CCC certification** by **NIELIT** laid the foundation for my IT learning journey.  
 It covered **computer basics, Microsoft Office, email, networking, and cybersecurity**, with an introduction to **IoT**.  
@@ -53,49 +53,49 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 
 ---
 
-## <span id="tally-prime">✅ Tally Prime with GST</span> 
+<span id="tally-prime">***✅ Tally Prime with GST***</span> 
 
 ![Tally Prime certification](Tally%20Prime.png)
 
 ---
 
-## <span id="adca">✅ ADCA – Advance Diploma in Computer Application</span> 
+<span id="adca">***✅ ADCA – Advance Diploma in Computer Application***</span> 
 
 ![ADCA certification](ADCA.png)
 
 ---
 
-## <span id="ms-office">✅ Microsoft Office Crash Course</span> 
+<span id="ms-office">***✅ Microsoft Office Crash Course***</span> 
 
 ![Microsoft Office Crash Course certification](MS%20Office.png)
 
 ---
 
-## <span id="excel-ai">✅ ChatGPT in Excel</span>
+<span id="excel-ai">***✅ ChatGPT in Excel***</span>
 
 ![CHATGPT in Excel certification](ChatGPT.png)
 
 ---
 
-## <span id="sql">✅ 30 Days SQL Micro Course</span>
+<span id="sql">***✅ 30 Days SQL Micro Course***</span>
 
 ![SQL certification](SQL.png)
 
 ---
 
-## <span id="power-bi">✅ 30 Days Power BI Micro Course</span>
+<span id="power-bi">***✅ 30 Days Power BI Micro Course***</span>
 
 ![Power BI certification](PowerBI.png)
 
 ---
 
- ## <span id="power-query">✅ Power Query Corporate Training Masterclass</span>
+ <span id="power-query">***✅ Power Query Corporate Training Masterclass***</span>
 
 ![Power Query Masterclass certification](PowerQuery.png)
 
 ---
 
-## <span id="github">✅ GitHub Basics</span>
+<span id="github">***✅ GitHub Basics***</span>
 
 Credential URL: *https://simpli-web.app.link/e/Or633oKAmYb*
 
@@ -103,7 +103,7 @@ Credential URL: *https://simpli-web.app.link/e/Or633oKAmYb*
 
 ---
 
-## <span id="excel">✅ Introduction to MS Excel</span>
+<span id="excel">***✅ Introduction to MS Excel***</span>
 
 Credential URL: *https://simpli-web.app.link/e/cJ5Wj11AmYb*
 
@@ -111,7 +111,7 @@ Credential URL: *https://simpli-web.app.link/e/cJ5Wj11AmYb*
 
 ---
 
-## <span id="power query in excel">✅ Introduction to Power Query in Excel Basics</span>
+<span id="power query in excel">***✅ Introduction to Power Query in Excel Basics***</span>
 
 Credential URL: *https://simpli-web.app.link/e/1hTHLVqBmYb* 
 
@@ -119,7 +119,7 @@ Credential URL: *https://simpli-web.app.link/e/1hTHLVqBmYb*
 
 ---
 
-## <span id="databricks-sql">✅ SQL Analytics and BI on Databricks</span>
+<span id="databricks-sql">***✅ SQL Analytics and BI on Databricks***</span>
 
 Credential URL: *https://simpli-web.app.link/e/koyAhfyBmYb*
 
@@ -127,7 +127,7 @@ Credential URL: *https://simpli-web.app.link/e/koyAhfyBmYb*
 
 ---
 
-## <span id="access-essential">✅ Microsoft Access Essential Training (*Office 2024_LTSC*)</span>
+<span id="access-essential">***✅ Microsoft Access Essential Training*** (*Office 2024_LTSC*)</span>
 
 Credential URL: *-----*
 
@@ -135,7 +135,7 @@ Credential URL: *-----*
 
 ---
 
-## <span id="essential-excel">✅ Essentials of MS Excel - Formulas and Functions</span>
+<span id="essential-excel">***✅ Essentials of MS Excel - Formulas and Functions***</span>
 
 Credential URL: *https://docs.uniathena.com/prod/course/certificate/814_1762676336_certificate.jpg*
 
@@ -143,7 +143,7 @@ Credential URL: *https://docs.uniathena.com/prod/course/certificate/814_17626763
 
 ---
 
-## <span id="introduction-sql">✅ Introduction to SQL</span>
+<span id="introduction-sql">***✅ Introduction to SQL***</span>
 
 Credential URL: *https://simpli-web.app.link/e/Ea7LK16BmYb*
 
@@ -151,7 +151,7 @@ Credential URL: *https://simpli-web.app.link/e/Ea7LK16BmYb*
 
 ---
 
-## <span id="excel-dashboard">✅ Excel Dashboard for Beginners</span>
+<span id="excel-dashboard">***✅ Excel Dashboard for Beginners***</span>
 
 Credential URL: *https://simpli-web.app.link/e/2KbK36JscYb*
 
@@ -159,7 +159,7 @@ Credential URL: *https://simpli-web.app.link/e/2KbK36JscYb*
 
 ---
 
-## <span id="da-postgresql">✅ Data Analysis with PostgreSQL</span>
+<span id="da-postgresql">***✅ Data Analysis with PostgreSQL***</span>
 
 Credential URL: *-----*
 
@@ -167,7 +167,7 @@ Credential URL: *-----*
 
 ---
 
-## <span id="powerbi-beginners">✅ Power BI for Beginners</span>
+<span id="powerbi-beginners">***✅ Power BI for Beginners***</span>
 
 Credential URL: *https://simpli-web.app.link/e/VLgIKIsleYb*
 
@@ -175,7 +175,7 @@ Credential URL: *https://simpli-web.app.link/e/VLgIKIsleYb*
 
 ---
 
-## <span id="data-analyst-101">✅ Data Analyst 101</span>  
+<span id="data-analyst-101">***✅ Data Analyst 101***</span>  
 
 Credential URL: *https://simpli-web.app.link/e/mklw1d0reYb*
 
@@ -183,7 +183,7 @@ Credential URL: *https://simpli-web.app.link/e/mklw1d0reYb*
 
 ---
 
-## <span id="data-visualization-using-ms-excel">✅ Essentials of Data Visualization using MS Excel</span> 
+<span id="data-visualization-using-ms-excel">***✅ Essentials of Data Visualization using MS Excel***</span> 
 
 Credential URL: *https://docs.uniathena.com/prod/course/certificate/124_1763028743_certificate.jpg*
 
@@ -191,7 +191,7 @@ Credential URL: *https://docs.uniathena.com/prod/course/certificate/124_17630287
 
 --- 
 
-## <span id="introduction-to-business-communication">✅ Introduction to Business Communication</span>  
+<span id="introduction-to-business-communication">***✅ Introduction to Business Communication***</span>  
 
 Credential URL: *https://simpli-web.app.link/e/RiZzAxALgYb*
 
@@ -199,7 +199,7 @@ Credential URL: *https://simpli-web.app.link/e/RiZzAxALgYb*
 
 ---
 
-## <span id="introduction-to-data-analytics">✅ Introduction to Data Analytics</span>  
+<span id="introduction-to-data-analytics">***✅ Introduction to Data Analytics***</span>  
 
 Credential URL: *https://simpli-web.app.link/e/3pdOKncOhYb*
 
@@ -207,7 +207,7 @@ Credential URL: *https://simpli-web.app.link/e/3pdOKncOhYb*
 
 ---
 
-## <span id="google-sheets-advanced-topics">✅ Google Sheets - Advanced Topics</span>  
+<span id="google-sheets-advanced-topics">***✅ Google Sheets - Advanced Topics***</span>  
 
 Credential URL: *https://simpli-web.app.link/e/tXlwquxjjYb*
 
@@ -215,7 +215,7 @@ Credential URL: *https://simpli-web.app.link/e/tXlwquxjjYb*
 
 ---
 
-## <span id="data-visualization-with-tableau">✅ Basics of Data Visualization with Tableau</span> 
+<span id="data-visualization-with-tableau">***✅ Basics of Data Visualization with Tableau***</span> 
 
 Credential URL: *https://docs.uniathena.com/prod/course/certificate/348_1763361663_certificate.jpg*
 
