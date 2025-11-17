@@ -35,93 +35,81 @@
 
 A well-organized repository of my **verified credentials** and **professional certification**, each documented with its image and a brief description of what I learned and how it supports my professional growth.  
 
-This collection reflects my **diverse skill set** and strong **commitment to continuous learning**, upskilling, and staying **industry-relevant** in a rapidly evolving world.  
-
-I believe **growth is a lifelong journey**, and every credential here is proof of my dedication to keeping my skills **current, applicable, and valuable**.  
-
-From mastering **core computer concepts** to gaining expertise in **Tally Prime** and completing **comprehensive diploma programs**, each certification marks a key milestone that has strengthened my career and expanded my **real-world knowledge**.
+This collection reflects my **diverse skill set** and strong **commitment to continuous learning**, upskilling, and staying **industry-relevant** in a rapidly evolving world. I believe **growth is a lifelong journey**, and every credential here is proof of my dedication to keeping my skills **current, applicable, and valuable**.  
 
 ---
 
 ## <span id="overview">📜 Certification Overview</span> 
 
-Each certification included here represents a **practical milestone** in my continuous learning path.  
+# Continuous Learning & Certifications
 
-Starting with the **basics of computer concepts**, I gradually expanded my expertise into specialized fields such as **professional accounting with Tally Prime**, and then broadened it further through a **comprehensive Advanced Diploma** that covers diverse software, tools, and even **introductory web technologies**.  
+My certifications mark key milestones in my learning journey. Starting with **basic computer concepts**, I advanced into **Data Analysis**—covering **Excel, Access, Power Query, SQL, Power BI, Tableau VBA**—and expanded into **introductory web technologies**.
 
-Together, these achievements illustrate my **commitment to acquiring real-world skills**, staying updated with **industry-relevant tools**, and applying this knowledge to deliver **practical, high-quality work** across various professional scenarios.
+**Key Skills:**
+
+- Data Analysis & Visualization: Excel, Power Query, Access, Power BI, SQL , Tableau, VBA
+- Programming & Automation: Python, VBA  
+- Web Basics: HTML, CSS, JavaScript  
+
+These achievements reflect my **commitment to real-world skills**, staying updated with **industry tools**, and delivering **practical, high-quality work**.
 
 ---
 
-## <span id="ccc">✅ CCC – Course on Computer Concepts (*NIELIT, Jun 2023*)</span> 
+## <span id="ccc">✅ CCC – Course on Computer Concepts</span> 
 
-This was the **first certification** of my IT learning journey — a foundational milestone that sparked my curiosity and passion for **computer science, digital literacy**, and the power of technology in everyday life.  
+Issuing Organization: *NIELIT*
+<br>
+Issue Date: *jUN 2023*
+<br>
+Credential ID: *GO2306018734*
 
-Completing this certification in **June 2023** remains a proud milestone that built my confidence and inspired me to continue exploring advanced software, data tools, and programming in the IT field.
-
-Through the **CCC (Course on Computer Concepts)** by **NIELIT** (*National Institute of Electronics & Information Technology*), I gained a solid understanding of **fundamental computing**, modern operating systems, and essential digital tools like **Microsoft Word, Excel, and PowerPoint** — forming the base for professional documentation, data handling, and presentations.  
-
-The course also covered **email communication**, **basic networking**, **cybersecurity fundamentals**, and an introduction to **emerging technologies** such as the **Internet of Things (IoT)**, broadening my view of how technology connects the world.  
+Completed in **June 2023**, the **CCC certification** by **NIELIT** laid the foundation for my IT learning journey.  
+It covered **computer basics, Microsoft Office, email, networking, and cybersecurity**, with an introduction to **IoT**.  
+This milestone sparked my interest to explore **advanced software, data tools, and programming**.
 
 ![CCC certification](CCC.png)
 
 ---
 
-## <span id="tally-prime">✅ Tally Prime with GST (*Skill Course, Apr 2024*)</span> 
+## <span id="tally-prime">✅ Tally Prime with GST</span> 
 
-I successfully completed the **Tally Prime with GST** program through the trusted **Skill Course** online e-learning platform, under the expert mentorship of **Mr. Satish Dhawale Sir**, *Founder & CEO, Skill Course*.  
-
-This practical course provided deep insights into **core accounting principles**, from **basic bookkeeping** to **advanced computerized accounting** using **Tally Prime**, one of the industry’s leading tools.  
-
-I learned to manage business accounts, prepare **balance sheets**, generate **profit and loss statements**, and apply major taxation concepts such as **GST**, **TDS**, **TCS**, **VAT**, and **Customs Duty** with accuracy and compliance.  
-
-This **industry-focused training** enhanced my understanding of real-world accounting workflows and strengthened my ability to handle modern **finance and taxation tasks** efficiently. Completing this certification in **April 2024** added a valuable professional edge to my accounting expertise.
+Issuing Organization: *Skill Course*
+<br>
+Issue Date: *Apr 26th, 2024*
+<br>
+Credential ID: *SC_01036532LMP@skillcourse.in*
 
 ![Tally Prime certification](Tally%20Prime.png)
 
 ---
 
-## <span id="adca">✅ ADCA – Advance Diploma in Computer Application (*Skill Course, Oct 2024*)</span> 
+## <span id="adca">✅ ADCA – Advance Diploma in Computer Application</span> 
 
-I successfully completed the **ADCA (Advanced Diploma in Computer Applications)** through the trusted **Skill Course** e-learning platform, under the expert mentorship of **Mr. Satish Dhawale Sir**, *Founder & CEO, Skill Course*, who designed the curriculum to align with real-world industry needs.  
-
-This professional diploma marked a key milestone in expanding my **technical and practical software skills**, covering a wide range of essential topics including **computer fundamentals**, **operating systems**, and Microsoft Office tools like **Word, Excel, PowerPoint, Access, Outlook**, and **Publisher**.  
-
-The program also included **Tally Prime with GST** and **Google Sheets** for accounting and data management, enhancing my efficiency and accuracy in financial and business operations.  
-
-Additionally, I gained hands-on experience in **HTML, CSS, JavaScript**, **Computer Hardware Maintenance**, and **VBA (Visual Basic for Applications)** — enabling me to design interactive interfaces and automate workflows.  
-
-Completing this diploma in **October 2024** has made me a **versatile professional**, capable of handling office operations, MIS reporting, accounting, and basic web design in today’s dynamic digital environment.
+Issuing Organization: *Skill Course*
+<br>
+Issue Date: *Oct 14th, 2024*
+<br>
+Credential ID: *SC_01036663LMP@skillcourse.in*
 
 ![ADCA certification](ADCA.png)
 
 ---
 
-## <span id="ms-office">✅ Microsoft Office Crash Course (*Skill Course, Jul 2025*)</span> 
+## <span id="ms-office">✅ Microsoft Office Crash Course</span> 
 
-This was an important milestone in my IT learning journey — a practical achievement that strengthened my curiosity, discipline, and passion for mastering **modern productivity tools**, **digital communication**, and **professional documentation**.  
-
-Through the **Microsoft Office Crash Course**, offered by the **Skill Course** e-learning platform under the expert mentorship of **Mr. Satish Dhawale Sir**, *Founder & CEO, Skill Course*, I gained a strong, hands-on understanding of the complete **Microsoft Office Suite** — from fundamentals to advanced applications.  
-
-The program covered **Microsoft Word, Excel, PowerPoint, Access, and Outlook**, helping me develop professional document creation, data analysis, impactful presentation design, and efficient communication management skills.  
-
-I also learned essential concepts like **Operating Systems**, **Computer Fundamentals**, **email communication**, **Internet usage**, and **digital documentation standards**, all taught in a clear, step-by-step format by **Mr. Satish Dhawale Sir**.  
-
-Completing this certification in **July 2025** enhanced my confidence in using productivity tools effectively and built a strong foundation for future learning in **data handling**, **documentation**, and **workplace automation**.
+Issuing Organization: *Skill Course*
+<br>
+Issue Date: *Jul 8th, 2025*
 
 ![Microsoft Office Crash Course certification](MS%20Office.png)
 
 ---
 
-## <span id="excel-ai">✅ ChatGPT in Excel (*Skill Course, Jul 2025*)</span>
+## <span id="excel-ai">✅ ChatGPT in Excel</span>
 
-I’m excited to share that I have successfully completed the **ChatGPT in Excel** course through the trusted **Skill Course** online e-learning platform in **July 2025**, under the insightful mentorship of **Mr. Satish Dhawale Sir**, *Founder & CEO, Skill Course*, whose vision bridges traditional learning with modern AI-driven applications. 
-
-This innovative program empowered me to integrate **ChatGPT** directly within **Microsoft Excel**, enhancing the way I solve problems, automate workflows, and analyze data. I gained practical experience in generating and debugging complex **Excel formulas**, automating repetitive tasks through **VBA**, creating **realistic datasets** for practice, and applying AI to solve **business and MIS-related challenges** efficiently.  
-
-The course opened a new dimension for me — combining traditional Excel expertise with **artificial intelligence** to work smarter, boost productivity, and focus more on insights and strategy. Completing this certification has strengthened my ability to deliver faster, more intelligent, and automation-driven solutions in today’s fast-paced digital workplace.  
-
-This achievement marks another step forward in my journey toward becoming a **data-driven professional** capable of blending technology, automation, and analytical thinking to create real impact.
+Issuing Organization: *Skill Course*
+<br>
+Issue Date: *Jul 10th, 2025*
 
 ![CHATGPT in Excel certification](ChatGPT.png)
 
@@ -129,11 +117,9 @@ This achievement marks another step forward in my journey toward becoming a **da
 
 ## <span id="sql">✅ 30 Days SQL Micro Course (*Skill Course, Jul 2025*)</span>
 
-I’m proud to share that I have successfully completed the **SQL Micro Course** from **Skill Course**, under the expert mentorship of **Mr. Satish Dhawale Sir**, *Founder & CEO, Skill Course*. This certification marks a key step forward in my journey into **data management and analytics**, equipping me with practical, real-world SQL skills.  
-
-Through this program, I built a strong foundation in **relational database systems**, learning **DDL/DML commands**, **table creation with keys**, and essential operations like **SELECT, INSERT, UPDATE**, and **DELETE**. I also explored advanced concepts such as **joins**, **aggregate functions**, **subqueries**, and **set operations** — applying them in real-time scenarios like my **Hospital Data Analysis project using PostgreSQL**.  
-
-Additionally, I gained hands-on experience with **views**, **stored procedures**, **indexing**, and **date/time functions**, enabling me to design and optimize scalable database solutions. Completing this course in **July 2025** strengthened my confidence in working with data and prepared me to contribute effectively to **data analytics, business intelligence**, and **database management** projects.
+Issuing Organization: *Skill Course*
+<br>
+Issue Date: *Jul 25th, 2025*
 
 ![SQL certification](SQL.png)
 
@@ -141,15 +127,9 @@ Additionally, I gained hands-on experience with **views**, **stored procedures**
 
 ## <span id="power-bi">✅ 30 Days Power BI Micro Course (*Skill Course, Jul 2025*)</span>
 
-I’m proud to share that I have successfully completed the **Power BI Micro Course** from **Skill Course**, under the expert mentorship of **Mr. Satish Dhawale Sir**, *Founder & CEO, Skill Course*. This certification marks a key milestone in my journey toward **data analytics and business intelligence**, equipping me to design interactive dashboards and transform raw data into actionable insights.  
-
-Through this program, I gained a solid understanding of **Power BI’s interface, workflow, and architecture**. I learned to **connect, import, and transform data** from multiple sources like **Excel, CSV, and databases** using the **Power Query Editor (M language)**, applying techniques like **data cleaning**, **merging**, **type transformation**, and **data modeling** with **star and snowflake schema** designs.  
-
-I mastered the use of **DAX (Data Analysis Expressions)** to create **measures**, **calculated columns**, and apply key functions such as **CALCULATE**, **FILTER**, **SUMX**, and **AVERAGEX**, including **time intelligence** for performance tracking.  
-
-The course also enhanced my visualization skills — from building **charts, tables, and KPI cards** to adding **filters, slicers, drill-throughs**, and **interactive dashboards**. My capstone project, **Motorola Sales Dashboard**, consolidated all these skills to analyze sales trends, model performance, and customer insights.  
-
-Completing this **hands-on, industry-relevant** program in **July 2025** has strengthened my expertise in **data visualization and reporting**, enabling me to contribute effectively to **business intelligence and analytics projects** with **Power BI Desktop and Service**.
+Issuing Organization: *Skill Course*
+<br>
+Issue Date: *Jul 27th, 2025*
 
 ![Power BI certification](PowerBI.png)
 
@@ -157,15 +137,9 @@ Completing this **hands-on, industry-relevant** program in **July 2025** has str
 
  ## <span id="power-query">✅ Power Query Corporate Training Masterclass (*Skill Course, Oct 2025*)</span>
 
-### ⚙️ Power Query Corporate Training Masterclass – Skill Course  
-
-I’m proud to share that I’ve successfully completed the **Power Query Corporate Training Masterclass** from **Skill Course**, under the mentorship of **Mr. Satish Dhawale Sir**, *Founder & CEO, Skill Course*.  
-This certification strengthened my expertise in **data cleaning, transformation, and automation**, using **Power Query** to prepare analytics-ready data for **Excel and Power BI**.  
-
-Through real corporate case studies, I learned to **import, combine, and clean data** from multiple sources, handle **large and inconsistent datasets**, and build **automated workflows** for reporting and dashboards.  
-Completing this **practical, industry-aligned program** in **July 2025** enhanced my ability to manage real-world data challenges efficiently and confidently.  
-
-This achievement further deepened my understanding of how **Power Query forms the foundation of modern data preparation** in analytics and business intelligence.
+ Issuing Organization: *Skill Course*
+ <br>
+Issue Date: *Oct 10th, 2025*
 
 ![Power Query Masterclass certification](PowerQuery.png)
 
@@ -174,21 +148,12 @@ This achievement further deepened my understanding of how **Power Query forms th
 ## <span id="github">✅ GitHub Basics</span>
 
 Issuing Organization: *Simplilearn*
+<br>
 Issue Date: *Nov 4th, 2025*
+<br>
 Credential ID: *9321115*
+<br>
 Credential URL: *https://simpli-web.app.link/e/Or633oKAmYb*
-
-I’m thrilled to share that I’ve achieved my **first professional certification** — **Git & GitHub Basics** from **Simplilearn**, one of the most reputed global learning platforms.  
-This certification marks the **beginning of my professional learning journey**, strengthening my foundation in **version control, collaboration, and repository management** — core skills for every modern developer and data professional.
-
-Throughout this program, I gained practical knowledge of how **Git and GitHub** work together to simplify teamwork and project versioning.  
-I learned both **manual and command-line methods** of managing repositories and explored essential version control concepts like **branches, commits, merges, and pull requests** for efficient collaboration.
-
-The course covered essential topics like *Git and GitHub concepts*, including *creating and managing repositories*, *working with branches, commits, and merges*, *collaborative workflows and issue tracking*, and *using Git commands — manually and through coding*.  
-
-Offered by **Simplilearn**, this beginner-to-advanced course provided **hands-on experience** in using Git and GitHub — essential tools for managing projects, collaborating on code, and tracking progress efficiently.
-
-Completing this course has not only enhanced my understanding of **software version control** but also boosted my confidence to contribute effectively to **real-world coding and data-driven projects**.
 
 ![GitHub Basics Certification](GitHub%20Basics.png)
 
@@ -197,19 +162,12 @@ Completing this course has not only enhanced my understanding of **software vers
 ## <span id="excel">✅ Introduction to MS Excel</span>
 
 Issuing Organization: *Microsoft*
+<br>
 Issue Date: *Nov 6th, 2025*
+<br>
 Credential ID: *9344214*
+<br>
 Credential URL: *https://simpli-web.app.link/e/cJ5Wj11AmYb*
-
-**Introduction to Microsoft Excel** from **Simplilearn**, conducted in collaboration with **Microsoft**, one of the world’s leading technology organizations.  
-This certification marks a significant step in strengthening my expertise in **data analysis, reporting, and business intelligence**, empowering me to use Excel as a powerful analytical tool.
-
-Throughout this program, I gained hands-on experience in **analyzing, visualizing, and organizing data** using Excel’s wide range of functions and tools.  
-I learned how to efficiently use **formulas, pivot tables, charts, data validation, conditional formatting**, and **macros & VBA** to automate workflows and create insightful dashboards.
-
-The course covered both **fundamental and advanced Excel features**, including *sorting and filtering data*, *creating pivot tables and charts*, *using formulas and functions*, *validating and formatting data*, and *automating tasks with Macros & VBA*.  
-
-Completing this course has strengthened my confidence in **Excel-based data analytics and automation**, enhancing my ability to deliver efficient and visually impactful business insights.
 
 ![Introduction to MS Excel certification](Introduction%20Excel.png)
 
@@ -218,19 +176,12 @@ Completing this course has strengthened my confidence in **Excel-based data anal
 ## <span id="power query in excel">✅ Introduction to Power Query in Excel Basics</span>
 
 Issuing Organization: *Microsoft*
+<br>
 Issue Date: *Nov 7th, 2025*
+<br>
 Credential ID: *9346781*
-Credential URL: *https://simpli-web.app.link/e/1hTHLVqBmYb*
-
-**Introduction to Power Query in Excel Basics** from **Simplilearn**, conducted in collaboration with **Microsoft**, a global leader in technology and data solutions.  
-This certification represents my advancement in **data automation and transformation**, enhancing my ability to prepare, clean, and manage complex datasets efficiently within Excel.
-
-Throughout this program, I gained practical experience in **automating data cleaning, transformation, and preparation processes** using the Power Query Editor.  
-I learned how to **import and connect data from multiple sources**, **merge and append queries**, **reshape datasets**, **handle missing or inconsistent values**, and **create custom calculations** using the **M language** for advanced data manipulation.
-
-The course covered both **fundamental and advanced Power Query features**, empowering learners to streamline workflows through efficient **Extract, Transform, and Load (ETL)** processes within Excel.  
-
-Offered by **Simplilearn** and **conducted by Microsoft**, this hands-on course strengthened my technical skills in **Data Cleaning and Transformation** and **ETL operations**, laying a solid foundation for professional data analysis and reporting.  
+<br>
+Credential URL: *https://simpli-web.app.link/e/1hTHLVqBmYb* 
 
 ![power query in excel certification](Power%20Query%20in%20Excel.png)
 
@@ -239,19 +190,12 @@ Offered by **Simplilearn** and **conducted by Microsoft**, this hands-on course 
 ## <span id="databricks-sql">✅ SQL Analytics and BI on Databricks</span>
 
 Issuing Organization: *Databricks*
+<br>
 Issue Date: *Nov 7th, 2025*
+<br>
 Credential ID: *9347648*
+<br>
 Credential URL: *https://simpli-web.app.link/e/koyAhfyBmYb*
-
-**SQL Analytics and BI on Databricks** from **Simplilearn**, conducted in collaboration with **Databricks**, a global leader in data analytics and AI solutions.  
-This certification represents my advancement in **data analytics, AI, and business intelligence**, enhancing my ability to query, analyze, and visualize complex datasets using the Databricks platform.
-
-Throughout this program, I gained practical experience in **setting up Databricks workspaces, performing SQL-based data analysis**, and **leveraging Delta Lake & AI-BI dashboards** for actionable insights.  
-I learned how to **write and execute queries in Databricks SQL**, **manage analytics workflows**, **utilize AI-powered dashboards**, and **create Genie Spaces** for interactive business intelligence reporting.
-
-The course covered both **fundamental and advanced Databricks features**, empowering learners to efficiently analyze data and generate insights for decision-making.  
-
-Offered by **Simplilearn** and **conducted by Databricks**, this hands-on course strengthened my technical skills in **Databricks SQL, Delta Lake, and AI-BI Visualization**, laying a solid foundation for professional analytics and BI projects.
 
 ![SQL Analytics and BI on Databricks certification](Databricks%20SQL.png)
 
@@ -260,18 +204,12 @@ Offered by **Simplilearn** and **conducted by Databricks**, this hands-on course
 ## <span id="access-essential">✅ Microsoft Access Essential Training (*Office 2024_LTSC*)</span>
 
 Issuing Organization: *LinkedIn*
+<br>
 Issue Date: *Nov 8th, 2025*
+<br>
 Credential ID: *f661499cf92b6fa9056051ee22a69f8300db6cc692398167def251a884648303*
+<br>
 Credential URL: *-----*
-
-This certification represents my advancement in **database design, management, and automation** using **Microsoft Access 2024**.  
-I learned how to **create and manage relational databases**, **design efficient data structures**, and **build interactive forms, queries, and reports** to support business data operations.  
-
-The course also covered **macros, VBA fundamentals**, and **database maintenance techniques**, enabling me to **automate workflows** and **enhance database performance** for long-term organizational use.  
-Offered by **LinkedIn Learning**, this hands-on program strengthened my technical skills in **SQL queries, reporting, and database optimization** within the Microsoft Access ecosystem.  
-
-It helped me gain a deeper understanding of **data relationships, normalization, and form/report customization** for better usability.  
-By the end of the course, I was able to **design secure, efficient, and automated Access databases** aligned with business intelligence goals.
 
 ![Microsoft Access Essential Training certification](Access%20Essential.png)
 
@@ -280,8 +218,11 @@ By the end of the course, I was able to **design secure, efficient, and automate
 ## <span id="essential-excel">✅ Essentials of MS Excel - Formulas and Functions</span>
 
 Issuing Organization: *Uniathena*
+<br>
 Issue Date: *Nov 9th, 2025*
+<br>
 Credential ID: *1124-4430-9810*
+<br>
 Credential URL: *https://docs.uniathena.com/prod/course/certificate/814_1762676336_certificate.jpg*
 
 ![Essentials of MS Excel certification](Essentials%20Excel.png)
@@ -291,8 +232,11 @@ Credential URL: *https://docs.uniathena.com/prod/course/certificate/814_17626763
 ## <span id="introduction-sql">✅ Introduction to SQL</span>
 
 Issuing Organization: *Simplilearn*
+<br>
 Issue Date: *Nov 9th, 2025*
+<br>
 Credential ID: *9364736*
+<br>
 Credential URL: *https://simpli-web.app.link/e/Ea7LK16BmYb*
 
 ![Introduction to SQL certification](Introduction%20SQL.png)
@@ -302,8 +246,11 @@ Credential URL: *https://simpli-web.app.link/e/Ea7LK16BmYb*
 ## <span id="excel-dashboard">✅ Excel Dashboard for Beginners</span>
 
 Issuing Organization: *Microsoft*
+<br>
 Issue Date: *Nov 11th, 2025*
+<br>
 Credential ID: *9373067*
+<br>
 Credential URL: *https://simpli-web.app.link/e/2KbK36JscYb*
 
 ![Excel Dashboard for Beginners certification](Excel%20Dashboard.png)
@@ -313,8 +260,11 @@ Credential URL: *https://simpli-web.app.link/e/2KbK36JscYb*
 ## <span id="da-postgresql">✅ Data Analysis with PostgreSQL</span>
 
 Issuing Organization: *LinkedIn*
+<br>
 Issue Date: *Nov 11th, 2025*
+<br>
 Credential ID: *3801a7f10b05c33617c997a86b03bebccf88f8f87f9300c5db7b45dd2fdf78a7*
+<br>
 Credential URL: *-----*
 
 ![Data Analysis with PostgreSQL certification](DA%20PostgreSQL.png)
@@ -324,8 +274,11 @@ Credential URL: *-----*
 ## <span id="powerbi-beginners">✅ Power BI for Beginners</span>
 
 Issuing Organization: *Microsoft*
+<br>
 Issue Date: *Nov 12th, 2025*
+<br>
 Credential ID: *9381754*
+<br>
 Credential URL: *https://simpli-web.app.link/e/VLgIKIsleYb*
 
 ![Power BI for Beginners certification](PowerBI%20Beginners.png)
@@ -335,8 +288,11 @@ Credential URL: *https://simpli-web.app.link/e/VLgIKIsleYb*
 ## <span id="data-analyst-101">✅ Data Analyst 101</span>  
 
 Issuing Organization: *Microsoft*
+<br>
 Issue Date: *Nov 12th, 2025*
+<br>
 Credential ID: *9383334*
+<br>
 Credential URL: *https://simpli-web.app.link/e/mklw1d0reYb*
 
 ![Data Analyst 101 certification](Data%20Analyst101.png)
@@ -346,8 +302,11 @@ Credential URL: *https://simpli-web.app.link/e/mklw1d0reYb*
 ## <span id="data-visualization-using-ms-excel">✅ Essentials of Data Visualization using MS Excel</span> 
 
 Issuing Organization: *Uniathena*
+<br>
 Issue Date: *Nov 13th, 2025*
+<br>
 Credential ID: *8182-4734-1243*
+<br>
 Credential URL: *https://docs.uniathena.com/prod/course/certificate/124_1763028743_certificate.jpg*
 
 ![Data Visualization using MS Excel certification](Data%20Visualization%20using%20MS%20Excel.png)
@@ -357,8 +316,11 @@ Credential URL: *https://docs.uniathena.com/prod/course/certificate/124_17630287
 ## <span id="introduction-to-business-communication">✅ Introduction to Business Communication</span>  
 
 Issuing Organization: *Simplilearn*
+<br>
 Issue Date: *Nov 13th, 2025*
+<br>
 Credential ID: *9394969*
+<br>
 Credential URL: *https://simpli-web.app.link/e/RiZzAxALgYb*
 
 ![Introduction to Business Communication certification](Introduction%20to%20Business%20Communication.png)
@@ -368,8 +330,11 @@ Credential URL: *https://simpli-web.app.link/e/RiZzAxALgYb*
 ## <span id="introduction-to-data-analytics">✅ Introduction to Data Analytics</span>  
 
 Issuing Organization: *Simplilearn*
+<br>
 Issue Date: *Nov 14th, 2025*
+<br>
 Credential ID: *9398054*
+<br>
 Credential URL: *https://simpli-web.app.link/e/3pdOKncOhYb*
 
 ![Introduction to Data Analytics certification](Introduction%20to%20Data%20Analytics.png)
@@ -379,8 +344,11 @@ Credential URL: *https://simpli-web.app.link/e/3pdOKncOhYb*
 ## <span id="google-sheets-advanced-topics">✅ Google Sheets - Advanced Topics</span>  
 
 Issuing Organization: *Google Cloud*
+<br>
 Issue Date: *Nov 15th, 2025*
+<br>
 Credential ID: *9403157*
+<br>
 Credential URL: *https://simpli-web.app.link/e/tXlwquxjjYb*
 
 ![Google Sheets - Advanced Topics certification](Google%20Sheets%20-%20Advanced%20Topics.png)
@@ -390,8 +358,11 @@ Credential URL: *https://simpli-web.app.link/e/tXlwquxjjYb*
 ## <span id="data-visualization-with-tableau">✅ Basics of Data Visualization with Tableau</span> 
 
 Issuing Organization: *Uniathena*
+<br>
 Issue Date: *Nov 17th, 2025*
+<br>
 Credential ID: *3540-3029-6890*
+<br>
 Credential URL: *https://docs.uniathena.com/prod/course/certificate/348_1763361663_certificate.jpg*
 
 ![Basics of Data Visualization with Tableau certification](Data%20Visualization%20With%20Tableau.png)
@@ -400,7 +371,7 @@ Credential URL: *https://docs.uniathena.com/prod/course/certificate/348_17633616
 
 ## <span id="final-note">📌 Final Note</span>  
 
-This repository serves as a secure, well-organized, and easily accessible archive of my verified credentials and certification — providing clear proof of my dedication to lifelong learning, continuous upskilling, and staying aligned with industry demands. Each credential here demonstrates how I proactively acquire relevant skills and apply them to deliver meaningful, practical, and high-quality work that creates a positive impact in every project, role, or responsibility I undertake. It reflects my commitment to grow as a professional who can adapt, contribute, and add value wherever I work.
+This repository serves as a secure, well-organized archive of my verified credentials, providing clear proof of my dedication to lifelong learning and continuous upskilling. Each credential demonstrates how I acquire relevant skills and apply them to deliver practical, high-quality work, reflecting my commitment to grow as a professional who can adapt, contribute, and add value in every role.
 
 ---
 
