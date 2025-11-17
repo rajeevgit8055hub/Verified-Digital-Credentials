@@ -43,7 +43,7 @@ My certifications highlight key milestones in my learning journey, from **basic 
 
 ---
 
-## <span id="ccc">***✅ CCC – Course on Computer Concepts***</span>
+# <span id="ccc">***✅ CCC – Course on Computer Concepts***</span>
 
 Completed in **June 2023**, the **CCC certification** by **NIELIT** laid the foundation for my IT learning journey.  
 It covered **computer basics, Microsoft Office, email, networking, and cybersecurity**, with an introduction to **IoT**.  
