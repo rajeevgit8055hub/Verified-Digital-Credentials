@@ -1,9 +1,5 @@
 ## 📑 Table of Contents
 
-**Credential URL:** [https://simpli-web.app.link/e/Or633oKAmYb &#8599;](https://simpli-web.app.link/e/Or633oKAmYb)
-
-
-
 - <a href="#introduction">📌 Introduction</a>  
 - <a href="#overview">📜 Certification Overview</a>  
 - <a href="#ccc">✅ CCC – Course on Computer Concepts (*NIELIT, Jun 2023*)</a>  
