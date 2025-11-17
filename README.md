@@ -105,7 +105,7 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 
 <span id="excel">***✅ Introduction to MS Excel*** (*Microsoft, Nov 2025*)</span>
 
-*Credential URL:* *https://simpli-web.app.link/e/cJ5Wj11AmYb*
+*Show Credential↗* *https://simpli-web.app.link/e/cJ5Wj11AmYb*
 
 ![Introduction to MS Excel certification](Introduction%20Excel.png)
 
@@ -113,7 +113,7 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 
 <span id="power query in excel">***✅ Introduction to Power Query in Excel Basics*** (*Microsoft, Nov 2025*)</span>
 
-*Credential URL:* *https://simpli-web.app.link/e/1hTHLVqBmYb* 
+*Show Credential↗* *https://simpli-web.app.link/e/1hTHLVqBmYb* 
 
 ![power query in excel certification](Power%20Query%20in%20Excel.png)
 
@@ -121,7 +121,7 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 
 <span id="databricks-sql">***✅ SQL Analytics and BI on Databricks*** (*Databricks, Nov 2025*)</span>
 
-*Credential URL:* *https://simpli-web.app.link/e/koyAhfyBmYb*
+*Show Credential↗* *https://simpli-web.app.link/e/koyAhfyBmYb*
 
 ![SQL Analytics and BI on Databricks certification](Databricks%20SQL.png)
 
@@ -129,7 +129,7 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 
 <span id="access-essential">***✅ Microsoft Access Essential Training*** (*Office 2024/LTSC*) (*LinkedIn, Nov 2025*)</span>
 
-*Credential URL:* *-----*
+*Show Credential↗* *-----*
 
 ![Microsoft Access Essential Training certification](Access%20Essential.png)
 
@@ -137,7 +137,7 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 
 <span id="essential-excel">***✅ Essentials of MS Excel - Formulas and Functions*** (*Uniathena, Nov 2025*)</span>
 
-*Credential URL:* *https://docs.uniathena.com/prod/course/certificate/814_1762676336_certificate.jpg*
+*Show Credential↗* *https://docs.uniathena.com/prod/course/certificate/814_1762676336_certificate.jpg*
 
 ![Essentials of MS Excel certification](Essentials%20Excel.png)
 
@@ -145,7 +145,7 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 
 <span id="introduction-sql">***✅ Introduction to SQL*** (*Simplilearn, Nov 2025*)</span>
 
-*Credential URL:* *https://simpli-web.app.link/e/Ea7LK16BmYb*
+*Show Credential↗* *https://simpli-web.app.link/e/Ea7LK16BmYb*
 
 ![Introduction to SQL certification](Introduction%20SQL.png)
 
@@ -153,7 +153,7 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 
 <span id="excel-dashboard">***✅ Excel Dashboard for Beginners*** (*Microsoft, Nov 2025*)</span>
 
-*Credential URL:* *https://simpli-web.app.link/e/2KbK36JscYb*
+*Show Credential↗* *https://simpli-web.app.link/e/2KbK36JscYb*
 
 ![Excel Dashboard for Beginners certification](Excel%20Dashboard.png)
 
@@ -161,7 +161,7 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 
 <span id="da-postgresql">***✅ Data Analysis with PostgreSQL*** (*LinkedIn, Nov 2025*)</span>
 
-*Credential URL:* *-----*
+*Show Credential↗* *-----*
 
 ![Data Analysis with PostgreSQL certification](DA%20PostgreSQL.png)
 
@@ -169,7 +169,7 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 
 <span id="powerbi-beginners">***✅ Power BI for Beginners*** (*Microsoft, Nov 2025*)</span>
 
-*Credential URL:* *https://simpli-web.app.link/e/VLgIKIsleYb*
+*Show Credential↗* *https://simpli-web.app.link/e/VLgIKIsleYb*
 
 ![Power BI for Beginners certification](PowerBI%20Beginners.png)
 
@@ -177,7 +177,7 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 
 <span id="data-analyst-101">***✅ Data Analyst 101*** (*Microsoft, Nov 2025*)</span>  
 
-*Credential URL:* *https://simpli-web.app.link/e/mklw1d0reYb*
+*Show Credential↗* *https://simpli-web.app.link/e/mklw1d0reYb*
 
 ![Data Analyst 101 certification](Data%20Analyst101.png)
 
@@ -185,7 +185,7 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 
 <span id="data-visualization-using-ms-excel">***✅ Essentials of Data Visualization using MS Excel*** (*Uniathena, Nov 2025*)</span> 
 
-*Credential URL:* *https://docs.uniathena.com/prod/course/certificate/124_1763028743_certificate.jpg*
+*Show Credential↗* *https://docs.uniathena.com/prod/course/certificate/124_1763028743_certificate.jpg*
 
 ![Data Visualization using MS Excel certification](Data%20Visualization%20using%20MS%20Excel.png)
 
@@ -193,7 +193,7 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 
 <span id="introduction-to-business-communication">***✅ Introduction to Business Communication*** (*Simplilearn, Nov 2025*)</span>  
 
-*Credential URL:* *https://simpli-web.app.link/e/RiZzAxALgYb*
+*Show Credential↗* *https://simpli-web.app.link/e/RiZzAxALgYb*
 
 ![Introduction to Business Communication certification](Introduction%20to%20Business%20Communication.png)
 
@@ -201,7 +201,7 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 
 <span id="introduction-to-data-analytics">***✅ Introduction to Data Analytics*** (*Simplilearn, Nov 2025*)</span>  
 
-*Credential URL:* *https://simpli-web.app.link/e/3pdOKncOhYb*
+*Show Credential↗* *https://simpli-web.app.link/e/3pdOKncOhYb*
 
 ![Introduction to Data Analytics certification](Introduction%20to%20Data%20Analytics.png)
 
@@ -209,7 +209,7 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 
 <span id="google-sheets-advanced-topics">***✅ Google Sheets - Advanced Topics*** (*Google Cloud, Nov 2025*)</span>  
 
-*Credential URL:* *https://simpli-web.app.link/e/tXlwquxjjYb*
+*Show Credential↗* *https://simpli-web.app.link/e/tXlwquxjjYb*
 
 ![Google Sheets - Advanced Topics certification](Google%20Sheets%20-%20Advanced%20Topics.png)
 
@@ -217,7 +217,7 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 
 <span id="data-visualization-with-tableau">***✅ Basics of Data Visualization with Tableau*** (*Uniathena, Nov 2025*)</span> 
 
-*Credential URL:* *https://docs.uniathena.com/prod/course/certificate/348_1763361663_certificate.jpg*
+*Show Credential↗* *https://docs.uniathena.com/prod/course/certificate/348_1763361663_certificate.jpg*
 
 ![Basics of Data Visualization with Tableau certification](Data%20Visualization%20With%20Tableau.png)
 
