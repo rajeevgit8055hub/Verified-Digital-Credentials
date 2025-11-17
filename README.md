@@ -113,7 +113,7 @@ Issue Date: *Jul 10th, 2025*
 
 ---
 
-## <span id="sql">✅ 30 Days SQL Micro Course (*Skill Course, Jul 2025*)</span>
+## <span id="sql">✅ 30 Days SQL Micro Course</span>
 
 Issuing Organization: *Skill Course*
 <br>
@@ -123,7 +123,7 @@ Issue Date: *Jul 25th, 2025*
 
 ---
 
-## <span id="power-bi">✅ 30 Days Power BI Micro Course (*Skill Course, Jul 2025*)</span>
+## <span id="power-bi">✅ 30 Days Power BI Micro Course</span>
 
 Issuing Organization: *Skill Course*
 <br>
@@ -133,7 +133,7 @@ Issue Date: *Jul 27th, 2025*
 
 ---
 
- ## <span id="power-query">✅ Power Query Corporate Training Masterclass (*Skill Course, Oct 2025*)</span>
+ ## <span id="power-query">✅ Power Query Corporate Training Masterclass</span>
 
  Issuing Organization: *Skill Course*
  <br>
