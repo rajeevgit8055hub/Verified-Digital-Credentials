@@ -53,7 +53,7 @@ Together, these achievements illustrate my **commitment to acquiring real-world 
 
 ---
 
-## <span id="ccc">✅ CCC – Course on Computer Concepts (*NIELIT, Jun 2023*)</span> 
+## <span id="ccc">✅ CCC – Course on Computer Concepts</span> 
 
 This was the **first certification** of my IT learning journey — a foundational milestone that sparked my curiosity and passion for **computer science, digital literacy**, and the power of technology in everyday life.  
 
