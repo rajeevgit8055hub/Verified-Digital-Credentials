@@ -57,7 +57,7 @@ These achievements reflect my **commitment to real-world skills**, staying updat
 
 Issuing Organization: *NIELIT*
 <br>
-Issue Date: *jUN 2023*
+Issue Date: *Jun 2023*
 <br>
 Credential ID: *GO2306018734*
 
