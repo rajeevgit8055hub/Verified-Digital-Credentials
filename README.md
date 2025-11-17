@@ -53,7 +53,7 @@ Together, these achievements illustrate my **commitment to acquiring real-world 
 
 ---
 
-## <span id="ccc">✅ CCC – Course on Computer Concepts</span> 
+## <span id="ccc">✅ CCC – Course on Computer Concepts (*NIELIT, Jun 2023*)</span> 
 
 This was the **first certification** of my IT learning journey — a foundational milestone that sparked my curiosity and passion for **computer science, digital literacy**, and the power of technology in everyday life.  
 
@@ -171,12 +171,12 @@ This achievement further deepened my understanding of how **Power Query forms th
 
 ---
 
-## <span id="github"> ✅ GitHub Basics (*Simplilearn, Nov 2025*)</span>
+## <span id="github">✅ GitHub Basics</span>
 
-Issuing Organization: Coursera
-Issue Date: Jan 2024
-Credential ID: ABCD-1234
-Credential URL: https://coursera.org/verify/xxxx
+Issuing Organization: *Simplilearn*
+Issue Date: *Nov 4th, 2025*
+Credential ID: *9321115*
+Credential URL: *https://simpli-web.app.link/e/Or633oKAmYb*
 
 I’m thrilled to share that I’ve achieved my **first professional certification** — **Git & GitHub Basics** from **Simplilearn**, one of the most reputed global learning platforms.  
 This certification marks the **beginning of my professional learning journey**, strengthening my foundation in **version control, collaboration, and repository management** — core skills for every modern developer and data professional.
@@ -194,12 +194,12 @@ Completing this course has not only enhanced my understanding of **software vers
 
 ---
 
-## <span id="excel">✅ Introduction to MS Excel (*Microsoft, Nov 2025*)</span>
+## <span id="excel">✅ Introduction to MS Excel</span>
 
-Issuing Organization: Coursera
-Issue Date: Jan 2024
-Credential ID: ABCD-1234
-Credential URL: https://coursera.org/verify/xxxx
+Issuing Organization: *Microsoft*
+Issue Date: *Nov 6th, 2025*
+Credential ID: *9344214*
+Credential URL: *https://simpli-web.app.link/e/cJ5Wj11AmYb*
 
 **Introduction to Microsoft Excel** from **Simplilearn**, conducted in collaboration with **Microsoft**, one of the world’s leading technology organizations.  
 This certification marks a significant step in strengthening my expertise in **data analysis, reporting, and business intelligence**, empowering me to use Excel as a powerful analytical tool.
@@ -215,12 +215,12 @@ Completing this course has strengthened my confidence in **Excel-based data anal
 
 ---
 
-## <span id="power query in excel">✅ Introduction to Power Query in Excel Basics (*Microsoft, Nov 2025*)</span>
+## <span id="power query in excel">✅ Introduction to Power Query in Excel Basics</span>
 
-Issuing Organization: Coursera
-Issue Date: Jan 2024
-Credential ID: ABCD-1234
-Credential URL: https://coursera.org/verify/xxxx
+Issuing Organization: *Microsoft*
+Issue Date: *Nov 7th, 2025*
+Credential ID: *9346781*
+Credential URL: *https://simpli-web.app.link/e/1hTHLVqBmYb*
 
 **Introduction to Power Query in Excel Basics** from **Simplilearn**, conducted in collaboration with **Microsoft**, a global leader in technology and data solutions.  
 This certification represents my advancement in **data automation and transformation**, enhancing my ability to prepare, clean, and manage complex datasets efficiently within Excel.
@@ -236,12 +236,12 @@ Offered by **Simplilearn** and **conducted by Microsoft**, this hands-on course 
 
 ---
 
-## <span id="databricks-sql">✅ SQL Analytics and BI on Databricks (*Databricks, Nov 2025*)</span>
+## <span id="databricks-sql">✅ SQL Analytics and BI on Databricks</span>
 
-Issuing Organization: Coursera
-Issue Date: Jan 2024
-Credential ID: ABCD-1234
-Credential URL: https://coursera.org/verify/xxxx
+Issuing Organization: *Databricks*
+Issue Date: *Nov 7th, 2025*
+Credential ID: *9347648*
+Credential URL: *https://simpli-web.app.link/e/koyAhfyBmYb*
 
 **SQL Analytics and BI on Databricks** from **Simplilearn**, conducted in collaboration with **Databricks**, a global leader in data analytics and AI solutions.  
 This certification represents my advancement in **data analytics, AI, and business intelligence**, enhancing my ability to query, analyze, and visualize complex datasets using the Databricks platform.
@@ -257,12 +257,12 @@ Offered by **Simplilearn** and **conducted by Databricks**, this hands-on course
 
 ---
 
-## <span id="access-essential">✅ Microsoft Access Essential Training (Office 2024_LTSC) (*LinkedIn, Nov 2025*)</span>
+## <span id="access-essential">✅ Microsoft Access Essential Training (*Office 2024_LTSC*)</span>
 
-Issuing Organization: Coursera
-Issue Date: Jan 2024
-Credential ID: ABCD-1234
-Credential URL: https://coursera.org/verify/xxxx
+Issuing Organization: *LinkedIn*
+Issue Date: *Nov 8th, 2025*
+Credential ID: *f661499cf92b6fa9056051ee22a69f8300db6cc692398167def251a884648303*
+Credential URL: *-----*
 
 This certification represents my advancement in **database design, management, and automation** using **Microsoft Access 2024**.  
 I learned how to **create and manage relational databases**, **design efficient data structures**, and **build interactive forms, queries, and reports** to support business data operations.  
@@ -277,122 +277,122 @@ By the end of the course, I was able to **design secure, efficient, and automate
 
 ---
 
-## <span id="essential-excel">✅ Essentials of MS Excel - Formulas and Functions (*Uniathena, Nov 2025*)</span>
+## <span id="essential-excel">✅ Essentials of MS Excel - Formulas and Functions</span>
 
-Issuing Organization: Coursera
-Issue Date: Jan 2024
-Credential ID: ABCD-1234
-Credential URL: https://coursera.org/verify/xxxx
+Issuing Organization: *Uniathena*
+Issue Date: *Nov 9th, 2025*
+Credential ID: *1124-4430-9810*
+Credential URL: *https://docs.uniathena.com/prod/course/certificate/814_1762676336_certificate.jpg*
 
 ![Essentials of MS Excel certification](Essentials%20Excel.png)
 
 ---
 
-## <span id="introduction-sql">✅ Introduction to SQL (*Simplilearn, Nov 2025*)</span>
+## <span id="introduction-sql">✅ Introduction to SQL</span>
 
-Issuing Organization: Coursera
-Issue Date: Jan 2024
-Credential ID: ABCD-1234
-Credential URL: https://coursera.org/verify/xxxx
+Issuing Organization: *Simplilearn*
+Issue Date: *Nov 9th, 2025*
+Credential ID: *9364736*
+Credential URL: *https://simpli-web.app.link/e/Ea7LK16BmYb*
 
 ![Introduction to SQL certification](Introduction%20SQL.png)
 
 ---
 
-## <span id="excel-dashboard">✅ Excel Dashboard for Beginners (*Microsoft, Nov 2025*)</span>
+## <span id="excel-dashboard">✅ Excel Dashboard for Beginners</span>
 
-Issuing Organization: Coursera
-Issue Date: Jan 2024
-Credential ID: ABCD-1234
-Credential URL: https://coursera.org/verify/xxxx
+Issuing Organization: *Microsoft*
+Issue Date: *Nov 11th, 2025*
+Credential ID: *9373067*
+Credential URL: *https://simpli-web.app.link/e/2KbK36JscYb*
 
 ![Excel Dashboard for Beginners certification](Excel%20Dashboard.png)
 
 ---
 
-## <span id="da-postgresql">✅ Data Analysis with PostgreSQL (*LinkedIn, Nov 2025*)</span>
+## <span id="da-postgresql">✅ Data Analysis with PostgreSQL</span>
 
-Issuing Organization: Coursera
-Issue Date: Jan 2024
-Credential ID: ABCD-1234
-Credential URL: https://coursera.org/verify/xxxx
+Issuing Organization: *LinkedIn*
+Issue Date: *Nov 11th, 2025*
+Credential ID: *3801a7f10b05c33617c997a86b03bebccf88f8f87f9300c5db7b45dd2fdf78a7*
+Credential URL: *-----*
 
 ![Data Analysis with PostgreSQL certification](DA%20PostgreSQL.png)
 
 ---
 
-## <span id="powerbi-beginners">✅ Power BI for Beginners (*Microsoft, Nov 2025*)</span>
+## <span id="powerbi-beginners">✅ Power BI for Beginners</span>
 
-Issuing Organization: Coursera
-Issue Date: Jan 2024
-Credential ID: ABCD-1234
-Credential URL: https://coursera.org/verify/xxxx
+Issuing Organization: *Microsoft*
+Issue Date: *Nov 12th, 2025*
+Credential ID: *9381754*
+Credential URL: *https://simpli-web.app.link/e/VLgIKIsleYb*
 
 ![Power BI for Beginners certification](PowerBI%20Beginners.png)
 
 ---
 
-## <span id="data-analyst-101">✅ Data Analyst 101 (*Microsoft, Nov 2025*)</span>  
+## <span id="data-analyst-101">✅ Data Analyst 101</span>  
 
-Issuing Organization: Coursera
-Issue Date: Jan 2024
-Credential ID: ABCD-1234
-Credential URL: https://coursera.org/verify/xxxx
+Issuing Organization: *Microsoft*
+Issue Date: *Nov 12th, 2025*
+Credential ID: *9383334*
+Credential URL: *https://simpli-web.app.link/e/mklw1d0reYb*
 
 ![Data Analyst 101 certification](Data%20Analyst101.png)
 
 ---
 
-## <span id="data-visualization-using-ms-excel">✅ Essentials of Data Visualization using MS Excel (*Uniathena, Nov 2025*)</span> 
+## <span id="data-visualization-using-ms-excel">✅ Essentials of Data Visualization using MS Excel</span> 
 
-Issuing Organization: Coursera
-Issue Date: Jan 2024
-Credential ID: ABCD-1234
-Credential URL: https://coursera.org/verify/xxxx
+Issuing Organization: *Uniathena*
+Issue Date: *Nov 13th, 2025*
+Credential ID: *8182-4734-1243*
+Credential URL: *https://docs.uniathena.com/prod/course/certificate/124_1763028743_certificate.jpg*
 
 ![Data Visualization using MS Excel certification](Data%20Visualization%20using%20MS%20Excel.png)
 
 --- 
 
-## <span id="introduction-to-business-communication">✅ Introduction to Business Communication (*Simplilearn, Nov 2025*)</span>  
+## <span id="introduction-to-business-communication">✅ Introduction to Business Communication</span>  
 
-Issuing Organization: Coursera
-Issue Date: Jan 2024
-Credential ID: ABCD-1234
-Credential URL: https://coursera.org/verify/xxxx
+Issuing Organization: *Simplilearn*
+Issue Date: *Nov 13th, 2025*
+Credential ID: *9394969*
+Credential URL: *https://simpli-web.app.link/e/RiZzAxALgYb*
 
 ![Introduction to Business Communication certification](Introduction%20to%20Business%20Communication.png)
 
 ---
 
-## <span id="introduction-to-data-analytics">✅ Introduction to Data Analytics (*Simplilearn, Nov 2025*)</span>  
+## <span id="introduction-to-data-analytics">✅ Introduction to Data Analytics</span>  
 
-Issuing Organization: Coursera
-Issue Date: Jan 2024
-Credential ID: ABCD-1234
-Credential URL: https://coursera.org/verify/xxxx
+Issuing Organization: *Simplilearn*
+Issue Date: *Nov 14th, 2025*
+Credential ID: *9398054*
+Credential URL: *https://simpli-web.app.link/e/3pdOKncOhYb*
 
 ![Introduction to Data Analytics certification](Introduction%20to%20Data%20Analytics.png)
 
 ---
 
-## <span id="google-sheets-advanced-topics">✅ Google Sheets - Advanced Topics (*Google Cloud, Nov 2025*)</span>  
+## <span id="google-sheets-advanced-topics">✅ Google Sheets - Advanced Topics</span>  
 
-Issuing Organization: Coursera
-Issue Date: Jan 2024
-Credential ID: ABCD-1234
-Credential URL: https://coursera.org/verify/xxxx
+Issuing Organization: *Google Cloud*
+Issue Date: *Nov 15th, 2025*
+Credential ID: *9403157*
+Credential URL: *https://simpli-web.app.link/e/tXlwquxjjYb*
 
 ![Google Sheets - Advanced Topics certification](Google%20Sheets%20-%20Advanced%20Topics.png)
 
 ---
 
-## <span id="data-visualization-with-tableau">✅ Basics of Data Visualization with Tableau (*Uniathena, Nov 2025*)</span> 
+## <span id="data-visualization-with-tableau">✅ Basics of Data Visualization with Tableau</span> 
 
-Issuing Organization: Coursera
-Issue Date: Jan 2024
-Credential ID: ABCD-1234
-Credential URL: https://coursera.org/verify/xxxx
+Issuing Organization: *Uniathena*
+Issue Date: *Nov 17th, 2025*
+Credential ID: *3540-3029-6890*
+Credential URL: *https://docs.uniathena.com/prod/course/certificate/348_1763361663_certificate.jpg*
 
 ![Basics of Data Visualization with Tableau certification](Data%20Visualization%20With%20Tableau.png)
 
