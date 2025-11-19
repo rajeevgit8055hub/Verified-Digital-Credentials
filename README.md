@@ -26,6 +26,7 @@
 - <a href="#introduction-to-data-analytics">*✅ Introduction to Data Analytics* (*Simplilearn, Nov 2025*)</a>
 - <a href="#google-sheets-advanced-topics">*✅ Google Sheets - Advanced Topics* (*Google Cloud, Nov 2025*)</a>
 - <a href="#data-visualization-with-tableau">*✅ Basics of Data Visualization with Tableau* (*Uniathena, Nov 2025*)</a>
+- <a href="#web-app-development">*✅ Master AI for Web App Development* (*Simplilearn, Nov 2025*)</a>
 - <a href="#final-note">*📌 Final Note*</a>  
 - <a href="#contact">*📬 Connect with Me*</a>    
 
@@ -223,6 +224,14 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 
 ---
 
+<span id="web-app-development">***✅ Master AI for Web App Development*** (*Uniathena, Nov 2025*)</span> 
+
+[*Show Credential↗*](https://simpli.app.link/fIsOl06oqYb)
+
+![Master AI for Web App Development certification](Web%20App%20Development.png)
+
+---
+
 ## <span id="final-note">📌 Final Note</span>  
 
 This repository serves as a secure, well-organized archive of my verified credentials, providing clear proof of my dedication to lifelong learning and continuous upskilling. Each credential demonstrates how I acquire relevant skills and apply them to deliver practical, high-quality work, reflecting my commitment to grow as a professional who can adapt, contribute, and add value in every role.
@@ -240,18 +249,3 @@ This repository serves as a secure, well-organized archive of my verified creden
 🤝 ***Thank you for visiting my profile & Verified-Digital-Credentials repository!***
 
 ---
-
-
-
-<!-- https://simpli.app.link/fIsOl06oqYb
-
- Thank you, #SkillUp by #Simplilearn 🙌 
- 📢 I am super excited to share that I’ve just completed Master AI for Web App Development. 🎓
-
- I had a great experience learning industry aligned skills of Generative AI 
-
- I’d recommend #SkillUp by #Simplilearn to anyone looking to learn today’s in-demand professional skills. Keep learning and adding the valued certificates to your professional portfolio. 🌟
-
- Explore 200+ free courses: https://www.simplilearn.com/skillup-free-online-courses?utm_source=shared-certificate&utm_medium=skillup-home-social-share&utm_campaign=shared-certificate-homepage-promotion 
-
- #Upskilling #generativeai #Certification #JobReady #SkillUpBySimplilearn
