@@ -97,15 +97,7 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 
 <span id="github">***✅ GitHub Basics*** (*Simplilearn, Nov 2025*)</span>
 
-*Show Credential↗* *https://simpli-web.app.link/e/Or633oKAmYb*
-
-[***Show Credential↗***](https://simpli-web.app.link/e/RiZzAxALgYb)
-
 [*Show Credential↗*](https://simpli-web.app.link/e/RiZzAxALgYb)
-
-[**Show Credential↗**](https://simpli-web.app.link/e/RiZzAxALgYb)
-
-
 
 ![GitHub Basics Certification](GitHub%20Basics.png)
 
@@ -114,6 +106,8 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 <span id="excel">***✅ Introduction to MS Excel*** (*Microsoft, Nov 2025*)</span>
 
 *Show Credential↗* *https://simpli-web.app.link/e/cJ5Wj11AmYb*
+
+[*Show Credential↗*](https://simpli-web.app.link/e/cJ5Wj11AmYb)
 
 ![Introduction to MS Excel certification](Introduction%20Excel.png)
 
