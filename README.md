@@ -240,3 +240,18 @@ This repository serves as a secure, well-organized archive of my verified creden
 🤝 ***Thank you for visiting my profile & Verified-Digital-Credentials repository!***
 
 ---
+
+
+
+<!-- https://simpli.app.link/fIsOl06oqYb
+
+ Thank you, #SkillUp by #Simplilearn 🙌 
+ 📢 I am super excited to share that I’ve just completed Master AI for Web App Development. 🎓
+
+ I had a great experience learning industry aligned skills of Generative AI 
+
+ I’d recommend #SkillUp by #Simplilearn to anyone looking to learn today’s in-demand professional skills. Keep learning and adding the valued certificates to your professional portfolio. 🌟
+
+ Explore 200+ free courses: https://www.simplilearn.com/skillup-free-online-courses?utm_source=shared-certificate&utm_medium=skillup-home-social-share&utm_campaign=shared-certificate-homepage-promotion 
+
+ #Upskilling #generativeai #Certification #JobReady #SkillUpBySimplilearn
