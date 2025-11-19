@@ -224,7 +224,7 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 
 ---
 
-<span id="web-app-development">***✅ Master AI for Web App Development*** (*Uniathena, Nov 2025*)</span> 
+<span id="web-app-development">***✅ Master AI for Web App Development*** (*Simplilearn, Nov 2025*)</span> 
 
 [*Show Credential↗*](https://simpli.app.link/fIsOl06oqYb)
 
