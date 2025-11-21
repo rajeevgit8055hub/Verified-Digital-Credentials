@@ -27,7 +27,7 @@
 - <a href="#google-sheets-advanced-topics">*✅ Google Sheets - Advanced Topics* (*Google Cloud, Nov 2025*)</a>
 - <a href="#data-visualization-with-tableau">*✅ Basics of Data Visualization with Tableau* (*Uniathena, Nov 2025*)</a>
 - <a href="#web-app-development">*✅ Master AI for Web App Development* (*Simplilearn, Nov 2025*)</a>
-- <a href="#chatGPT-advanced-course">*✅ ✅ ChatGPT Advanced Course* (*Simplilearn, Nov 2025*)</a>
+- <a href="#chatGPT-advanced-course">*✅ ChatGPT Advanced Course* (*Simplilearn, Nov 2025*)</a>
 - <a href="#final-note">*📌 Final Note*</a>  
 - <a href="#contact">*📬 Connect with Me*</a>    
 
