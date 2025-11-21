@@ -27,6 +27,7 @@
 - <a href="#google-sheets-advanced-topics">*✅ Google Sheets - Advanced Topics* (*Google Cloud, Nov 2025*)</a>
 - <a href="#data-visualization-with-tableau">*✅ Basics of Data Visualization with Tableau* (*Uniathena, Nov 2025*)</a>
 - <a href="#web-app-development">*✅ Master AI for Web App Development* (*Simplilearn, Nov 2025*)</a>
+- <a href="#chatGPT-advanced-course">*✅ ✅ ChatGPT Advanced Course* (*Simplilearn, Nov 2025*)</a>
 - <a href="#final-note">*📌 Final Note*</a>  
 - <a href="#contact">*📬 Connect with Me*</a>    
 
@@ -229,6 +230,14 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 [*Show Credential↗*](https://simpli.app.link/fIsOl06oqYb)
 
 ![Master AI for Web App Development certification](Web%20App%20Development.png)
+
+---
+
+<span id="chatGPT-advanced-course">***✅ ChatGPT Advanced Course*** (*Simplilearn, Nov 2025*)</span> 
+
+[*Show Credential↗*](https://simpli-web.app.link/e/ljhJ5gvOtYb)
+
+![ChatGPT Advanced Course certification](Web%20App%20Development.png)
 
 ---
 
