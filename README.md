@@ -237,7 +237,7 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 
 [*Show Credential↗*](https://simpli-web.app.link/e/ljhJ5gvOtYb)
 
-![ChatGPT Advanced Course certification](Web%20App%20Development.png)
+![ChatGPT Advanced Course certification](ChatGPT%20Advanced%20Course.png)
 
 ---
 
