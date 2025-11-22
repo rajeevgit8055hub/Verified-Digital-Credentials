@@ -67,7 +67,7 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 
 ![ADCA certification](ADCA.png)
 
----
+--- 
 
 <span id="ms-office">***✅ Microsoft Office Crash Course*** (*Skill Course, Jul 2025*)</span> 
 
