@@ -3,7 +3,6 @@
 - <a href="#introduction">*📌 Introduction*</a>  
 - <a href="#overview">*📜 Certification Overview*</a>  
 - <a href="#ccc">*✅ CCC – Course on Computer Concepts* (*NIELIT, Jun 2023*)</a>  
-- <a href="#tally-prime">*✅ Tally Prime with GST* (*Skill Course, Apr 2024*)</a>  
 - <a href="#adca">*✅ ADCA – Advance Diploma in Computer Application* (*Skill Course, Oct 2024*)</a>  
 - <a href="#ms-office">*✅ Microsoft Office Crash Course* (*Skill Course, Jul 2025*)</a>  
 - <a href="#excel-ai">*✅ ChatGPT in Excel* (*Skill Course, Jul 2025*)</a>  
@@ -52,12 +51,6 @@ It covered **computer basics, Microsoft Office, email, networking, and cybersecu
 This milestone sparked my interest to explore **advanced software, data tools, and programming**.
 
 ![CCC certification](CCC.png)
-
----
-
-<span id="tally-prime">***✅ Tally Prime with GST*** (*Skill Course, Apr 2024*)</span> 
-
-![Tally Prime certification](Tally%20Prime.png)
 
 ---
 
