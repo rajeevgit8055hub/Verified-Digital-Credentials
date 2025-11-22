@@ -63,6 +63,8 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 
 <span id="adca">***✅ ADCA – Advance Diploma in Computer Application*** (*Skill Course, Oct 2024*)</span> 
 
+[*Show Credential↗*](https://pro.skillcourse.in/verified-certificate/)
+
 ![ADCA certification](ADCA.png)
 
 ---
@@ -95,7 +97,7 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 
 ![Power Query Masterclass certification](PowerQuery.png)
 
----
+--- 
 
 <span id="github">***✅ GitHub Basics*** (*Simplilearn, Nov 2025*)</span>
 
