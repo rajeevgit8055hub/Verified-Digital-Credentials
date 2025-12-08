@@ -50,6 +50,8 @@ My certifications highlight key milestones in my learning journey, from **basic 
 <img alt="Certified" src="Certified.png" />
 </div>
 
+---
+
 <span id="ccc">***✅ CCC – Course on Computer Concepts*** (*NIELIT, Jun 2023*)</span>
 
 Completed in **June 2023**, the **CCC certification** by **NIELIT** laid the foundation for my IT learning journey.  
