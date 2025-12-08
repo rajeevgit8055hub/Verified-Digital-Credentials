@@ -50,6 +50,9 @@ My certifications highlight key milestones in my learning journey, from **basic 
 
 <span id="ccc">***✅ CCC – Course on Computer Concepts*** (*NIELIT, Jun 2023*)</span>
 
+
+<span id="ccc">***<img width="30" alt="Green sign" src="runcheck.gif" />&nbsp;CCC – Course on Computer Concepts*** (*NIELIT, Jun 2023*)</span>
+<span id="ccc">***<img width="30" alt="Green sign" src="colorcheck.gif" />&nbsp;CCC – Course on Computer Concepts*** (*NIELIT, Jun 2023*)</span>
 <span id="ccc">***<img width="30" alt="Green sign" src="ApprovedG.gif" />&nbsp;CCC – Course on Computer Concepts*** (*NIELIT, Jun 2023*)</span>
 <span id="ccc">***<img width="30" alt="Green sign" src="Green Check.gif" />&nbsp;CCC – Course on Computer Concepts*** (*NIELIT, Jun 2023*)</span>
 <span id="ccc">***<img width="30" alt="Green sign" src="Green sign.gif" />&nbsp;CCC – Course on Computer Concepts*** (*NIELIT, Jun 2023*)</span>
