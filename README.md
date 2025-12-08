@@ -3,7 +3,14 @@
 ```verified```
 
 - <a href="#introduction">*📌 Introduction*</a>  
-- <a href="#overview">*📜 Certification Overview*</a>  
+- <a href="#overview">*📜 Certification Overview*</a>
+- <a href="#ccc">*<img width="30" alt="Green sign" src="runcheck.gif" />&nbsp;CCC – Course on Computer Concepts* (*NIELIT, Jun 2023*)</a>
+- <a href="#ccc">*<img width="30" alt="Green sign" src="colorcheck.gif" />&nbsp;CCC – Course on Computer Concepts* (*NIELIT, Jun 2023*)</a>
+- <a href="#ccc">*<img width="30" alt="Green sign" src="ApprovedG.gif" />&nbsp;CCC – Course on Computer Concepts* (*NIELIT, Jun 2023*)</a>
+- <a href="#ccc">*<img width="30" alt="Green sign" src="Green Check.gif" />&nbsp;CCC – Course on Computer Concepts* (*NIELIT, Jun 2023*)</a>
+- <a href="#ccc">*<img width="30" alt="Green sign" src="Green sign.gif" />&nbsp;CCC – Course on Computer Concepts* (*NIELIT, Jun 2023*)</a>
+- <a href="#ccc">*<img width="30" alt="Green sign" src="Green sign.gif" />CCC – Course on Computer Concepts* (*NIELIT, Jun 2023*)</a>
+
 - <a href="#ccc">*✅ CCC – Course on Computer Concepts* (*NIELIT, Jun 2023*)</a>  
 - <a href="#adca">*✅ ADCA – Advance Diploma in Computer Application* (*Skill Course, Oct 2024*)</a>  
 - <a href="#ms-office">*✅ Microsoft Office Crash Course* (*Skill Course, Jul 2025*)</a>  
@@ -52,10 +59,16 @@ My certifications highlight key milestones in my learning journey, from **basic 
 
 
 <span id="ccc">***<img width="30" alt="Green sign" src="runcheck.gif" />&nbsp;CCC – Course on Computer Concepts*** (*NIELIT, Jun 2023*)</span>
+<br>
 <span id="ccc">***<img width="30" alt="Green sign" src="colorcheck.gif" />&nbsp;CCC – Course on Computer Concepts*** (*NIELIT, Jun 2023*)</span>
+<br>
 <span id="ccc">***<img width="30" alt="Green sign" src="ApprovedG.gif" />&nbsp;CCC – Course on Computer Concepts*** (*NIELIT, Jun 2023*)</span>
+<br>
 <span id="ccc">***<img width="30" alt="Green sign" src="Green Check.gif" />&nbsp;CCC – Course on Computer Concepts*** (*NIELIT, Jun 2023*)</span>
+<br>
 <span id="ccc">***<img width="30" alt="Green sign" src="Green sign.gif" />&nbsp;CCC – Course on Computer Concepts*** (*NIELIT, Jun 2023*)</span>
+<br>
+<span id="ccc">***<img width="30" alt="Green sign" src="Green sign.gif" />CCC – Course on Computer Concepts*** (*NIELIT, Jun 2023*)</span>
 
 Completed in **June 2023**, the **CCC certification** by **NIELIT** laid the foundation for my IT learning journey.  
 It covered **computer basics, Microsoft Office, email, networking, and cybersecurity**, with an introduction to **IoT**.  
