@@ -49,7 +49,7 @@ My certifications highlight key milestones in my learning journey, from **basic 
 ---
 
 <div align="center">
-<img width="100" height="500" alt="Certified" src="Certified.png" />
+<img width="1000" height="500" alt="Certified" src="Certified.png" />
 </div>
 
 ---
