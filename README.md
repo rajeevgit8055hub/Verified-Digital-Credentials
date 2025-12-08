@@ -1,5 +1,7 @@
 ## 📑 Table of Contents
 
+```verified```
+
 - <a href="#introduction">*📌 Introduction*</a>  
 - <a href="#overview">*📜 Certification Overview*</a>  
 - <a href="#ccc">*✅ CCC – Course on Computer Concepts* (*NIELIT, Jun 2023*)</a>  
@@ -47,6 +49,8 @@ My certifications highlight key milestones in my learning journey, from **basic 
 ---
 
 <span id="ccc">***✅ CCC – Course on Computer Concepts*** (*NIELIT, Jun 2023*)</span>
+
+<span id="ccc">***<img width="30" alt="Green sign" src="Green sign.gif" />&nbsp;CCC – Course on Computer Concepts*** (*NIELIT, Jun 2023*)</span>
 
 Completed in **June 2023**, the **CCC certification** by **NIELIT** laid the foundation for my IT learning journey.  
 It covered **computer basics, Microsoft Office, email, networking, and cybersecurity**, with an introduction to **IoT**.  
