@@ -4,10 +4,6 @@
 
 - <a href="#introduction">*📌 Introduction*</a>  
 - <a href="#overview">*📜 Certification Overview*</a>
-- <a href="#introduction">*<img width="30" alt="Green sign" src="Certificate1.gif" />📌 Introduction*</a>
-- <a href="#overview">*<img width="30" alt="Green sign" src="Repo.gif" />📜 Certification Overview*</a>
-- <a href="#ccc">*<img width="30" alt="Green sign" src="runcheck.gif" />CCC – Course on Computer Concepts* (*NIELIT, Jun 2023*)</a> 
-
 - <a href="#ccc">*✅ CCC – Course on Computer Concepts* (*NIELIT, Jun 2023*)</a>  
 - <a href="#adca">*✅ ADCA – Advance Diploma in Computer Application* (*Skill Course, Oct 2024*)</a>  
 - <a href="#ms-office">*✅ Microsoft Office Crash Course* (*Skill Course, Jul 2025*)</a>  
@@ -52,8 +48,13 @@ My certifications highlight key milestones in my learning journey, from **basic 
 
 ---
 
+<div align="center">
+<img width="100" height="500" alt="Certified" src="Certified" />
+</div>
+
+---
+
 <span id="ccc">***✅ CCC – Course on Computer Concepts*** (*NIELIT, Jun 2023*)</span>
-<span id="ccc">***<img width="30" alt="Green sign" src="Green sign.gif" />CCC – Course on Computer Concepts*** (*NIELIT, Jun 2023*)</span>
 
 Completed in **June 2023**, the **CCC certification** by **NIELIT** laid the foundation for my IT learning journey.  
 It covered **computer basics, Microsoft Office, email, networking, and cybersecurity**, with an introduction to **IoT**.  
@@ -64,7 +65,6 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 ---
 
 <span id="adca">***✅ ADCA – Advance Diploma in Computer Application*** (*Skill Course, Oct 2024*)</span>
-<span id="adca">***<img width="30" alt="Green sign" src="Green sign.gif" />ADCA – Advance Diploma in Computer Application*** (*Skill Course, Oct 2024*)</span>
 
 [*Show Credential↗*](https://pro.skillcourse.in/verified-certificate/)
 
@@ -263,14 +263,12 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 ---
 
 ## <span id="final-note">📌 Final Note</span>  
-## <span id="final-note"><img width="30" alt="Green sign" src=" Run Web.gif" />Final Note</span>
 
 This repository serves as a secure, well-organized archive of my verified credentials, providing clear proof of my dedication to lifelong learning and continuous upskilling. Each credential demonstrates how I acquire relevant skills and apply them to deliver practical, high-quality work, reflecting my commitment to grow as a professional who can adapt, contribute, and add value in every role.
 
 ---
 
 ## <span id="contact">📬 Connect with Me</span>  
-## <span id="contact"><img width="30" alt="Green sign" src="Contact gif.gif" />Connect with Me/span>
 
 - ✖️ **X**: *[@rajeevtiwari](https://x.com/rajeevtiwariRT)*
 - 📧 **Email**: *[rajeevtiwari8055@gmail.com](mailto:rajeevtiwari8055@gmail.com)*  
