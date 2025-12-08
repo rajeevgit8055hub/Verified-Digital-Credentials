@@ -28,6 +28,7 @@
 - <a href="#web-app-development">*✅ Master AI for Web App Development* (*Simplilearn, Nov 2025*)</a>
 - <a href="#chatGPT-advanced-course">*✅ ChatGPT Advanced Course* (*Simplilearn, Nov 2025*)</a>
 - <a href="#web-development-with-chatGPT">*✅ Introduction to Web Development with ChatGPT* (*Simplilearn, Nov 2025*)</a>
+- <a href="#excel-with-ai">*✅ Microsoft Excel with A.I Masterclass* (*Skill Course, Dec 2025*)</a>
 - <a href="#final-note">*📌 Final Note*</a>  
 - <a href="#contact">*📬 Connect with Me*</a>    
 
@@ -242,6 +243,14 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 [*Show Credential↗*](https://simpli-web.app.link/e/UJ5eZXE7xYb)
 
 ![Introduction to Web Development with ChatGPT certification](Web%20Development%20with%20ChatGPT.png)
+
+---
+
+<span id="excel-with-ai">***✅ Microsoft Excel with A.I Masterclass*** (*Skill Course, Dec 2025*)</span> 
+
+[*Show Credential↗*](https://exam.skillcourse.in/student/view_certificate?uid=SC-A16CB16A61)
+
+![Microsoft Excel with A.I Masterclass certification](Excel%20with%20A.I.png)
 
 ---
 
