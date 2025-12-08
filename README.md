@@ -46,13 +46,9 @@ This repository showcases my **verified credentials** and **professional certifi
 
 My certifications highlight key milestones in my learning journey, from **basic computer concepts** to **Data Analysis** with tools like **Excel, Access, Power Query, SQL, Power BI, Tableau, and VBA**, and also **introductory web technologies**. They reflect my **commitment to practical, real-world skills**, staying updated with **industry tools**, and delivering **high-quality work**.
 
----
-
 <div align="center">
-<img width="1000" height="500" alt="Certified" src="Certified.png" />
+<img alt="Certified" src="Certified.png" />
 </div>
-
----
 
 <span id="ccc">***✅ CCC – Course on Computer Concepts*** (*NIELIT, Jun 2023*)</span>
 
