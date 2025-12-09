@@ -134,7 +134,7 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 
 <span id="access-essential">***✅ Microsoft Access Essential Training*** (*Office 2024/LTSC*) (*LinkedIn, Nov 2025*)</span>
 
-*Show Credential↗* *-----*
+[*Show Credential↗*](https://www.linkedin.com/learning/certificates/f661499cf92b6fa9056051ee22a69f8300db6cc692398167def251a884648303)
 
 ![Microsoft Access Essential Training certification](Access%20Essential.png)
 
@@ -166,7 +166,7 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 
 <span id="da-postgresql">***✅ Data Analysis with PostgreSQL*** (*LinkedIn, Nov 2025*)</span>
 
-*Show Credential↗* *-----*
+[*Show Credential↗*](https://www.linkedin.com/learning/certificates/3801a7f10b05c33617c997a86b03bebccf88f8f87f9300c5db7b45dd2fdf78a7?trk=share_certificate)
 
 ![Data Analysis with PostgreSQL certification](DA%20PostgreSQL.png)
 
