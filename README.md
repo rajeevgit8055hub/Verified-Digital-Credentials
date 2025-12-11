@@ -31,8 +31,9 @@
 - <a href="#chatGPT-advanced-course">*✅ ChatGPT Advanced Course* (*Simplilearn, Nov 2025*)</a>
 - <a href="#web-development-with-chatGPT">*✅ Introduction to Web Development with ChatGPT* (*Simplilearn, Nov 2025*)</a>
 - <a href="#excel-with-ai">*✅ Microsoft Excel with A.I Masterclass* (*Skill Course, Dec 2025*)</a>
+- <a href="#power-bi-marathon">*✅ Power BI Marathon Class* (*Skill Course, Dec 2025*)</a>
 - <a href="#final-note">*📌 Final Note*</a>  
-- <a href="#contact">*📬 Connect with Me*</a>    
+- <a href="#contact">*📬 Connect with Me*</a>     
 
 ---
 
@@ -257,6 +258,14 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 [*Show Credential↗*](https://exam.skillcourse.in/student/view_certificate?uid=SC-A16CB16A61)
 
 ![Microsoft Excel with A.I Masterclass certification](Excel%20with%20A.I.png)
+
+---
+
+<span id="power-bi-marathon">***✅ Power BI Marathon Class*** (*Skill Course, Dec 2025*)</span> 
+
+[*Show Credential↗*](https://exam.skillcourse.in/student/view_certificate?uid=SC-7CF8BB7BD0)
+
+![Power BI Marathon Class certification](Power%20BI%20Marathon%20Class.png)
 
 ---
 
