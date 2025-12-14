@@ -32,8 +32,9 @@
 - <a href="#web-development-with-chatGPT">*✅ Introduction to Web Development with ChatGPT* (*Simplilearn, Nov 2025*)</a>
 - <a href="#excel-with-ai">*✅ Microsoft Excel with A.I Masterclass* (*Skill Course, Dec 2025*)</a>
 - <a href="#power-bi-marathon">*✅ Power BI Marathon Class* (*Skill Course, Dec 2025*)</a>
+- <a href="#canva-essentials">*✅ Canva Essentials* (*Canva, Dec 2025*)</a>
 - <a href="#final-note">*📌 Final Note*</a>  
-- <a href="#contact">*📬 Connect with Me*</a>     
+- <a href="#contact">*📬 Connect with Me*</a>      
 
 ---
 
@@ -266,6 +267,14 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 [*Show Credential↗*](https://exam.skillcourse.in/student/view_certificate?uid=SC-7CF8BB7BD0)
 
 ![Power BI Marathon Class certification](Power%20BI%20Marathon%20Class.png)
+
+---
+
+<span id="canva-essentials">***✅ Canva Essentials*** (*Canva, Dec 2025*)</span>
+
+[*Show Credential↗*](https://www.canva.com/design-school/certification-award/00af1107-539d-4fb5-90ea-259118795a63)
+
+![Canva Essentials certification](Canva%20Essentials.png)
 
 ---
 
