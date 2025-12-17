@@ -33,8 +33,9 @@
 - <a href="#excel-with-ai">*✅ Microsoft Excel with A.I Masterclass* (*Skill Course, Dec 2025*)</a>
 - <a href="#power-bi-marathon">*✅ Power BI Marathon Class* (*Skill Course, Dec 2025*)</a>
 - <a href="#canva-essentials">*✅ Canva Essentials* (*Canva, Dec 2025*)</a>
+- <a href="#coursera-excel">*✅ Getting Started with Microsoft Excel* (*Coursera, Dec 2025*)</a>
 - <a href="#final-note">*📌 Final Note*</a>  
-- <a href="#contact">*📬 Connect with Me*</a>      
+- <a href="#contact">*📬 Connect with Me*</a>       
 
 ---
 
@@ -277,6 +278,14 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 ![Canva Essentials certification](Canva%20Essentials.png)
 
 ---
+
+<span id="coursera-excel">***✅ Getting Started with Microsoft Excel*** (*Canva, Dec 2025*)</span>
+
+[*Show Credential↗*](https://coursera.org/share/4c11d5d9f8af2a718338af7094c6db7c)
+
+![Canva Essentials certification](Coursera%20Excel.png)
+
+--- 
 
 ## <span id="final-note">📌 Final Note</span>  
 
