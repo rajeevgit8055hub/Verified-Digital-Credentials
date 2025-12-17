@@ -281,7 +281,7 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 
 <span id="coursera-excel">***✅ Getting Started with Microsoft Excel*** (*Canva, Dec 2025*)</span>
 
-[*Show Credential↗*](https://coursera.org/share/4c11d5d9f8af2a718338af7094c6db7c)
+[*Show Credential↗*](https://coursera.org/share/2ee50c088cd85c6ad65109682265f466)
 
 ![Canva Essentials certification](Coursera%20Excel.png)
 
