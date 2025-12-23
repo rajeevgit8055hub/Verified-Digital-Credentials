@@ -34,6 +34,8 @@
 - <a href="#power-bi-marathon">*✅ Power BI Marathon Class* (*Skill Course, Dec 2025*)</a>
 - <a href="#canva-essentials">*✅ Canva Essentials* (*Canva, Dec 2025*)</a>
 - <a href="#coursera-excel">*✅ Getting Started with Microsoft Excel* (*Coursera, Dec 2025*)</a>
+- <a href="#generative-ai-studio">*✅ Introduction to Generative AI Studio* (*Google Cloud, Dec 2025*)</a>
+- <a href="#linkedin-learning">*✅ Learning LinkedIn: Power Your Professional Journey* (*LinkedIn, Dec 2025*)</a>
 - <a href="#final-note">*📌 Final Note*</a>  
 - <a href="#contact">*📬 Connect with Me*</a>       
 
@@ -283,9 +285,25 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 
 [*Show Credential↗*](https://coursera.org/share/2ee50c088cd85c6ad65109682265f466)
 
-![Canva Essentials certification](Coursera%20Excel.png)
+![Getting Started with Microsoft Excel certification](Coursera%20Excel.png)
 
 --- 
+
+<span id="generative-ai-studio">***✅ Introduction to Generative AI Studio*** (*Google Cloud, Dec 2025*)</span>
+
+[*Show Credential↗*](https://simpli-web.app.link/e/lMvMqmA7kZb)
+
+![Introduction to Generative AI Studio certification](Generative%20AI%20Studio.png)
+
+---
+
+<span id="linkedin-learning">***✅ Learning LinkedIn: Power Your Professional Journey*** (*LinkedIn, Dec 2025*)</span>
+
+[*Show Credential↗*](https://www.linkedin.com/learning/certificates/f0595812d7efa73b98ef6c8815112461171cdb101961a86f6eda335bc22f0075?trk=share_certificate)
+
+![Learning LinkedIn certification](LinkedIn%20Learning.png)
+
+---
 
 ## <span id="final-note">📌 Final Note</span>  
 
