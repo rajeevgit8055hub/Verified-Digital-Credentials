@@ -322,8 +322,6 @@ This repository serves as a secure, well-organized archive of my verified creden
 </a>
 </div>
 
-🤝 ***Thank you for visiting my profile & Verified-Digital-Credentials repository!***
-
 <!-- 🤝 ***Thanks for visiting my profile!*** -->
 <!-- If you find this repository valuable, consider giving it a **Star** ⭐ on GitHub to support my work. --> 
 
