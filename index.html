@@ -1,0 +1,583 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rajeev's Verified Digital Credentials</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+<style>
+
+/* Floating data points container - behind everything */
+.particles {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none; /* allow clicks through */
+  overflow: hidden;
+  z-index: 0; /* behind all content */
+}
+
+/* Particle itself */
+.particle {
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  background: #00ffff;
+  border-radius: 50%;
+  opacity: 0.6;
+  animation: floatParticle linear infinite;
+}
+
+@keyframes floatParticle {
+  0% {
+    transform: translateY(100vh) translateX(0) scale(0.5);
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(-10vh) translateX(50px) scale(1);
+    opacity: 0;
+  }
+}
+
+/* GALAXY TWINKLING STAR EFFECT */
+.stars, .stars2, .stars3 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+  background-repeat: repeat;
+  background-size: contain;
+  z-index: -1;
+}
+
+.stars {
+  background-image: url("https://www.transparenttextures.com/patterns/stardust.png");
+  animation: twinkling 8s linear infinite;
+  opacity: 0.6;
+}
+
+.stars2 {
+  background-image: url("https://www.transparenttextures.com/patterns/tiny-cross-hatch.png");
+  animation: twinkling 12s linear infinite;
+  opacity: 0.4;
+}
+
+.stars3 {
+  background-image: url("https://www.transparenttextures.com/patterns/stardust.png");
+  animation: twinkling 20s linear infinite;
+  opacity: 0.2;
+}
+
+@keyframes twinkling {
+  0% { opacity: 0.3; }
+  50% { opacity: 0.9; }
+  100% { opacity: 0.3; }
+}
+
+/* Top Right Transparent Date-Time */
+.rt-date-time {
+  position: absolute;
+  top: 95px;
+  right: 20px;
+  text-align: right;
+  font-family: "Poppins", "Segoe UI", Arial, sans-serif;
+  color: mediumslateblue;
+  z-index: 10;
+  background: transparent;
+}
+
+.rt-date-time #current-date {
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.rt-date-time #current-time {
+  font-size: 16px;
+  margin-top: 2px;
+  font-weight: 300;
+}
+
+/* Top Right Transparent contact me - rgba(0,0,0,0.5)*/
+.top-contact-link {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  font-size: 15px;
+  color: cyan;
+  text-decoration: none;
+  z-index: 2000;
+  background: transparent;
+  padding: 6px 12px;
+  border-radius: 10px;
+  backdrop-filter: blur(5px);
+  border: 1px solid cyan;
+  transition: .3s;
+}
+
+.top-contact-link:hover {
+  transform: scale(1.08);
+  color: #00ffff;
+}
+
+body {
+    background: #000;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.hero {
+    background: linear-gradient(90deg, #007bff, #6a0dad); 
+    padding: 120px 20px;
+    text-align: center;
+    color: white; 
+}
+
+.section-title {
+    margin: 50px 0 20px;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Ensure dashboard cards appear above particles - rgba(255,255,255,0.15); - crimson, teal, #4a00e0,*/ 
+.card {
+  position: relative;
+  z-index: 1; /* above particles */
+  background: rgba(255,255,255,0.08);
+  border-radius: 16px;
+  backdrop-filter: blur(10px);
+  transition: transform .4s ease, box-shadow .4s ease;
+  border: 1px solid teal;
+  color: gray;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 8px rgba(0, 255, 255, 0.5);
+}
+
+.card img {
+    width: 100%;
+    /*height: ; thoda bada look */
+    object-fit: contain; /* ❌cut nahi hoga */
+    border-radius: 12px 12px 0 0;
+    background-color: transparent;/* safe background for different shapes */
+}
+
+footer {
+    text-align: center;
+    padding: 30px;
+    background: transparent;   /* #111; */
+    margin-top: 40px;
+}
+
+.social-icons a {
+    font-size: 28px;
+    margin: 0 10px;
+    color: cyan;
+    transition: .3s;
+}
+
+/* Remove underline / hyphen under icons */
+.social-icons a {
+    text-decoration: none !important;
+    border: none !important;
+    line-height: 1 !important;
+    margin: 0 6px; /* 🟢 Icon gap reduced */
+    display: inline-flex;
+    align-items: center;
+}
+
+/* Icons alignment fix */
+.social-icons i {
+    display: inline-block;
+    line-height: 1;
+}
+
+/* Common hover animation for all icons */
+.social-icons a i {
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+/* Scale effect on hover */
+.social-icons a:hover i {
+    transform: scale(1.2);
+}
+
+/* LinkedIn hover - official blue */
+.social-icons a[href*="linkedin"]:hover i {
+    color: #0A66C2;
+}
+
+/* GitHub hover - purple/violet */
+.social-icons a[href*="github"]:hover i {
+    color: #9400D3;
+}
+
+/* Email hover - red */
+.social-icons a[href*="mailto:"]:hover i {
+    color: #FF0000;
+}
+
+/* Telegram hover - official blue */
+.social-icons a[href*="t.me"]:hover i {
+    color: #0088cc;
+}
+
+/* Website hover - gradient blue-purple */
+.social-icons a[href*="https://rajeevtiwari8055.github.io/"]:hover i {
+    background: linear-gradient(45deg, #007bff, #6a0dad);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* X (Twitter) hover - black */
+.social-icons a[href*="x.com"]:hover i {
+    color: white;
+}
+
+</style>
+</head>
+
+<body>
+    
+<!-- GALAXY TWINKLING STAR EFFECT -->
+<div class="stars"></div>
+<div class="stars2"></div>
+<div class="stars3"></div>
+
+<a href="#footer-contact" class="top-contact-link">Contact Me</a>
+
+<section class="hero">
+    <h1>Verified Digital Credentials</h1>
+    <p class="lead">Verified Certifications • Globally Recognized • Official Digital Badges</p>
+</section>
+
+<!-- Date-Time-Status display -->
+<div class="rt-date-time">
+  <div id="current-date"></div>
+  <div id="current-time"></div>
+</div>
+
+<script>
+  function updateDateTime() {
+    const now = new Date();
+
+    const dateOptions = {
+      weekday: "long",
+      year: "numeric",
+      month: "long",
+      day: "numeric"
+    };
+
+    const dateString = now.toLocaleDateString("en-US", dateOptions);
+
+    const timeString = now.toLocaleTimeString("en-US", {
+      hour: "numeric",
+      minute: "numeric",
+      second: "numeric",
+      hour12: true
+    });
+
+    document.getElementById("current-date").innerText = dateString;
+    document.getElementById("current-time").innerText = timeString;
+  }
+
+  setInterval(updateDateTime, 1000);
+  updateDateTime();
+</script>
+
+<h2 class="section-title">Global Learning Certifications<span><img src="images/Certified.png" alt="Certified" style="width:150px"></span></h2>
+
+<div class="container">
+    <div class="row g-4 text-center" id="projects"></div>
+</div>
+
+<footer id="footer-contact">
+    <h4>Contact Me</h4>
+    <div class="social-icons">
+
+<!-- contact me icon start -->  
+ 
+<!-- LinkedIn Official Profile Badge Code (Centered) -->
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+ <div class="badge-base LI-profile-badge" 
+  data-locale="en_US" data-size="medium" 
+  data-theme="dark" data-type="HORIZONTAL" 
+  data-vanity="rajeevtiwari8055" data-version="v1">
+  <a class="badge-base__link LI-simple-link" 
+  href="https://in.linkedin.com/in/rajeevtiwari8055?trk=profile-badge"></a>
+ </div> 
+</div>
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/rajeevtiwari8055" target="_blank"><i class="fab fa-linkedin"></i></a>
+
+<!-- GitHub -->
+<a href="https://github.com/rajeevtiwari8055" target="_blank"><i class="fab fa-github"></i></a>
+
+<!-- Website -->
+<a href="https://rajeevtiwari8055.github.io/" target="_blank"><i class="fas fa-globe"></i></a>
+
+<!-- Email -->
+<a href="mailto:rajeevtiwari8055@gmail.com?subject=Hi%20Rajeev&body=I%20visited%20your%20website%20and%20wanted%20to%20connect%20with%20you!">
+    <i class="fas fa-envelope"></i>
+</a>
+
+<!-- Telegram -->
+<a href="https://t.me/rajeevtiwari8055" target="_blank" class="social-links">
+    <i class="fab fa-telegram-plane"></i>
+</a>
+
+<!-- X (Twitter) -->
+<a href="https://x.com/rajeevtiwariRT" target="_blank"><i class="fab fa-x-twitter"></i></a>
+
+    </div>
+<!-- contact me icon end -->
+   
+<!-- marquee tag on privacy policy -->
+<marquee direction="left" scrollamount="10">
+  <p style="font-weight: 300; font-size: 20px; 
+       background: mediumslateblue; 
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      text-align: center;
+      margin: 20px 0;">
+      Terms & Conditions | Privacy Policy
+  </p>
+</marquee>
+
+<!-- copyright and rights section start -->
+<!-- <p style="font-weight: 300; font-size: 20px; background: linear-gradient(90deg, teal); 
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; color: transparent; display: inline-block;">
+  <span style="font-size: 25px; font-weight: 300; vertical-align: middle;">©</span> 
+  <script>document.write(new Date().getFullYear());</script> This is Rajeev's website. All rights reserved. | This website is made with
+  <span style="color: red;">❤️</span> by 
+  <a href="https://colorlib.com" target="_blank" style="background: linear-gradient(90deg, #007bff, #6a0dad);
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-decoration: none; font-weight: 600;">OpenAI</a>
+</p> -->
+
+<p style="font-weight: 300; font-size: 20px; background: linear-gradient(90deg, teal); 
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; color: transparent; display: inline-block;">
+  <span style="font-size: 25px; font-weight: 300; vertical-align: middle;">©</span> 
+  <script>document.write(new Date().getFullYear());</script> This is Rajeev's website. All rights reserved. | This website is made with
+  <span style="color: red; -webkit-text-fill-color: initial; background-clip: initial;">❤️</span> by 
+  <a href="https://colorlib.com" target="_blank" style="background: linear-gradient(90deg, #007bff, #6a0dad);
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-decoration: none; font-weight: 600;">OpenAI</a>
+</p>
+<!-- copyright & my footer section end -->
+</footer>
+
+<script>
+const dashboardData = [
+
+    {
+        title: "GitHub Basics",
+        img: "images/GitHub%20Basics.png",
+        link: "https://simpli-web.app.link/e/Or633oKAmYb"
+    },
+
+    {
+        title: "Introduction to MS Excel",
+        img: "images/Introduction%20Excel.png",
+        link: "https://simpli-web.app.link/e/cJ5Wj11AmYb"
+    },
+
+    {
+        title: "Introduction to Power Query in Excel Basics",
+        img: "images/Power%20Query%20in%20Excel.png",
+        link: "https://simpli-web.app.link/e/1hTHLVqBmYb"
+    },
+
+    {
+        title: "SQL Analytics and BI on Databricks",
+        img: "images/Databricks%20SQL.png",
+        link: "https://simpli-web.app.link/e/koyAhfyBmYb"
+    },
+
+    {
+        title: "Microsoft Access Essential Training",
+        img: "images/Access%20Essential.png",
+        link: "https://www.linkedin.com/learning/certificates/f661499cf92b6fa9056051ee22a69f8300db6cc692398167def251a884648303"
+    },
+
+    {
+        title: "Essentials of MS Excel - Formulas and Functions",
+        img: "images/Essentials%20Excel.png",
+        link: "https://docs.uniathena.com/prod/course/certificate/814_1762676336_certificate.jpg"
+    },
+
+    {
+        title: "Introduction to SQL",
+        img: "images/Introduction%20SQL.png",
+        link: "https://simpli-web.app.link/e/Ea7LK16BmYb"
+    },
+
+    {
+        title: "Excel Dashboard for Beginners",
+        img: "images/Excel%20Dashboard.png",
+        link: "https://simpli-web.app.link/e/2KbK36JscYb"
+    },
+
+    {
+        title: "Data Analysis with PostgreSQL",
+        img: "images/DA%20PostgreSQL.png",
+        link: "https://www.linkedin.com/learning/certificates/3801a7f10b05c33617c997a86b03bebccf88f8f87f9300c5db7b45dd2fdf78a7?trk=share_certificate"
+    },
+
+    {
+        title: "Power BI for Beginners",
+        img: "images/PowerBI%20Beginners.png",
+        link: "https://simpli-web.app.link/e/VLgIKIsleYb"
+    },
+
+    {
+        title: "Data Analyst 101",
+        img: "images/Data%20Analyst101.png",
+        link: "https://simpli-web.app.link/e/mklw1d0reYb"
+    },
+
+    {
+        title: "Essentials of Data Visualization using MS Excel",
+        img: "images/Data%20Visualization%20using%20MS%20Excel.png",
+        link: "https://docs.uniathena.com/prod/course/certificate/124_1763028743_certificate.jpg"
+    },
+
+    {
+        title: "Introduction to Business Communication",
+        img: "images/Introduction%20to%20Business%20Communication.png",
+        link: "https://simpli-web.app.link/e/RiZzAxALgYb"
+    },
+
+    {
+        title: "Introduction to Data Analytics",
+        img: "images/Introduction%20to%20Data%20Analytics.png",
+        link: "https://simpli-web.app.link/e/3pdOKncOhYb"
+    },
+
+    {
+        title: "Google Sheets - Advanced Topics",
+        img: "images/Google%20Sheets%20-%20Advanced%20Topics.png",
+        link: "https://simpli-web.app.link/e/tXlwquxjjYb"
+    },
+
+    {
+        title: "Basics of Data Visualization with Tableau",
+        img: "images/Data%20Visualization%20With%20Tableau.png",
+        link: "https://docs.uniathena.com/prod/course/certificate/348_1763361663_certificate.jpg"
+    },
+
+    {
+        title: "Master AI for Web App Development",
+        img: "images/Web%20App%20Development.png",
+        link: "https://simpli.app.link/fIsOl06oqYb"
+    },
+
+    {
+        title: "ChatGPT Advanced Course",
+        img: "images/ChatGPT%20Advanced%20Course.png",
+        link: "https://simpli-web.app.link/e/ljhJ5gvOtYb"
+    },
+
+    {
+        title: "Introduction to Web Development with ChatGPT",
+        img: "images/Web%20Development%20with%20ChatGPT.png",
+        link: "https://simpli-web.app.link/e/UJ5eZXE7xYb"
+    },
+
+    {
+        title: "Microsoft Excel with A.I",
+        img: "images/Excel%20with%20A.I.png",
+        link: "https://exam.skillcourse.in/student/view_certificate?uid=SC-A16CB16A61"
+    },
+
+    {
+        title: "Power BI Marathon Class",
+        img: "images/Power%20BI%20Marathon%20Class.png",
+        link: "https://exam.skillcourse.in/student/view_certificate?uid=SC-7CF8BB7BD0"
+    },
+
+    {
+        title: "Canva Essentials",
+        img: "images/Canva%20Essentials.png",
+        link: "https://www.canva.com/design-school/certification-award/00af1107-539d-4fb5-90ea-259118795a63"
+    },
+
+        {
+        title: "Getting Started with Microsoft Excel",
+        img: "images/Coursera%20Excel.png",
+        link: "https://coursera.org/share/2ee50c088cd85c6ad65109682265f466"
+    },
+
+        {
+        title: "Introduction to Generative AI Studio",
+        img: "images/Generative%20AI%20Studio.png",
+        link: "https://simpli-web.app.link/e/lMvMqmA7kZb"
+    },
+
+        {
+        title: "Learning LinkedIn: Power Your Professional Journey",
+        img: "images/LinkedIn%20Learning.png",
+        link: "https://www.linkedin.com/learning/certificates/f0595812d7efa73b98ef6c8815112461171cdb101961a86f6eda335bc22f0075?trk=share_certificate"
+    },
+
+];
+
+const container = document.getElementById("projects");
+
+dashboardData.forEach(item => {
+    container.innerHTML += `
+        <div class="col-md-4">
+            <div class="card">
+                <img src="${item.img}">
+                <div class="p-3">
+                    <h5>${item.title}</h5>
+                    <a href="${item.link}" class="btn btn-outline-info mt-2" target="_blank">
+                        Show Credential↗
+                    </a>
+                </div>
+            </div>
+        </div>
+    `;
+});
+
+// dynamic fly points
+const particleCount = 60; // number of floating points
+const particlesContainer = document.createElement('div');
+particlesContainer.classList.add('particles');
+document.body.appendChild(particlesContainer);
+
+for (let i = 0; i < particleCount; i++) {
+  const particle = document.createElement('div');
+  particle.classList.add('particle');
+
+  // Random starting position and animation duration
+  particle.style.left = `${Math.random() * 100}vw`;
+  particle.style.animationDuration = `${5 + Math.random() * 10}s`;
+  particle.style.width = `${3 + Math.random() * 6}px`;
+  particle.style.height = particle.style.width;
+
+  particlesContainer.appendChild(particle);
+}
+
+</script>
+
+</body>
+</html>
