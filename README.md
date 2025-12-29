@@ -1,6 +1,7 @@
 ## 📑 Table of Contents
 
 ```verified```
+[View my certifications]()
 
 - <a href="#introduction">*📌 Introduction*</a>  
 - <a href="#overview">*📜 Certification Overview*</a>
