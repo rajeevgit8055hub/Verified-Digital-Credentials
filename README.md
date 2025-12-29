@@ -1,7 +1,7 @@
 ## 📑 Table of Contents
 
 ```verified```
-[View my certifications]()
+[View my certifications](https://rajeevtiwari8055.github.io/verified-digital-credentials.github.io/)
 
 - <a href="#introduction">*📌 Introduction*</a>  
 - <a href="#overview">*📜 Certification Overview*</a>
