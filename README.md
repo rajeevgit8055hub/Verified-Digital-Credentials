@@ -1,4 +1,4 @@
-## 📑 Table of Contents
+## 📑 Table of Contents↗
 
 ```verified```
 [View my certifications](https://rajeevtiwari8055.github.io/verified-digital-credentials.github.io/)
