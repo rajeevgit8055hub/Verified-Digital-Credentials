@@ -37,6 +37,9 @@
 - <a href="#coursera-excel">*✅ Getting Started with Microsoft Excel* (*Coursera, Dec 2025*)</a>
 - <a href="#generative-ai-studio">*✅ Introduction to Generative AI Studio* (*Google Cloud, Dec 2025*)</a>
 - <a href="#linkedin-learning">*✅ Learning LinkedIn: Power Your Professional Journey* (*LinkedIn, Dec 2025*)</a>
+- <a href="#linkedin-post">*✅ What to Post on LinkedIn to Stand Out* (*LinkedIn, Jan 2026*)</a>
+- <a href="#linkedin-excel">*✅ Excel Introduction to Formulas & Functions* (*LinkedIn, Jan 2026*)</a>
+- <a href="#linkedin-power-bi">*✅ Power BI Data Modeling with DAX* (*LinkedIn, Jan 2026*)</a>
 - <a href="#final-note">*📌 Final Note*</a>  
 - <a href="#contact">*📬 Connect with Me*</a>       
 
@@ -306,6 +309,30 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 
 ---
 
+<span id="linkedin-post">***✅ What to Post on LinkedIn to Stand Out*** (*LinkedIn, Jan 2026*)</span>
+
+[*Show Credential↗*](https://www.linkedin.com/learning/certificates/f2bb409823f7bd944a959b6afde12df99308541065f5c44608e007049dd870a2)
+
+![Learning LinkedIn certification](images/LinkedIn%20Post.png)
+
+---
+
+<span id="linkedin-excel">***✅ Excel Introduction to Formulas & Functions*** (*LinkedIn, Jan 2026*)</span>
+
+[*Show Credential↗*](https://www.linkedin.com/learning/certificates/1d594cce89908cd5ae7e58c6bf4a41f2d802250ffff935587b3dfbb6c1c14719)
+
+![Learning LinkedIn certification](images/LinkedIn%20Excel.png)
+
+---
+
+<span id="linkedin-power-bi">***✅ Power BI Data Modeling with DAX*** (*LinkedIn, Jan 2026*)</span>
+
+[*Show Credential↗*](https://www.linkedin.com/learning/certificates/0daa59212c205784b27a1667a695cb1640cdbc3cb3c41b752c3a4c16fccd1962)
+
+![Learning LinkedIn certification](images/Data%20Modeling%20with%20DAX.png)
+
+---
+
 ## <span id="final-note">📌 Final Note</span>  
 
 This repository serves as a secure, well-organized archive of my verified credentials, providing clear proof of my dedication to lifelong learning and continuous upskilling. Each credential demonstrates how I acquire relevant skills and apply them to deliver practical, high-quality work, reflecting my commitment to grow as a professional who can adapt, contribute, and add value in every role.
@@ -340,8 +367,5 @@ This repository serves as a secure, well-organized archive of my verified creden
 <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repositories-15k?style=for-the-badge&color=f9c513&logo=github&logoColor=black"/>
 </a>
 </div>
-
-<!-- 🤝 ***Thanks for visiting my profile!*** -->
-<!-- If you find this repository valuable, consider giving it a **Star** ⭐ on GitHub to support my work. --> 
 
 ---
