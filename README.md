@@ -40,6 +40,7 @@
 - <a href="#linkedin-post">*✅ What to Post on LinkedIn to Stand Out* (*LinkedIn, Jan 2026*)</a>
 - <a href="#linkedin-excel">*✅ Excel Introduction to Formulas & Functions* (*LinkedIn, Jan 2026*)</a>
 - <a href="#linkedin-power-bi">*✅ Power BI Data Modeling with DAX* (*LinkedIn, Jan 2026*)</a>
+- <a href="#linkedin-power-bi">*✅ Getting Started with Power BI* (*LinkedIn, Jan 2026*)</a>
 - <a href="#final-note">*📌 Final Note*</a>  
 - <a href="#contact">*📬 Connect with Me*</a>       
 
@@ -61,7 +62,7 @@ My certifications highlight key milestones in my learning journey, from **basic 
 
 ---
 
-<span id="ccc">***✅ CCC – Course on Computer Concepts*** (*NIELIT, Jun 2023*)</span>
+<!-- <span id="ccc">***✅ CCC – Course on Computer Concepts*** (*NIELIT, Jun 2023*)</span>
 
 Completed in **June 2023**, the **CCC certification** by **NIELIT** laid the foundation for my IT learning journey.  
 It covered **computer basics, Microsoft Office, email, networking, and cybersecurity**, with an introduction to **IoT**.  
@@ -331,13 +332,13 @@ This milestone sparked my interest to explore **advanced software, data tools, a
 
 ![Learning LinkedIn certification](images/Data%20Modeling%20with%20DAX.png)
 
----
+--- -->
 
 ## <span id="final-note">📌 Final Note</span>  
 
 This repository serves as a secure, well-organized archive of my verified credentials, providing clear proof of my dedication to lifelong learning and continuous upskilling. Each credential demonstrates how I acquire relevant skills and apply them to deliver practical, high-quality work, reflecting my commitment to grow as a professional who can adapt, contribute, and add value in every role.
 
----
+--- 
 
 ## <span id="contact">📬 Connect with Me</span>
 
