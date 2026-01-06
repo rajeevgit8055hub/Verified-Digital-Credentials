@@ -40,8 +40,11 @@
 - <a href="#linkedin-post">*✅ What to Post on LinkedIn to Stand Out* (*LinkedIn, Jan 2026*)</a>
 - <a href="#linkedin-excel">*✅ Excel Introduction to Formulas & Functions* (*LinkedIn, Jan 2026*)</a>
 - <a href="#linkedin-power-bi">*✅ Power BI Data Modeling with DAX* (*LinkedIn, Jan 2026*)</a>
-- <a href="#linkedin-power-bi">*✅ Getting Started with Power BI* (*LinkedIn, Jan 2026*)</a>
-- <a href="#final-note">*📌 Final Note*</a>  
+- <a href="#linkedin-getting-bi">*✅ Getting Started with Power BI* (*LinkedIn, Jan 2026*)</a>
+- <a href="#chatgpt-bi">*✅ ChatGPT and Power BI* (*LinkedIn, Jan 2026*)</a>
+- <a href="#career-edge">*✅ TCS iON Career Edge - Young Professional* (*TCS iON, Jan 2026*)</a>
+- <a href="#linkedin-data-bi">*✅ Power BI Data Visualization and Dashboard* (*LinkedIn, Jan 2026*)</a>
+- <a href="#final-note">*📌 Final Note*</a> 
 - <a href="#contact">*📬 Connect with Me*</a>       
 
 ---
