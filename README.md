@@ -44,8 +44,12 @@
 - <a href="#chatgpt-bi">*✅ ChatGPT and Power BI* (*LinkedIn, Jan 2026*)</a>
 - <a href="#career-edge">*✅ TCS iON Career Edge - Young Professional* (*TCS iON, Jan 2026*)</a>
 - <a href="#linkedin-data-bi">*✅ Power BI Data Visualization and Dashboard* (*LinkedIn, Jan 2026*)</a>
+- <a href="#linkedin-elt">*✅ Excel Power Query (Get & Transform)* (*LinkedIn, Jan 2026*)</a>
+- <a href="#linkedin-etl-pp">*✅ Excel Working Together with Power Query and Power Pivot* (*LinkedIn, Jan 2026*)</a>
+- <a href="#linkedin-m365">*✅ Getting Started with Microsoft 365* (*LinkedIn, Jan 2026*)</a>
+- <a href="#linkedin-excel-365">*✅ Excel Essential Training (Microsoft 365)* (*LinkedIn, Jan 2026*)</a>
 - <a href="#final-note">*📌 Final Note*</a> 
-- <a href="#contact">*📬 Connect with Me*</a>       
+- <a href="#contact">*📬 Connect with Me*</a>
 
 ---
 
