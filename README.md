@@ -48,6 +48,7 @@
 - <a href="#linkedin-etl-pp">*✅ Excel Working Together with Power Query and Power Pivot* (*LinkedIn, Jan 2026*)</a>
 - <a href="#linkedin-m365">*✅ Getting Started with Microsoft 365* (*LinkedIn, Jan 2026*)</a>
 - <a href="#linkedin-excel-365">*✅ Excel Essential Training (Microsoft 365)* (*LinkedIn, Jan 2026*)</a>
+- <a href="#ws-n8n">*✅ Become an Advanced AI Marketer in 2026* (*WsCube Tech, Jan 2026*)</a>
 - <a href="#final-note">*📌 Final Note*</a> 
 - <a href="#contact">*📬 Connect with Me*</a>
 
