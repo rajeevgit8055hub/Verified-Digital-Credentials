@@ -8,7 +8,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 <style>
-
 /* Floating data points container - behind everything */
 .particles {
   position: fixed;
@@ -26,7 +25,7 @@
   position: absolute;
   width: 6px;
   height: 6px;
-  background: #00ffff;
+  background: gray;
   border-radius: 50%;
   opacity: 0.6;
   animation: floatParticle linear infinite;
@@ -46,43 +45,6 @@
   }
 }
 
-/* GALAXY TWINKLING STAR EFFECT */
-.stars, .stars2, .stars3 {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  display: block;
-  background-repeat: repeat;
-  background-size: contain;
-  z-index: -1;
-}
-
-.stars {
-  background-image: url("https://www.transparenttextures.com/patterns/stardust.png");
-  animation: twinkling 8s linear infinite;
-  opacity: 0.6;
-}
-
-.stars2 {
-  background-image: url("https://www.transparenttextures.com/patterns/tiny-cross-hatch.png");
-  animation: twinkling 12s linear infinite;
-  opacity: 0.4;
-}
-
-.stars3 {
-  background-image: url("https://www.transparenttextures.com/patterns/stardust.png");
-  animation: twinkling 20s linear infinite;
-  opacity: 0.2;
-}
-
-@keyframes twinkling {
-  0% { opacity: 0.3; }
-  50% { opacity: 0.9; }
-  100% { opacity: 0.3; }
-}
-
 /* Top Right Transparent Date-Time */
 .rt-date-time {
   position: absolute;
@@ -96,12 +58,12 @@
 }
 
 .rt-date-time #current-date {
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 300;
 }
 
 .rt-date-time #current-time {
-  font-size: 16px;
+  font-size: 14px;
   margin-top: 2px;
   font-weight: 300;
 }
@@ -112,25 +74,25 @@
   top: 20px;
   right: 20px;
   font-size: 15px;
-  color: cyan;
+  color: inherit;
   text-decoration: none;
   z-index: 2000;
   background: transparent;
   padding: 6px 12px;
   border-radius: 10px;
   backdrop-filter: blur(5px);
-  border: 1px solid cyan;
+  border: 1px solid gray;
   transition: .3s;
 }
 
 .top-contact-link:hover {
   transform: scale(1.08);
-  color: #00ffff;
+  color: teal;
 }
 
 body {
     background: #000;
-    color: white;
+    color: gray;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -138,7 +100,7 @@ body {
     background: linear-gradient(90deg, #007bff, #6a0dad); 
     padding: 120px 20px;
     text-align: center;
-    color: white; 
+    color: inherit; 
 }
 
 .section-title {
@@ -148,16 +110,16 @@ body {
     text-align: center;
 }
 
-/* Ensure dashboard cards appear above particles - rgba(255,255,255,0.15); - crimson, teal, #4a00e0,*/ 
+/* Ensure dashboard cards appear above particles */
 .card {
   position: relative;
   z-index: 1; /* above particles */
   background: rgba(255,255,255,0.08);
-  border-radius: 16px;
+  border-radius: 10px;
   backdrop-filter: blur(10px);
   transition: transform .4s ease, box-shadow .4s ease;
   border: 1px solid teal;
-  color: gray;
+  color: inherit;
 }
 
 .card {
@@ -168,7 +130,7 @@ body {
 
 .card:hover {
     transform: scale(1.05);
-    box-shadow: 0 0 8px rgba(0, 255, 255, 0.5);
+    border: 1px solid #4a4a4a;
 }
 
 .card img {
@@ -179,17 +141,35 @@ body {
     background-color: transparent;/* safe background for different shapes */
 }
 
+/* ===== Card ke andar button styling ===== */
+.card .btn-outline-info {
+  color: teal;                /* dull grey text */
+  border: 1px solid teal;      /* dull grey border */
+  background-color: transparent; /* glass look */
+  font-weight: 400;
+  border-radius: 8px;
+  padding: 6px 14px;
+  transition: all 0.3s ease;
+}
+
+/* ===== Hover effect ===== */
+.card .btn-outline-info:hover {
+  color: inherit;
+  background-color: inherit;       
+  border-color: #4a4a4a;
+}
+
 footer {
     text-align: center;
     padding: 30px;
-    background: transparent;   /* #111; */
+    background: transparent;   
     margin-top: 40px;
 }
 
 .social-icons a {
     font-size: 28px;
     margin: 0 10px;
-    color: cyan;
+    color: teal;
     transition: .3s;
 }
 
@@ -198,7 +178,7 @@ footer {
     text-decoration: none !important;
     border: none !important;
     line-height: 1 !important;
-    margin: 0 6px; /* 🟢 Icon gap reduced */
+    margin: 0 6px;
     display: inline-flex;
     align-items: center;
 }
@@ -209,48 +189,16 @@ footer {
     line-height: 1;
 }
 
-/* Common hover animation for all icons */
+/* Smooth animation */
 .social-icons a i {
     transition: color 0.3s ease, transform 0.3s ease;
 }
 
-/* Scale effect on hover */
+/* Single hover rule */
 .social-icons a:hover i {
+    color: #4a4a4a;
     transform: scale(1.2);
 }
-
-/* LinkedIn hover - official blue */
-.social-icons a[href*="linkedin"]:hover i {
-    color: #0A66C2;
-}
-
-/* GitHub hover - purple/violet */
-.social-icons a[href*="github"]:hover i {
-    color: #9400D3;
-}
-
-/* Email hover - red */
-.social-icons a[href*="mailto:"]:hover i {
-    color: #FF0000;
-}
-
-/* Telegram hover - official blue */
-.social-icons a[href*="t.me"]:hover i {
-    color: #0088cc;
-}
-
-/* Website hover - gradient blue-purple */
-.social-icons a[href*="https://rajeevtiwari8055.github.io/"]:hover i {
-    background: linear-gradient(45deg, #007bff, #6a0dad);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-
-/* X (Twitter) hover - black */
-.social-icons a[href*="x.com"]:hover i {
-    color: white;
-}
-
 </style>
 </head>
 
@@ -351,27 +299,40 @@ footer {
 
     </div>
 <!-- contact me icon end -->
-   
-<!-- marquee tag on privacy policy -->
-<marquee direction="left" scrollamount="10">
-  <p style="font-weight: 300; font-size: 20px; 
-       background: teal; 
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      text-align: center;
-      margin: 20px 0;">
-      Terms & Conditions | Privacy Policy
-  </p>
-</marquee>
 
+<p class="footer-links">
+  <a href="terms.html" class="footer-link" target="_blank">Terms & Conditions↗</a> |  
+  <a href="privacy.html" class="footer-link" target="_blank">Privacy Policy↗</a>
+</p>
+
+<style>
+.footer-links {
+  font-weight: 300;
+  font-size: 20px;
+  text-align: center;
+  margin: 20px 0;
+
+  background: linear-gradient(90deg, gray);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.footer-link {
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  -webkit-text-fill-color: #1a73e8;
+  text-decoration: underline;
+}
+</style>
 <!-- copyright and rights section start -->
- <p style="font-weight: 300; font-size: 20px; background: linear-gradient(90deg, teal); 
+<p style="font-weight: 300; font-size: 20px; background: linear-gradient(90deg, gray); 
   -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; color: transparent; display: inline-block;">
-  <span style="font-size: 20px; font-weight: 300; vertical-align: middle;">©</span> 
-  <script>document.write(new Date().getFullYear());</script> This is Rajeev's website. All rights reserved. | This website is made with ❤️ by 
-  <a href="https://colorlib.com" target="_blank" style="background: linear-gradient(90deg, teal);
-    -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-decoration: none; font-weight: 600;">OpenAI</a>
-</p> 
+  <span style="font-size: 25px; font-weight: 300; vertical-align: middle;">©</span> 
+  <script>document.write(new Date().getFullYear());</script> Rajeev's website | All rights reserved
+</p>
+</footer>
 
 <script>
 const dashboardData = [
