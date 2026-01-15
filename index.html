@@ -25,7 +25,7 @@
   position: absolute;
   width: 6px;
   height: 6px;
-  background: gray;
+  background: teal;
   border-radius: 50%;
   opacity: 0.6;
   animation: floatParticle linear infinite;
@@ -52,7 +52,7 @@
   right: 20px;
   text-align: right;
   font-family: "Poppins", "Segoe UI", Arial, sans-serif;
-  color: mediumslateblue;
+  color: black;
   z-index: 10;
   background: transparent;
 }
@@ -131,6 +131,7 @@ body {
 .card:hover {
     transform: scale(1.05);
     border: 1px solid #4a4a4a;
+    color:teal;
 }
 
 .card img {
@@ -154,7 +155,7 @@ body {
 
 /* ===== Hover effect ===== */
 .card .btn-outline-info:hover {
-  color: inherit;
+  color: #1a73e8;
   background-color: inherit;       
   border-color: #4a4a4a;
 }
@@ -164,6 +165,26 @@ footer {
     padding: 30px;
     background: transparent;   
     margin-top: 40px;
+}
+
+.footer-links {
+  font-weight: 300;
+  font-size: 20px;
+  text-align: center;
+  margin: 20px 0;
+
+  background: linear-gradient(90deg, gray);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.footer-link {
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  -webkit-text-fill-color: #1a73e8;
+  text-decoration: underline;
 }
 
 .social-icons a {
@@ -203,11 +224,6 @@ footer {
 </head>
 
 <body>
-    
-<!-- GALAXY TWINKLING STAR EFFECT -->
-<div class="stars"></div>
-<div class="stars2"></div>
-<div class="stars3"></div>
 
 <a href="#footer-contact" class="top-contact-link">Contact Me</a>
 
@@ -297,35 +313,14 @@ footer {
 <!-- X (Twitter) -->
 <a href="https://x.com/rajeevtiwariRT" target="_blank"><i class="fab fa-x-twitter"></i></a>
 
-    </div>
+</div>
 <!-- contact me icon end -->
 
 <p class="footer-links">
-  <a href="terms.html" class="footer-link" target="_blank">Terms & Conditions↗</a> |  
-  <a href="privacy.html" class="footer-link" target="_blank">Privacy Policy↗</a>
+  <a href="terms.html" class="footer-link" target="_blank">Terms & Conditions</a> |  
+  <a href="privacy.html" class="footer-link" target="_blank">Privacy Policy</a>
 </p>
 
-<style>
-.footer-links {
-  font-weight: 300;
-  font-size: 20px;
-  text-align: center;
-  margin: 20px 0;
-
-  background: linear-gradient(90deg, gray);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
-.footer-link {
-  text-decoration: none;
-}
-
-.footer-link:hover {
-  -webkit-text-fill-color: #1a73e8;
-  text-decoration: underline;
-}
-</style>
 <!-- copyright and rights section start -->
 <p style="font-weight: 300; font-size: 20px; background: linear-gradient(90deg, gray); 
   -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; color: transparent; display: inline-block;">
